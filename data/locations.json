@@ -133,26 +133,6 @@
     "requires": "|Neil Cipher|"
   },
   {
-    "name": "Starting Character",
-    "category": [
-      "Starting Items"
-    ],
-    "requires": [],
-    "place_item_category": [
-      "Character"
-    ]
-  },
-  {
-    "name": "Starting Era",
-    "category": [
-      "Starting Items"
-    ],
-    "requires": [],
-    "place_item_category": [
-      "Era"
-    ]
-  },
-  {
     "name": "Different Forums",
     "region": "Losers Round 1",
     "category": [
