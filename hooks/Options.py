@@ -25,15 +25,24 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+class Starting_Characters(Range):
+    """Number of characters to randomly add to the starting inventory.
+    Note that these also contribute to the goal character count."""
+    range_start = 1
+    range_end = 6
+    default = 3
+
+class Goal_Characters(Range):
+    """Number of characters required to goal.
+    You will still need one of either The Essence or Extra Essence for fun"""
+    range_start = 0
+    range_end = 32
+    default = 24
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["starting_characters"] = Starting_Characters
+    options["goal_characters"] = Goal_Characters
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

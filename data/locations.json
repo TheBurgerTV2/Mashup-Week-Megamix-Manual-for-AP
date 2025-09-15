@@ -5,7 +5,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "|@Character:24| AND |@Goal MacGuffin:1| "
+    "requires": "{victory_rule()} AND |@Goal MacGuffin:1| "
   },
   {
     "name": "Whatmageddon",

@@ -5,6 +5,15 @@ from BaseClasses import MultiWorld, CollectionState
 
 import re
 
+# Victory Rule
+def victory_rule(world: World):
+    """Calculates Victory"""
+    comp = world.options.goal_characters.value
+
+    logic = f"|@Character:{comp}|"
+
+    return logic
+
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
 # Define a function here, and you can use it in a requires string with {function_name()}.
 def overfishedAnywhere(world: World, state: CollectionState, player: int):

@@ -70,17 +70,17 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    # Use this hook to remove items from the item pool
-    itemNamesToRemove: list[str] = [] # List of item names
 
-    # Add your code here to calculate which items to remove.
-    #
-    # Because multiple copies of an item can exist, you need to add an item name
-    # to the list multiple times if you want to remove multiple copies of it.
+    # Starting Items
+    starting_characters = world.options.starting_characters.value
 
-    for itemName in itemNamesToRemove:
-        item = next(i for i in item_pool if i.name == itemName)
-        item_pool.remove(item)
+    #print(item_pool)
+    starting_item_names = [name for name, i in world.item_name_to_item.items() if "Character" in i.get("category", [])]
+
+    for _ in range(starting_characters):
+        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_item_names and i.player == player])
+        multiworld.push_precollected(chosen_item)
+        item_pool.remove(chosen_item)
 
     return item_pool
 
