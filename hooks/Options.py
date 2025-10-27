@@ -39,10 +39,20 @@ class Goal_Characters(Range):
     range_end = 32
     default = 24
 
+class EnableRickHentai(Toggle):
+    """Are Rick Hentai's songs enabled?"""
+    default = False
+
+class EnableLilDarkie(Toggle):
+    """Are Lil Darkie's songs enabled?"""
+    default = False
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["starting_characters"] = Starting_Characters
     options["goal_characters"] = Goal_Characters
+    options["enable_rick_hentai"] = EnableRickHentai
+    options["enable_lil_darkie"] = EnableLilDarkie
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
