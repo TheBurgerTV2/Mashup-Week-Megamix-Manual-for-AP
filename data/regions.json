@@ -18,5 +18,9 @@
   "Winners Round 2": {
     "connects_to": [],
     "requires": "|Winners Round 2|"
+  },
+  "Losers Round 2": {
+    "connects_to": [],
+    "requires": "|Losers Round 2|"
   }
 }

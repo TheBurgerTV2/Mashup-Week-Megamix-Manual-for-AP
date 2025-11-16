@@ -57,7 +57,7 @@
   },
   {
     "count": 1,
-    "name": "PLAYING WITH POWER!",
+    "name": "Playing With Power!",
     "category": [
       "Character"
     ],
@@ -89,7 +89,7 @@
   },
   {
     "count": 1,
-    "name": "The Ruler of Everything",
+    "name": "Ruler of Everything",
     "category": [
       "Character"
     ],
@@ -344,23 +344,35 @@
     "useful": true
   },
   {
-    "count": "86",
+    "count": "95",
     "name": "+1 Mashup Point™",
+    "category": [],
     "filler": true
   },
   {
-    "count": "86",
+    "count": "95",
     "name": "Random Guest Character Stock Icon",
+    "category": [],
     "filler": true
   },
   {
-    "count": "86",
+    "count": "96",
     "name": "A Responsible Vote",
+    "category": [],
     "filler": true
   },
   {
-    "count": "86",
+    "count": "95",
     "name": "check if they changed the name of the tyler and the grinch support channel",
+    "category": [],
     "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Losers Round 2",
+    "category": [
+      "Era"
+    ],
+    "progression": true
   }
 ]

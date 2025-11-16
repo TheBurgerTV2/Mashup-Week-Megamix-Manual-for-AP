@@ -20,9 +20,9 @@
     "region": "Pre-Bracket",
     "category": [
       "Neil Cipher",
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|Neil Cipher| AND |The Ruler of Everything|"
+    "requires": "|Neil Cipher| AND |Ruler of Everything|"
   },
   {
     "name": "The All-Seeing, All-Knowing Eye",
@@ -38,9 +38,9 @@
     "category": [
       "Neil Cipher",
       "Forum Freakshow",
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|Neil Cipher| AND |Forum Freakshow| AND |PLAYING WITH POWER!|"
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND |Playing With Power!|"
   },
   {
     "name": "Dead Nerves",
@@ -72,11 +72,11 @@
       "Cadence",
       "Guzma",
       "Neil Cipher",
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Reanimatedd",
       "Rick Hentai"
     ],
-    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |PLAYING WITH POWER!| AND |Reanimatedd| AND |Rick Hentai|"
+    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |Playing With Power!| AND |Reanimatedd| AND |Rick Hentai|"
   },
   {
     "name": "The Bust-Inator",
@@ -542,14 +542,14 @@
     "category": [
       "Lofi Girl",
       "Lil Darkie",
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "MTT! Tour",
       "Guzma",
       "Forum Freakshow",
       "Gustavo Rocque",
       "Kid Cobra"
     ],
-    "requires": "|Lofi Girl| AND |Lil Darkie| AND |PLAYING WITH POWER!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra|"
+    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra|"
   },
   {
     "name": "My Name Is Cobra",
@@ -1033,180 +1033,180 @@
     "name": "Now Entering [A] : ...",
     "region": "Pre-Bracket",
     "category": [
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|PLAYING WITH POWER!|"
+    "requires": "|Playing With Power!|"
   },
   {
     "name": "rode here on the vines",
     "region": "Pre-Bracket",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Painful Dreamers"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Painful Dreamers|"
+    "requires": "|Playing With Power!| AND |Painful Dreamers|"
   },
   {
     "name": "Let's Make a Chocolate Island !!",
     "region": "Pre-Bracket",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Snailiens"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Snailiens|"
+    "requires": "|Playing With Power!| AND |Snailiens|"
   },
   {
     "name": "Pharmacist Mario",
     "region": "Pre-Bracket",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Club Bangers"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Club Bangers|"
+    "requires": "|Playing With Power!| AND |Club Bangers|"
   },
   {
     "name": "Shake It",
     "region": "Pre-Bracket",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "MONSTERMAU5"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |MONSTERMAU5|"
+    "requires": "|Playing With Power!| AND |MONSTERMAU5|"
   },
   {
     "name": "Flat Zone 3",
     "region": "Round 1",
     "category": [
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|PLAYING WITH POWER!|"
+    "requires": "|Playing With Power!|"
   },
   {
     "region": "Round 1",
     "name": "Into the Blast Zone",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Elliana"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Elliana|"
+    "requires": "|Playing With Power!| AND |Elliana|"
   },
   {
     "region": "Round 1",
     "name": "Out Of The Canopies",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Elliana"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Elliana|"
+    "requires": "|Playing With Power!| AND |Elliana|"
   },
   {
     "name": "Nether Starboy",
     "region": "Round 1",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Hot Ones",
       "Netherrack Nightmares"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Hot Ones| AND |Netherrack Nightmares|"
+    "requires": "|Playing With Power!| AND |Hot Ones| AND |Netherrack Nightmares|"
   },
   {
     "name": "Swimming Through the Stickerbrush",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|PLAYING WITH POWER!|"
+    "requires": "|Playing With Power!|"
   },
   {
     "name": "Tetris Type Blu2: The Power Update",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
   },
   {
     "name": "Zagrajmy na Pegasusie",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
   },
   {
     "region": "Losers Round 1",
     "name": "Factory Work Lunch Break",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
   },
   {
     "name": "Gorilla Watchez",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Ace D. Copular"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Ace D. Copular|"
+    "requires": "|Playing With Power!| AND |Ace D. Copular|"
   },
   {
     "name": "Superfast Octopus",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Ace D. Copular"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Ace D. Copular|"
+    "requires": "|Playing With Power!| AND |Ace D. Copular|"
   },
   {
     "name": "theme of an unbeatable surfer",
     "region": "Losers Round 1",
     "category": [
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|PLAYING WITH POWER!|"
+    "requires": "|Playing With Power!|"
   },
   {
     "name": "Pomegranate Pomeranian",
     "region": "Losers Round 1",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Guzma",
-      "PLAYING WITH POWER!"
+      "Playing With Power!"
     ],
-    "requires": "|The Ruler of Everything| AND |Guzma| AND |PLAYING WITH POWER!|"
+    "requires": "|Ruler of Everything| AND |Guzma| AND |Playing With Power!|"
   },
   {
     "name": "Monstercat vs. The Big Dogs",
     "region": "Remix Week",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "MONSTERMAU5",
       "Gustavo Rocque"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |MONSTERMAU5| AND |Gustavo Rocque|"
+    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND |Gustavo Rocque|"
   },
   {
     "name": "now you're one of us",
     "region": "Remix Week",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Painful Dreamers"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Painful Dreamers|"
+    "requires": "|Playing With Power!| AND |Painful Dreamers|"
   },
   {
     "name": "Vacation to Dinosaur Island",
     "region": "Winners Round 2",
     "category": [
-      "PLAYING WITH POWER!",
+      "Playing With Power!",
       "Hot Ones"
     ],
-    "requires": "|PLAYING WITH POWER!| AND |Hot Ones|"
+    "requires": "|Playing With Power!| AND |Hot Ones|"
   },
   {
     "name": "Danger Down Under!",
@@ -1441,10 +1441,10 @@
     "name": "Dio's Dastardly Destructive Depository",
     "region": "Pre-Bracket",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Heaven Ascension DIO"
     ],
-    "requires": "|The Ruler of Everything| AND |Heaven Ascension DIO|"
+    "requires": "|Ruler of Everything| AND |Heaven Ascension DIO|"
   },
   {
     "name": "Yell \"Cannonball\"",
@@ -1557,9 +1557,9 @@
     "region": "Remix Week",
     "category": [
       "Heaven Ascension DIO",
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|Heaven Ascension DIO| AND |The Ruler of Everything|"
+    "requires": "|Heaven Ascension DIO| AND |Ruler of Everything|"
   },
   {
     "name": "Stand Tall, Breathe Out",
@@ -1590,132 +1590,132 @@
     "name": "Things Forgotten, Lost Their Time",
     "region": "Pre-Bracket",
     "category": [
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|The Ruler of Everything|"
+    "requires": "|Ruler of Everything|"
   },
   {
     "name": "Good Day, All Star!",
     "region": "Pre-Bracket",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Black Mamba Farquaad"
     ],
-    "requires": "|The Ruler of Everything|"
+    "requires": "|Ruler of Everything|"
   },
   {
     "name": "hi opal !",
     "region": "Pre-Bracket",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Lofi Girl"
     ],
-    "requires": "|The Ruler of Everything| AND |Lofi Girl|"
+    "requires": "|Ruler of Everything| AND |Lofi Girl|"
   },
   {
     "region": "Round 1",
     "name": "Labyrinth",
     "category": [
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|The Ruler of Everything|"
+    "requires": "|Ruler of Everything|"
   },
   {
     "name": "METTATON'S MAGICAL MECHANICAL MATCH!",
     "region": "Round 1",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|The Ruler of Everything| AND |MTT! Tour|"
+    "requires": "|Ruler of Everything| AND |MTT! Tour|"
   },
   {
     "name": "Monster Party",
     "region": "Round 1",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|The Ruler of Everything| AND |MTT! Tour|"
+    "requires": "|Ruler of Everything| AND |MTT! Tour|"
   },
   {
     "name": "Be Beautiful",
     "region": "Round 1",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Bad Girlz"
     ],
-    "requires": "|The Ruler of Everything| AND |Bad Girlz|"
+    "requires": "|Ruler of Everything| AND |Bad Girlz|"
   },
   {
     "name": "The Reflection Chamber",
     "region": "Winners Round 2",
     "category": [
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|The Ruler of Everything|"
+    "requires": "|Ruler of Everything|"
   },
   {
     "name": "Lord of the Flies",
     "region": "Winners Round 2",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
   },
   {
     "region": "Winners Round 2",
     "name": "Beyond the Clouds",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
   },
   {
     "region": "Winners Round 2",
     "name": "The Butterfly Effect",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
   },
   {
     "region": "Winners Round 2",
     "name": "SAVE US FROM HIM",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
   },
   {
     "region": "Winners Round 2",
     "name": "misfortune.mid",
     "category": [
-      "The Ruler of Everything"
+      "Ruler of Everything"
     ],
-    "requires": "|The Ruler of Everything|"
+    "requires": "|Ruler of Everything|"
   },
   {
     "region": "Winners Round 2",
     "name": "merely dreaming we were snow",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Painful Dreamers"
     ],
-    "requires": "|The Ruler of Everything| AND |Painful Dreamers|"
+    "requires": "|Ruler of Everything| AND |Painful Dreamers|"
   },
   {
     "region": "Winners Round 2",
     "name": "Daydreams in Seas of Blue",
     "category": [
-      "The Ruler of Everything",
+      "Ruler of Everything",
       "Painful Dreamers"
     ],
-    "requires": "|The Ruler of Everything| AND |Painful Dreamers|"
+    "requires": "|Ruler of Everything| AND |Painful Dreamers|"
   },
   {
     "name": "Keep An Eye On Gravity",
@@ -3769,5 +3769,368 @@
       "Misc"
     ],
     "requires": []
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "BRACKET: Losers Round 2",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Desperate Love",
+    "region": "Losers Round 2",
+    "category": [
+      "Hot Ones",
+      "gSports"
+    ],
+    "requires": "|Hot Ones| AND |gSports|"
+  },
+  {
+    "name": "ANGRY FARTS",
+    "region": "Losers Round 2",
+    "category": [
+      "Lil Darkie",
+      "Playing With Power!"
+    ],
+    "requires": "|Lil Darkie| AND  |Playing With Power!|"
+  },
+  {
+    "name": "Chitlin B. Chitlins",
+    "region": "Losers Round 2",
+    "category": [
+      "MTT! Tour",
+      "gSports"
+    ],
+    "requires": "|MTT! Tour| AND |gSports|"
+  },
+  {
+    "name": "Kick Back With The Mack",
+    "region": "Losers Round 2",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Naughty List",
+    "region": "Losers Round 2",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "Diamonds On My Mind",
+    "region": "Losers Round 2",
+    "category": [
+      "Tyler & The Grinch",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "PUMPITUP",
+    "region": "Losers Round 2",
+    "category": [
+      "Tyler & The Grinch",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Mercy Halation: Legacy",
+    "category": [
+      "Tyler & The Grinch",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Offensive Rebound",
+    "category": [
+      "Tyler & The Grinch",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Bad money",
+    "region": "Losers Round 2",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "Blood Runs Red",
+    "region": "Losers Round 2",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "persephone",
+    "region": "Losers Round 2",
+    "category": [
+      "Bad Girlz",
+      "MAD/EON"
+    ],
+    "requires": "|Bad Girlz| AND |MAD/EON|"
+  },
+  {
+    "name": "LOBOTOMY",
+    "region": "Losers Round 2",
+    "category": [
+      "Bad Girlz",
+      "MAD/EON"
+    ],
+    "requires": "|Bad Girlz| AND |MAD/EON|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Hugo Goes Gaga",
+    "category": [
+      "Bad Girlz",
+      "MAD/EON"
+    ],
+    "requires": "|Bad Girlz| AND |MAD/EON|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "REFRACTION OF HABIT",
+    "category": [
+      "Bad Girlz",
+      "MAD/EON"
+    ],
+    "requires": "|Bad Girlz| AND |MAD/EON|"
+  },
+  {
+    "name": "Versace Panties",
+    "region": "Losers Round 2",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "CUT PRICK",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "LOVEHYPE",
+    "category": [
+      "Rick Hentai",
+      "Club Bangers"
+    ],
+    "requires": "|Rick Hentai| AND |Club Bangers|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "blablablablablablablablablablablabla",
+    "category": [
+      "Rick Hentai",
+      "Club Bangers"
+    ],
+    "requires": "|Rick Hentai| AND |Club Bangers|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Club Bangers Are Playing At My House",
+    "category": [
+      "Rick Hentai",
+      "Club Bangers"
+    ],
+    "requires": "|Rick Hentai| AND |Club Bangers|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "THE FLATTEST",
+    "category": [
+      "Rick Hentai",
+      "Club Bangers"
+    ],
+    "requires": "|Rick Hentai| AND |Club Bangers|"
+  },
+  {
+    "name": "THE-SPECTER'S-MONOLITH",
+    "region": "Losers Round 2",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "The Part Where She Shoots You",
+    "region": "Losers Round 2",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "COLLAPSING TOWERS!!",
+    "region": "Losers Round 2",
+    "category": [
+      "Detective Hat Kid",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Picture Perfect Dinner Party",
+    "category": [
+      "Detective Hat Kid",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Hellbreaker",
+    "category": [
+      "Detective Hat Kid",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "PSYCHOLOGICAL WARFARE",
+    "category": [
+      "Detective Hat Kid",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "Ain't Stressin' (Options)",
+    "region": "Losers Round 2",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Battle at the Weekyard Hotel!",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "CactusTeam - Non-Copyright-Sounds | Progressive House | MWM",
+    "region": "Losers Round 2",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Wasteland Downpour",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Budget Cuts",
+    "category": [
+      "gSports",
+      "Cadence"
+    ],
+    "requires": "|gSports| AND |Cadence|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "The Call of the Conga",
+    "category": [
+      "gSports",
+      "Cadence"
+    ],
+    "requires": "|gSports| AND |Cadence|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "hyper_speed",
+    "category": [
+      "gSports",
+      "Cadence"
+    ],
+    "requires": "|gSports| AND |Cadence|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Pandering to the Chat",
+    "category": [
+      "gSports",
+      "Cadence"
+    ],
+    "requires": "|gSports| AND |Cadence|"
+  },
+  {
+    "name": "ナイトヴェールへようこそ",
+    "region": "Losers Round 2",
+    "category": [
+      "Ruler of Everything"
+    ],
+    "requires": "|Ruler of Everything|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Neil's Rhapsody",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Travel Back in Time With Me",
+    "category": [
+      "Ruler of Everything",
+      "Neil Cipher"
+    ],
+    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Achilles",
+    "category": [
+      "Ruler of Everything",
+      "Neil Cipher"
+    ],
+    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Killing Time",
+    "category": [
+      "Ruler of Everything",
+      "Neil Cipher"
+    ],
+    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+  },
+  {
+    "region": "Losers Round 2",
+    "name": "Take Back The Hall",
+    "category": [
+      "Ruler of Everything",
+      "Neil Cipher"
+    ],
+    "requires": "|Ruler of Everything| AND |Neil Cipher|"
   }
 ]
