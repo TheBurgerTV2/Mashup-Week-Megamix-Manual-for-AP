@@ -1,15 +1,15 @@
 [
   {
-    "count": 1,
-    "name": "The Essence",
+    "count": "75",
+    "name": "Essence Fragment",
     "category": [
       "Goal MacGuffin"
     ],
     "progression_skip_balancing": true
   },
   {
-    "count": 1,
-    "name": "Extra Essence for fun",
+    "count": "25",
+    "name": "Extra Essence Fragment for fun",
     "category": [
       "Goal MacGuffin"
     ],
@@ -336,7 +336,7 @@
     "progression": true
   },
   {
-    "count": "43",
+    "count": "55",
     "name": "Song Skip",
     "category": [
       "Song Skips"
@@ -344,26 +344,26 @@
     "useful": true
   },
   {
-    "count": "95",
-    "name": "+1 Mashup Point™",
+    "count": "10",
+    "name": "what",
     "category": [],
     "filler": true
   },
   {
-    "count": "95",
-    "name": "Random Guest Character Stock Icon",
+    "count": "10",
+    "name": "Extra Guac",
     "category": [],
     "filler": true
   },
   {
-    "count": "96",
-    "name": "A Responsible Vote",
+    "count": "5",
+    "name": "real actual snake",
     "category": [],
     "filler": true
   },
   {
-    "count": "95",
-    "name": "check if they changed the name of the tyler and the grinch support channel",
+    "count": "15",
+    "name": "Health Pon",
     "category": [],
     "filler": true
   },
@@ -374,5 +374,185 @@
       "Era"
     ],
     "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Cowboy Hat",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "17",
+    "name": "Random Game & Watch Gallery Game",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Scrap Metal",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "20",
+    "name": "Hyper Potion",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "13",
+    "name": "Jojo Reference",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "25",
+    "name": "Ruler's pronouns are they/it",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "20",
+    "name": "Shrimp (too much of it)",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "20",
+    "name": "F1LL3R",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Offsource Pull",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "21",
+    "name": "Cartoon Network Bumper",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Gift Sub to gSports' Twitch channel",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "7",
+    "name": "Hotland Vent Puzzle",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "13",
+    "name": "2 Diamonds",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "13",
+    "name": "Bottle of Jack Daniels",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Keitai Acrylic Standee",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kyoko's Baseball Bat",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "7",
+    "name": "Newgrounds Flash Animation",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "7",
+    "name": "YTP Sexer Sample",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "All Star by Smash Mouth",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "The Last Dab",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "19",
+    "name": "Joy",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "12",
+    "name": "Ender Pearl",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Aether Coins",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "he is red because music makes him feel nothing",
+    "category": [],
+    "trap": true
+  },
+  {
+    "count": "4",
+    "name": "Expensive College Textbook",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Big Time Rush Member",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "20",
+    "name": "INCREDIBLY LOUD FILLER",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "13",
+    "name": "Wii U",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "15",
+    "name": "Maxim Tomato",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "dexter's dad is lost media",
+    "category": [],
+    "filler": true
   }
 ]

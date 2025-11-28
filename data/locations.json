@@ -5,7 +5,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "{victory_rule()} AND |@Goal MacGuffin:1| "
+    "requires": "{victory_rule()} AND |@Goal MacGuffin:75| "
   },
   {
     "name": "Whatmageddon",
@@ -4132,5 +4132,585 @@
       "Neil Cipher"
     ],
     "requires": "|Ruler of Everything| AND |Neil Cipher|"
+  },
+  {
+    "name": "Victory! Neil Cipher",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Victory! Tyler & The Grinch",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "Victory! Kid Cobra",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "name": "Victory! Detective Hat Kid",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "Victory! Lil Darkie",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "Victory! Playing With Power!",
+    "category": [
+      "Playing With Power!"
+    ],
+    "requires": "|Playing With Power!|"
+  },
+  {
+    "name": "Victory! Head Chef Heavy",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "Victory! Guzma",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "Victory! Heaven Ascension DIO",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Victory! Ruler of Everything",
+    "category": [
+      "Ruler of Everything"
+    ],
+    "requires": "|Ruler of Everything|"
+  },
+  {
+    "name": "Victory! Snailiens",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "Victory! MONSTERMAU5",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "name": "Victory! Charles “All-Star” Barkley",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Victory! Ace D. Copular",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Victory! gSports",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "Victory! MTT! Tour",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "Victory! Scatman & Hatman",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "Victory! Bad Girlz",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "Victory! Rick Hentai",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "Victory! Cadence",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "name": "Victory! River City Girls",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Victory! Reanimatedd",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "Victory! Forum Freakshow",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Victory! Black Mamba Farquaad",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "Victory! Hot Ones",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "Victory! Painful Dreamers",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "Victory! Netherrack Nightmares",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Victory! Elliana",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "Victory! MAD/EON",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "Victory! Lofi Girl",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "Victory! Gustavo Rocque",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Victory! Club Bangers",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "Results! Neil Cipher",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Results! Tyler & The Grinch",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "Results! Kid Cobra",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "name": "Results! Detective Hat Kid",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "Results! Lil Darkie",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "Results! Playing With Power!",
+    "category": [
+      "Playing With Power!"
+    ],
+    "requires": "|Playing With Power!|"
+  },
+  {
+    "name": "Results! Head Chef Heavy",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "Results! Guzma",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "Results! Heaven Ascension DIO",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Results! Ruler of Everything",
+    "category": [
+      "Ruler of Everything"
+    ],
+    "requires": "|Ruler of Everything|"
+  },
+  {
+    "name": "Results! Snailiens",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "Results! MONSTERMAU5",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "name": "Results! Charles “All-Star” Barkley",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Results! Ace D. Copular",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Results! gSports",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "Results! MTT! Tour",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "Results! Scatman & Hatman",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "Results! Bad Girlz",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "Results! Rick Hentai",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "Results! Cadence",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "name": "Results! River City Girls",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Results! Reanimatedd",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "Results! Forum Freakshow",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Results! Black Mamba Farquaad",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "Results! Hot Ones",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "Results! Painful Dreamers",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "Results! Netherrack Nightmares",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Results! Elliana",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "Results! Elliana",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "Results! Lofi Girl",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "Results! Gustavo Rocque",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Results! Club Bangers",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "Victory! Scott the Woz",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "Results! Scott the Woz",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "Victory! Susie Haltmann",
+    "category": [
+      "Susie Haltmann"
+    ],
+    "requires": "|Susie Haltmann|"
+  },
+  {
+    "name": "Results! Susie Haltmann",
+    "category": [
+      "Susie Haltmann"
+    ],
+    "requires": "|Susie Haltmann|"
+  },
+  {
+    "name": "Debris Jamboree",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Good Vibrations",
+    "region": "Losers Round 2",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "Glowsquid Galaxy",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Snailiens"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+  },
+  {
+    "name": "nn_planet024",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Snailiens"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+  },
+  {
+    "name": "Snails on Venus",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Snailiens"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+  },
+  {
+    "name": "We Are The Universe",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Snailiens"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+  },
+  {
+    "name": "Blood in the Water",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "YOUGOTTHE!!",
+    "region": "Losers Round 2",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Sing Your Heart Out",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaa",
+      "River City Girls"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+  },
+  {
+    "name": "Blind Obsession",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaa",
+      "River City Girls"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+  },
+  {
+    "name": "Toxic Relation-ship",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaa",
+      "River City Girls"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+  },
+  {
+    "name": "Final Right to Fight",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaa",
+      "River City Girls"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
   }
 ]
