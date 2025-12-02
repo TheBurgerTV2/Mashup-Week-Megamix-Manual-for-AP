@@ -517,7 +517,7 @@
     "count": "8",
     "name": "FIL/LER",
     "category": [],
-    "trap": true
+    "filler": true
   },
   {
     "count": "8",
@@ -557,7 +557,7 @@
   },
   {
     "count": "4",
-    "name": "Check if they valdalized the Tyler & The Grinch channel",
+    "name": "Check if they vandalized the Tyler & The Grinch channel",
     "category": [],
     "filler": true
   }
