@@ -1,6 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -63,6 +63,9 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
 
+    {"Essence Fragment": {ItemClassification.progression_deprioritized: 75}}
+    {"Extra Essence Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
+
     if not world.options.enable_rick_hentai.value:
         item_config["Rick Hentai"] = 0
 
@@ -116,6 +119,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
+    for i in item_pool:
+            if i.name == "Essence Fragment":
+                i.classification = ItemClassification.progression_deprioritized
+            if i.name == "Extra Essence Fragment for fun":
+                i.classification = ItemClassification.progression_deprioritized
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

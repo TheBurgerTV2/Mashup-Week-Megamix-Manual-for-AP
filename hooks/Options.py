@@ -34,7 +34,7 @@ class Starting_Characters(Range):
 
 class Goal_Characters(Range):
     """Number of characters required to goal.
-    You will still need one of either The Essence or Extra Essence for fun"""
+    You will still need 75 of the 100 goal macguffins"""
     range_start = 0
     range_end = 30
     default = 24
