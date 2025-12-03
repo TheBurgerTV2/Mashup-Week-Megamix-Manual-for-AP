@@ -4712,5 +4712,14 @@
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+  },
+  {
+    "name": "Tama City Anthem",
+    "region": "Losers Round 1",
+    "category": [
+      "Lofi Girl",
+      "River City Girls"
+    ],
+    "requires": "|Lofi Girl| AND |River City Girls|"
   }
 ]
