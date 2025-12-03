@@ -73,6 +73,21 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
+    fillers = [name for name, i in world.item_name_to_item.items() if "Filler" in i.get("category", [])]
+    total_filler = len(world.get_locations()) - len(item_pool) + world.options.starting_characters.value
+
+    for n in range(1, total_filler+1):
+
+        item_to_place = world.create_item(world.random.choice(fillers))
+
+        if n / total_filler <= world.options.local_fill.value:
+            #location = next(l for l in multiworld.get_unfilled_locations(player=player))
+            location = world.random.choice(multiworld.get_unfilled_locations(player=player))
+            location.place_locked_item(item_to_place)
+        else:
+            item_pool.append(item_to_place)
+
     return item_pool
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
@@ -88,24 +103,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         chosen_item = world.random.choice([i for i in item_pool if i.name in starting_item_names and i.player == player])
         multiworld.push_precollected(chosen_item)
         item_pool.remove(chosen_item)
-
-        self.fill_items = []
-        if self.options.local_fill > 0 and self.multiworld.players > 1:
-            all_filler: list[ManualItem] = []
-            non_filler: list[ManualItem] = []
-            for manual_item in manual_items:
-                if (manual_item.excludable
-                        and manual_item.name not in self.options.local_items
-                        and manual_item.name not in self.options.non_local_items):
-                    all_filler.append(manual_item)
-                else:
-                    non_filler.append(manual_item)
-            self.amount_to_local_fill = int(self.options.local_fill.value * len(all_filler) / 100)
-            self.fill_items += all_filler[:self.amount_to_local_fill]
-            del all_filler[:self.amount_to_local_fill]
-            manual_items = all_filler + non_filler
-
-        self.multiworld.itempool += manual_items
 
     return item_pool
 

@@ -336,38 +336,6 @@
     "progression": true
   },
   {
-    "count": "55",
-    "name": "Song Skip",
-    "category": [
-      "Song Skips"
-    ],
-    "useful": true
-  },
-  {
-    "count": "10",
-    "name": "relliF",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "10",
-    "name": "Filler & The Grinch",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "10",
-    "name": "Sssnake Filler",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
-    "count": "10",
-    "name": "Health Pon",
-    "category": ["Filler"],
-    "Filler": true
-  },
-  {
     "count": 1,
     "name": "Losers Round 2",
     "category": [
@@ -376,163 +344,195 @@
     "progression": true
   },
   {
-    "count": "10",
+    "count": "55",
+    "name": "Song Skip",
+    "category": [
+      "Song Skips"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "relliF",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Filler & The Grinch",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Sssnake Filler",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Health Pon",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
     "name": "Cowboy Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Retro Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Наполнитель",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Poké Ball",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Filler Episode",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "The Ruler of Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Space Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "F1LL3R",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Sporty Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Cartoony Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Filler is now live on twitch",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "FaceSteak",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "2 Diamonds",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Bad Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Filler? Heh... I hardly Know 'er.",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Filler City Girls",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "WebFiller",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "IT'S F-F-FILLER [Bitch!]",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Short Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Spicy Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Dreamy Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Rotten Flesh",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Revenge Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "FIL/LER",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
-    "name": "Filler",
+    "count": "1",
+    "name": "filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Sitcom Filler",
     "category": ["Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "INCREDIBLY LOUD FILLER",
     "category": ["Filler"],
     "Filler": true
@@ -540,11 +540,11 @@
   {
     "count": "13",
     "name": "One of Scott's Wii Us",
-    "category": ["Filler", "Funny Filler"],
+    "category": ["Funny Filler"],
     "Filler": true
   },
   {
-    "count": "10",
+    "count": "1",
     "name": "Little Star",
     "category": ["Filler"],
     "Filler": true
@@ -552,13 +552,13 @@
   {
     "count": "2",
     "name": "Half of Dad's Car",
-    "category": ["Filler", "Funny Filler"],
+    "category": ["Funny Filler"],
     "Filler": true
   },
   {
     "count": "21",
     "name": "Check if they vandalized the Tyler & The Grinch channel",
-    "category": ["Filler", "Funny Filler"],
+    "category": ["Funny Filler"],
     "Filler": true
   }
 ]
