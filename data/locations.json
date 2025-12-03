@@ -4554,11 +4554,11 @@
     "requires": "|Elliana|"
   },
   {
-    "name": "Results! Elliana",
+    "name": "Results! MAD/EON",
     "category": [
-      "Elliana"
+      "MAD/EON"
     ],
-    "requires": "|Elliana|"
+    "requires": "|MAD/EON|"
   },
   {
     "name": "Results! Lofi Girl",

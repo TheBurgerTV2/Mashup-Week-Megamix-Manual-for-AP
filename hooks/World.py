@@ -89,6 +89,24 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         multiworld.push_precollected(chosen_item)
         item_pool.remove(chosen_item)
 
+        self.fill_items = []
+        if self.options.local_fill > 0 and self.multiworld.players > 1:
+            all_filler: list[ManualItem] = []
+            non_filler: list[ManualItem] = []
+            for manual_item in manual_items:
+                if (manual_item.excludable
+                        and manual_item.name not in self.options.local_items
+                        and manual_item.name not in self.options.non_local_items):
+                    all_filler.append(manual_item)
+                else:
+                    non_filler.append(manual_item)
+            self.amount_to_local_fill = int(self.options.local_fill.value * len(all_filler) / 100)
+            self.fill_items += all_filler[:self.amount_to_local_fill]
+            del all_filler[:self.amount_to_local_fill]
+            manual_items = all_filler + non_filler
+
+        self.multiworld.itempool += manual_items
+
     return item_pool
 
     # Some other useful hook options:

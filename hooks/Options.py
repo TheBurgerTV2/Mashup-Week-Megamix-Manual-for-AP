@@ -36,16 +36,25 @@ class Goal_Characters(Range):
     """Number of characters required to goal.
     You will still need one of either The Essence or Extra Essence for fun"""
     range_start = 0
-    range_end = 32
+    range_end = 30
     default = 24
 
 class EnableRickHentai(Toggle):
-    """Are Rick Hentai's songs enabled?"""
+    """Enables the sex guy, Rick Hentai.
+    Disable if your group has issues with sexual themes."""
     default = False
 
 class EnableLilDarkie(Toggle):
-    """Are Lil Darkie's songs enabled?"""
+    """Enables the cowboy, Lil' Darkie.
+    Disable if your group has issues with slurs."""
     default = False
+
+class LocalFill(Range):
+    """Sets an amount of filler to be local.
+    Use if your friends hate sending loads of especially useless filler."""
+    range_start = 0
+    range_end = 100
+    default = 25
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
@@ -53,6 +62,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["goal_characters"] = Goal_Characters
     options["enable_rick_hentai"] = EnableRickHentai
     options["enable_lil_darkie"] = EnableLilDarkie
+    options["local_fill"] = LocalFill
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
