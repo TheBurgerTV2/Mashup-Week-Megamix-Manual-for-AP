@@ -51,7 +51,8 @@ class EnableLilDarkie(Toggle):
 
 class LocalFill(Range):
     """Sets an amount of filler to be local.
-    Use if your friends hate sending loads of especially useless filler."""
+    Use if your friends hate sending loads of especially useless filler.
+    Approximately 69 filler items are exempt from this setting."""
     range_start = 0
     range_end = 100
     default = 25
