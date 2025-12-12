@@ -1601,7 +1601,7 @@
       "Ruler of Everything",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND |Black Mamba Farquaad|"
   },
   {
     "name": "hi opal !",
@@ -4712,6 +4712,15 @@
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+  },
+  {
+    "name": "Crowned Convulsions",
+    "region": "Pre-Bracket",
+    "category": [
+      "Ruler of Everything",
+      "Forum Freakshow"
+    ],
+    "requires": "|Ruler of Everything| AND |Forum Freakshow|"
   },
   {
     "name": "Tama City Anthem",
