@@ -3574,8 +3574,9 @@
     "region": "Winners Round 2",
     "category": [
       "Lofi Girl"
+      "Scott the Woz"
     ],
-    "requires": "|Lofi Girl|"
+    "requires": "|Lofi Girl| AND |Scott the Woz|"
   },
   {
     "name": "Looking For The Perfect Girl",
