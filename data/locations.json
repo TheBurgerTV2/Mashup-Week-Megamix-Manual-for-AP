@@ -3573,7 +3573,7 @@
     "name": "feeling anxious",
     "region": "Winners Round 2",
     "category": [
-      "Lofi Girl"
+      "Lofi Girl",
       "Scott the Woz"
     ],
     "requires": "|Lofi Girl| AND |Scott the Woz|"
@@ -4753,8 +4753,8 @@
     "name": "MEET THE MONSTERS!",
     "region": "Losers Round 2",
     "category": [
-      "Heaven Ascension DIO"
-      "Reanimatedd"
+      "Heaven Ascension DIO",
+      "Reanimatedd",
       "Club Bangers"
     ],
     "requires": "|Heaven Ascension DIO| AND |Reanimatedd| AND |Club Bangers|"
@@ -4771,7 +4771,7 @@
     "name": "Love, Sex, & Money",
     "region": "Losers Round 2",
     "category": [
-      "Rick Hentai"
+      "Rick Hentai",
       "Bad Girlz"
     ],
     "requires": "|Rick Hentai| AND |Bad Girlz|"
@@ -4780,7 +4780,7 @@
     "name": "Goin' Down",
     "region": "Losers Round 2",
     "category": [
-      "Rick Hentai"
+      "Rick Hentai",
       "Bad Girlz"
     ],
     "requires": "|Rick Hentai| AND |Bad Girlz|"
