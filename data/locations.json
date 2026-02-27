@@ -4730,5 +4730,58 @@
       "River City Girls"
     ],
     "requires": "|Lofi Girl| AND |River City Girls|"
+  },
+  {
+    "name": "Don't Fly Too Far",
+    "region": "Losers Round 1",
+    "category": [
+      "Painful Dreamers",
+      "Elliana"
+    ],
+    "requires": "|Elliana| AND |Painful Dreamers|"
+  },
+  {
+    "name": "We Can Do It!",
+    "region": "Round 1",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "MEET THE MONSTERS!",
+    "region": "Losers Round 2",
+    "category": [
+      "Heaven Ascension DIO"
+      "Reanimatedd"
+      "Club Bangers"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Reanimatedd| AND |Club Bangers|"
+  },
+  {
+    "name": "Party All Christmas",
+    "region": "Losers Round 2",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Love, Sex, & Money",
+    "region": "Losers Round 2",
+    "category": [
+      "Rick Hentai"
+      "Bad Girlz"
+    ],
+    "requires": "|Rick Hentai| AND |Bad Girlz|"
+  },
+  {
+    "name": "Goin' Down",
+    "region": "Losers Round 2",
+    "category": [
+      "Rick Hentai"
+      "Bad Girlz"
+    ],
+    "requires": "|Rick Hentai| AND |Bad Girlz|"
   }
 ]
