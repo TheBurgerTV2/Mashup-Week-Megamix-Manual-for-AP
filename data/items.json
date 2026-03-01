@@ -345,7 +345,6 @@
   },
   {
     "count": 1,
-    "name": "Neil Cicierega",
     "name": "All Sources",
     "category": [
       "Source"
@@ -531,6 +530,1142 @@
   {
     "count": 1,
     "name": "Murder/Killing",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Game & Watch Galleries/Smash Bros. 'Other' Category"
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "NES/SNES",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gameboy",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "80s/90s Nintendo Non-Video Game Media",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Canines",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Birds",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Valve Properties",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Valve Fan-Content",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "First Person Shooters/Class Based Shooters",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eastern European Culture",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Food/Culinary Arts",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Huey Lewis And The News",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pokémon Media",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mainstay Pokémon Composers",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gangs/Organized Crime",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Insects",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skeletons",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shonen Jump",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "JoJo's Bizarre Adventure Major Antagonists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arean Fighters/3D Brawlers",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vampires",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Religion",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tally Hall/Its Members",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Claymation/Stopmotion Media",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Royalty",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Time",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snail's House",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kawaii Future Bass",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Space/Aliens",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kero Kero Bonito",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monstercat Artists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deadmau5/Mau5trap Artists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive House",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dubstep",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quad City DJs/Space Jam Artists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sports/Training Montages",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "90s Hip-Hop/Rap",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gnarls Barkley/Its Members",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Damon Albarn",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Turner Broadcasting",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alternative Rock",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Britpop/Post-Britpop",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Advertisements/GEICO Ads",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Twitch Games/eSports Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cars/Bikes",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Streamers/Streaming/Streamer Background Music",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undertale/DELTARUNE",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robots",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ghosts",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Felines",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glam Rock",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lou Bega",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scatman John",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mambo",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Band",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eurodance",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jazz",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "One-Hit Wonders",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "90s Hits",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Danny Baranowsky",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rhythm Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Popularized Through Rhythm Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon Crawlers",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Roguelikes",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ke$sha/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Billie Eilish/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Female Interscope Records Artists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2010/2019 Top 100 Billboards",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Money",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Partying",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rick Astley",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "80s New Wave",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S3RL",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Happy Hardcore",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Otaku Culture",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sexual Themes",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pre-2012 Internet Culture",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bait-And-Switch",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wayforward",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arc System Works",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Synthpop",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Synthwave",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chipzel",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beat-Em-Ups",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eddsworld/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Webcomics",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Animated Webseries/Indie Web Animation",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Newgrounds Creators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flash Creators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zombies",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ray William Johnson",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Halley Labs",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "YTPs/YTPMVs",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Keygen",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SoundClowns",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SoundCloud Rappers",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "88Rising/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "R&B",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Soul",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heat/Fire/Summertime",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Smash Mouth/Shrek Artists",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dreamworks",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Water/Aquatic Life",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RPGMaker",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Psychedelic Genres",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Drugs/Psychedelic Imagery",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sleep/Dreams/Nightmares",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Apocalypse",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "C418",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Minecraft",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sandbox Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Videogame Mods",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Creepypastas",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Voxel Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rivals of Aether/Flashygoodness",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FGC Competitions/2D Fighting Games",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "VGM/Chiptune Influenced EDM",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "War/Explosives",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flight",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Madeon/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Industrial/Dark Techno",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IDM",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ARGs",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lofi Hip-Hop",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shiloh Dynasty",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "School/Education",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bedroom Pop",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Studio Ghibli",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Time Rush/Stephen Glickman",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boy Bands/Their Solo Acts",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nickelodeon Media",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nickelodeon Records",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Well Known/Credited Music Producers",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Live Action Sitcoms",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "French Touch",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ed Banger Records",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gigi D' Agostino",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fatman Scoop",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Beat",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Plunderphonics",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Turntableism",
     "category": [
       "Source"
     ],
