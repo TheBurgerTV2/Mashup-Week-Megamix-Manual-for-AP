@@ -447,7 +447,7 @@
       "Cadence",
       "Kid Cobra"
     ],
-    "requires": "|Cadence| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Serpents/Reptiles|))"
+    "requires": "|Cadence| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Serpents/Reptiles| AND |Rhythm Games|))"
   },
   {
     "name": "Ameri-Kid Cobra",
@@ -464,7 +464,7 @@
       "Kid Cobra",
       "Lil Darkie"
     ],
-    "requires": "|Kid Cobra| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch|))"
+    "requires": "|Kid Cobra| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
   },
   {
     "name": "Subway Surfer Havoc",
@@ -473,7 +473,7 @@
       "Detective Hat Kid",
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Serpents/Reptiles|))"
+    "requires": "|Kid Cobra| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Serpents/Reptiles| AND |Mysteries/Detective Media|))"
   },
   {
     "name": "Rocking That Booyah Bassline",
@@ -490,7 +490,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skate Punk| AND |Serpents/Reptiles|))"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skate Punk| AND |Serpents/Reptiles| AND |Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists|))"
   },
   {
     "name": "Leavin' Shaq Speechless",
@@ -499,7 +499,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding|))"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Sports/Training Montages| AND |Quad City DJs/Space Jam Artists| AND |90s Hip-Hop/Rap| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "region": "Losers Round 1",
@@ -516,7 +516,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles|))"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles| AND |Wayforward| AND |Synthwave|))"
   },
   {
     "name": "BE CALM ~ RIVER CITY RIPTIDE!!",
@@ -525,7 +525,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding|))"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Wayforward| AND |Beat-Em-Ups|))"
   },
   {
     "name": "The Art of Turf War",
@@ -534,7 +534,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles| AND |Beat-Em-Ups| AND |Chipzel| AND |Arc System Works| AND |Synthwave|))"
   },
   {
     "name": "Loser's Lament: A 0-2 Medley",
@@ -549,7 +549,7 @@
       "Gustavo Rocque",
       "Kid Cobra"
     ],
-    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles|))"
+    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles| AND |SoundCloud Rappers| AND |Skeletons| AND |Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |Undertale/DELTARUNE| AND |Birds| AND |NES/SNES| AND |Lofi Hip-Hop| AND |Glam Rock| AND |YTPs/YTPMVs| AND |Nickelodeon Records| AND |Halley Labs| AND |Ghosts| AND |School/Education| AND |Big Time Rush/Stephen Glickman| AND |Pokémon Media| AND |Bedroom Pop| AND |Ray William Johnson| AND |Cowboys/Deserts/Wild West| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Pokémon Media| AND |Canines| AND |Well Known/Credited Music Producers|))"
   },
   {
     "name": "My Name Is Cobra",
@@ -566,7 +566,7 @@
       "Kid Cobra",
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
+    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Big Time Rush/Stephen Glickman|))"
   },
   {
     "name": "Condensed Troubles",
@@ -575,7 +575,7 @@
       "Kid Cobra",
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
+    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Well Known/Credited Music Producers|))"
   },
   {
     "name": "Paintin' Me Speechless",
@@ -584,7 +584,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles| AND |Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |Quad City DJs/Space Jam Artists|))"
   },
   {
     "name": "JACK DA FAITHFUL",
@@ -593,7 +593,7 @@
       "Kid Cobra",
       "Club Bangers"
     ],
-    "requires": "|Kid Cobra| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND (|Skating/Boarding| OR |Turntablism|)))"
+    "requires": "|Kid Cobra| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Fatman Scoop| AND |Ed Banger Records| AND |Gigi D'Agostino| AND (|Skating/Boarding| OR |Turntablism|)))"
   },
   {
     "name": "Edamame Jump Around",
@@ -602,7 +602,7 @@
       "Kid Cobra",
       "Hot Ones"
     ],
-    "requires": "|Kid Cobra| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
+    "requires": "|Kid Cobra| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |88Rising/Collaborators|))"
   },
   {
     "name": "All The [HATERS] Say I'm Pretty Swell!",
@@ -612,7 +612,7 @@
       "Kid Cobra",
       "Reanimatedd"
     ],
-    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk|))"
+    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators|)))"
   },
   {
     "name": "Murder On The Owl Express!",
