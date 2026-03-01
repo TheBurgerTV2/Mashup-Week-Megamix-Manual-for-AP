@@ -68,9 +68,22 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
     if not world.options.enable_rick_hentai.value:
         item_config["Rick Hentai"] = 0
+        item_config["Rick Astley"] = 0
+        item_config["80s New Wave"] = 0
+        item_config["S3RL"] = 0
+        item_config["Happy Hardcore"] = 0
+        item_config["Otaku Culture"] = 0
+        item_config["Sexual Themes"] = 0
+        item_config["Pre-2012 Internet Culture"] = 0
+        item_config["Bait-And-Switch"] = 0
 
     if not world.options.enable_lil_darkie.value:
         item_config["Lil Darkie"] = 0
+        item_config["Spider Gang/Producers/Collaborators"] = 0
+        item_config["Hardstyle"] = 0
+        item_config["Trap Metal"] = 0
+        item_config["Cowboys/Deserts/Wild West"] = 0
+        item_config["Murder/Killing"] = 0
 
     return item_config
 
