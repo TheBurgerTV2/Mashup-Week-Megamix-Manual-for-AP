@@ -345,6 +345,14 @@
   },
   {
     "count": 1,
+    "name": "All Sources",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Neil Cicirega",
     "category": [
       "Source"
@@ -482,6 +490,46 @@
   {
     "count": 1,
     "name": "Electro Swing",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spider Gang/Producers/Collaborators",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hardstyle",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trap Metal",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cowboys/Deserts/Wild West",
+    "category": [
+      "Source"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Murder/Killing",
     "category": [
       "Source"
     ],
