@@ -22,7 +22,7 @@
       "Neil Cipher",
       "Ruler of Everything"
     ],
-    "requires": "|Neil Cipher| AND |Ruler of Everything|"
+    "requires": "|Neil Cipher| AND |Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND (|Sampled by Neil Cicierega| OR |Royalty|) AND |Tally Hall/Its Members|))"
   },
   {
     "name": "The All-Seeing, All-Knowing Eye",
@@ -40,7 +40,7 @@
       "Forum Freakshow",
       "Playing With Power!"
     ],
-    "requires": "|Neil Cipher| AND |Forum Freakshow| AND |Playing With Power!|"
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Ray William Johnson| AND |SoundClowns|))"
   },
   {
     "name": "Dead Nerves",
@@ -50,7 +50,7 @@
       "Ace D. Copular",
       "Netherrack Nightmares"
     ],
-    "requires": "|Neil Cipher| AND |Ace D. Copular| AND |Netherrack Nightmares|"
+    "requires": "|Neil Cipher| AND |Ace D. Copular| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Damon Albarn| AND |Videogame Mods|))"
   },
   {
     "name": "M.L.B.",
@@ -59,7 +59,7 @@
       "Neil Cipher",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Neil Cipher| AND |Charles “All-Star” Barkley|"
+    "requires": "|Neil Cipher| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sports/Training Montages| AND |90s Hip-Hop/Rap|))"
   },
   {
     "name": "MEGALOVANIA",
@@ -76,7 +76,7 @@
       "Reanimatedd",
       "Rick Hentai"
     ],
-    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |Playing With Power!| AND |Reanimatedd| AND |Rick Hentai|"
+    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |Playing With Power!| AND |Reanimatedd| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD| AND |Videogame Mods| AND |Ed Banger Records| AND |Pokémon Media| AND |Halley Labs| AND |Rhythm Games| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Rick Astley| AND |Webcomics| AND (|Undertale/DELTARUNE| OR |SoundClowns|)))"
   },
   {
     "name": "The Bust-Inator",
@@ -93,7 +93,7 @@
       "Neil Cipher",
       "Scatman & Hatman"
     ],
-    "requires": "|Neil Cipher| AND |Scatman & Hatman|"
+    "requires": "|Neil Cipher| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND (|Sampled by Neil Cicierega| OR (|Disney Child Stars| AND |90s Hits|)) AND |Scatman John| AND |One-Hit Wonders|))"
   },
   {
     "name": "A Scatman's Mind",
@@ -102,7 +102,7 @@
       "Neil Cipher",
       "Scatman & Hatman"
     ],
-    "requires": "|Neil Cipher| AND |Scatman & Hatman|"
+    "requires": "|Neil Cipher| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Scatman John| AND |Lou Bega| AND |Eurodance| AND |One-Hit Wonders| AND |90s Hits|))"
   },
   {
     "name": "Fly Away^4",
@@ -113,7 +113,7 @@
       "Neil Cipher",
       "Rick Hentai"
     ],
-    "requires": "|Neil Cipher| AND |Elliana| AND |Kid Cobra| AND |Rick Hentai|"
+    "requires": "|Neil Cipher| AND |Elliana| AND |Kid Cobra| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sampled by Neil Cicierega| AND |Skating/Boarding| AND |Sexual Themes| AND |Flight|))"
   },
   {
     "name": "Redesign The Cum Zone",
@@ -122,7 +122,7 @@
       "Rick Hentai",
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher| AND |Rick Hentai|"
+    "requires": "|Neil Cipher| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sexual Themes| AND (|Sampled by Neil Cicierega| OR |80s New Wave|)))"
   },
   {
     "name": "When I Died",
@@ -139,7 +139,7 @@
       "Neil Cipher",
       "Forum Freakshow"
     ],
-    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |SoundClowns| AND |Ray William Johnson|))"
   },
   {
     "region": "Losers Round 1",
@@ -148,7 +148,7 @@
       "Neil Cipher",
       "Forum Freakshow"
     ],
-    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |SoundClowns|))"
   },
   {
     "region": "Losers Round 1",
@@ -157,7 +157,7 @@
       "Neil Cipher",
       "Forum Freakshow"
     ],
-    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD| AND |SoundCloud Rappers| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson|))"
   },
   {
     "name": "It's Never Gonna End",
@@ -166,7 +166,7 @@
       "Rick Hentai",
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher| AND |Rick Hentai|"
+    "requires": "|Neil Cipher| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Rick Astley|))"
   },
   {
     "name": "Kill Abraham Lincoln",
@@ -175,7 +175,7 @@
       "Kid Cobra",
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher| AND |Kid Cobra|"
+    "requires": "|Neil Cipher| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD| AND |ARMS/Nintendo Switch| AND |Ska|))"
   },
   {
     "name": "Mouth Lemonade",
@@ -193,7 +193,7 @@
       "gSports",
       "Dexter's Dad"
     ],
-    "requires": "|Neil Cipher| AND |gSports| AND |Dexter’s Dad|"
+    "requires": "|Neil Cipher| AND |gSports| AND |Dexter’s Dad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Days of the Week| AND (|Family Members| OR (|Neil Cicierega| AND |Advertisements/GEICO Ads|))))"
   },
   {
     "name": "Mouth Mollusk 4K",
@@ -202,7 +202,7 @@
       "Neil Cipher",
       "Snailiens"
     ],
-    "requires": "|Neil Cipher| AND |Snailiens|"
+    "requires": "|Neil Cipher| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Snail's House| AND |Kawaii Future Bass| AND |Space/Aliens| AND |Kero Kero Bonito|))"
   },
   {
     "name": "We'll Do It All Again",
@@ -211,7 +211,7 @@
       "Neil Cipher",
       "Bad Girlz"
     ],
-    "requires": "|Neil Cipher| AND |Bad Girlz|"
+    "requires": "|Neil Cipher| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Ke$sha/Collaborators| AND |2010/2019 Top 100 Billboards| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "name": "Aaron Emotions (You Have It)",
@@ -228,7 +228,7 @@
       "Neil Cipher",
       "Hot Ones"
     ],
-    "requires": "|Neil Cipher| AND |Hot Ones|"
+    "requires": "|Neil Cipher| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |88Rising/Collaborators| AND |R&B|))"
   },
   {
     "name": "Can You Pls Put The Bin Out? Thx",
@@ -237,7 +237,7 @@
       "Neil Cipher",
       "Susie Haltmann"
     ],
-    "requires": "|Neil Cipher| AND |Susie Haltmann|"
+    "requires": "|Neil Cipher| AND |Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Kirby| AND |HAL Laboratories| AND |2nd-Party Nintendo Games| AND |General Working/Corporations/Factories|))"
   },
   {
     "name": "Stuck Inside a Loop",
@@ -253,7 +253,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
   },
   {
     "name": "Freek'n Earfquake (Redux)",
@@ -262,7 +262,7 @@
       "Tyler & The Grinch",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Tyler & The Grinch| AND |Heaven Ascension DIO|"
+    "requires": "|Tyler & The Grinch| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Shonen Jump|))"
   },
   {
     "name": "No Time To Hold Back",
@@ -270,7 +270,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+  "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination|))"
   },
   {
     "name": "THE STORY OF DARKEESE LATIFAH & SAINT SCROOGE: A CHRISTMAS SPECIAL PART J1-29",
@@ -279,7 +279,7 @@
       "Tyler & The Grinch",
       "Forum Freakshow"
     ],
-    "requires": "|Tyler & The Grinch| AND |Forum Freakshow|"
+    "requires": "|Tyler & The Grinch| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Christmas/Winter/Snow/Ice| OR |Ray William Johnson|)))"
   },
   {
     "name": "How the Grinch Stole Madden 08!",
@@ -288,7 +288,7 @@
       "Tyler & The Grinch",
       "Scott the Woz"
     ],
-    "requires": "|Tyler & The Grinch| AND |Scott the Woz|"
+    "requires": "|Tyler & The Grinch| AND |Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Scott the Woz/Collaborators| AND |Super Smash Bros Originals| AND (|Christmas/Winter/Snow/Ice| OR |Dr. Seuss|)))"
   },
   {
     "name": "Dirt Colored Eyes",
@@ -297,7 +297,7 @@
       "Tyler & The Grinch",
       "Bad Girlz"
     ],
-    "requires": "|Tyler & The Grinch| AND |Bad Girlz|"
+    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$sha/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Money| AND |Female Interscope Records Artists|))"
   },
   {
     "name": "Golf Halation",
@@ -305,7 +305,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
   },
   {
     "name": "Bad Taste N Side My Mouth",
@@ -314,7 +314,7 @@
       "Tyler & The Grinch",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad|"
+    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Smash Mouth/Shrek Artists|))"
   },
   {
     "name": "Music Inspired by Dreamworks & ABC's 'Shrek The Halls'",
@@ -323,7 +323,7 @@
       "Tyler & The Grinch",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad|"
+    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Smash Mouth/Shrek Artists| AND |Dreamworks| AND |Water/Aquatic Life|))"
   },
   {
     "name": "Never Feel Happy",
@@ -332,7 +332,7 @@
       "Tyler & The Grinch",
       "Club Bangers"
     ],
-    "requires": "|Tyler & The Grinch| AND |Club Bangers|"
+    "requires": "|Tyler & The Grinch| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Turntablism| AND |Tyler, the Creator/Collaborators|))"
   },
   {
     "name": "BITCH GONE",
@@ -341,7 +341,7 @@
       "Tyler & The Grinch",
       "Lil Darkie"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie|"
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap Metal| OR |Murder/Killing|)))"
   },
   {
     "name": "IGOR'S ULTIMATUM",
@@ -349,7 +349,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Christmas/Winter/Snow/Ice| OR |Dr. Seuss|)))"
   },
   {
     "name": "MY SWEET BAUDELAIRE",
@@ -358,7 +358,7 @@
       "Tyler & The Grinch",
       "Lofi Girl"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination| AND |Dr. Seuss| AND |Bedroom Pop| AND |Studio Ghibli| AND |School/Education|))"
   },
   {
     "name": "dance in the winter",
@@ -367,7 +367,7 @@
       "Tyler & The Grinch",
       "Lofi Girl"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Dr. Seuss| AND |Bedroom Pop| AND |School/Education| AND |Shiloh Dynasty| AND |Lofi Hip-Hop|))"
   },
   {
     "name": "Winter Break",
@@ -376,7 +376,7 @@
       "Tyler & The Grinch",
       "Lofi Girl"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Lofi Hip-Hop|))"
   },
   {
     "name": "Close To Your Wet Hands",
@@ -385,7 +385,7 @@
       "Tyler & The Grinch",
       "Netherrack Nightmares"
     ],
-    "requires": "|Tyler & The Grinch| AND |Netherrack Nightmares|"
+    "requires": "|Tyler & The Grinch| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Minecraft|))"
   },
   {
     "name": "BITCH GONE (CactusTeam Remix)",
@@ -394,7 +394,7 @@
       "Tyler & The Grinch",
       "Lil Darkie"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie|"
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap Metal| OR |Murder/Killing|)))"
   },
   {
     "name": "IGOR'S ULTIMATUM (Truly A Monster Mix)",
@@ -402,7 +402,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
   },
   {
     "name": "snofall megamix",
@@ -411,7 +411,7 @@
       "Tyler & The Grinch",
       "Lofi Girl"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Dr. Seuss| AND |Bedroom Pop| AND |Studio Ghibli| AND |School/Education| AND |Lofi Hip-Hop|))"
   },
   {
     "name": "Scootin' Through Life",
@@ -421,7 +421,7 @@
       "Detective Hat Kid",
       "River City Girls"
     ],
-    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls|"
+    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Gears For Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Wayforward| AND |Synthpop| AND |Synthwave|))"
   },
   {
     "region": "Winners Round 2",
@@ -430,7 +430,7 @@
       "Tyler & The Grinch",
       "Ace D. Copular"
     ],
-    "requires": "|Tyler & The Grinch| AND |Ace D. Copular|"
+    "requires": "|Tyler & The Grinch| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Alternative Rock| AND (|Tyler, the Creator/Collaborators| OR |Christmas/Winter/Snow/Ice| OR |Illumination| OR |Dr. Seuss|)))"
   },
   {
     "name": "COBRA FOR YA MIND",
@@ -438,7 +438,7 @@
     "category": [
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra|"
+    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
   },
   {
     "name": "Turn Down For Wubadubadub",
@@ -447,7 +447,7 @@
       "Cadence",
       "Kid Cobra"
     ],
-    "requires": "|Cadence| AND |Kid Cobra|"
+    "requires": "|Cadence| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Serpents/Reptiles|))"
   },
   {
     "name": "Ameri-Kid Cobra",
@@ -455,7 +455,7 @@
     "category": [
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra|"
+    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Serpents/Reptiles|))"
   },
   {
     "region": "Pre-Bracket",
@@ -464,7 +464,7 @@
       "Kid Cobra",
       "Lil Darkie"
     ],
-    "requires": "|Kid Cobra| AND |Lil Darkie|"
+    "requires": "|Kid Cobra| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch|))"
   },
   {
     "name": "Subway Surfer Havoc",
@@ -473,7 +473,7 @@
       "Detective Hat Kid",
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra| AND |Detective Hat Kid|"
+    "requires": "|Kid Cobra| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Serpents/Reptiles|))"
   },
   {
     "name": "Rocking That Booyah Bassline",
@@ -481,7 +481,7 @@
     "category": [
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra|"
+    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Serpents/Reptiles|))"
   },
   {
     "region": "Round 1",
@@ -490,7 +490,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skate Punk| AND |Serpents/Reptiles|))"
   },
   {
     "name": "Leavin' Shaq Speechless",
@@ -499,7 +499,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding|))"
   },
   {
     "region": "Losers Round 1",
@@ -507,7 +507,7 @@
     "category": [
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra|"
+    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska|))"
   },
   {
     "name": "Tekno Beatdown",
@@ -516,7 +516,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls|"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles|))"
   },
   {
     "name": "BE CALM ~ RIVER CITY RIPTIDE!!",
@@ -525,7 +525,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls|"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding|))"
   },
   {
     "name": "The Art of Turf War",
@@ -534,7 +534,7 @@
       "Kid Cobra",
       "River City Girls"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls|"
+    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
   },
   {
     "name": "Loser's Lament: A 0-2 Medley",
@@ -549,7 +549,7 @@
       "Gustavo Rocque",
       "Kid Cobra"
     ],
-    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra|"
+    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles|))"
   },
   {
     "name": "My Name Is Cobra",
@@ -557,7 +557,7 @@
     "category": [
       "Kid Cobra"
     ],
-    "requires": "|Kid Cobra|"
+    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles|))"
   },
   {
     "name": "CAN'T GET ENUF",
@@ -566,7 +566,7 @@
       "Kid Cobra",
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra|"
+    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
   },
   {
     "name": "Condensed Troubles",
@@ -575,7 +575,7 @@
       "Kid Cobra",
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra|"
+    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
   },
   {
     "name": "Paintin' Me Speechless",
@@ -584,7 +584,7 @@
       "Kid Cobra",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
   },
   {
     "name": "JACK DA FAITHFUL",
@@ -593,7 +593,7 @@
       "Kid Cobra",
       "Club Bangers"
     ],
-    "requires": "|Kid Cobra| AND |Club Bangers|"
+    "requires": "|Kid Cobra| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND (|Skating/Boarding| OR |Turntablism|)))"
   },
   {
     "name": "Edamame Jump Around",
@@ -602,7 +602,7 @@
       "Kid Cobra",
       "Hot Ones"
     ],
-    "requires": "|Kid Cobra| AND |Hot Ones|"
+    "requires": "|Kid Cobra| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding|))"
   },
   {
     "name": "All The [HATERS] Say I'm Pretty Swell!",
@@ -612,7 +612,7 @@
       "Kid Cobra",
       "Reanimatedd"
     ],
-    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd|"
+    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk|))"
   },
   {
     "name": "Murder On The Owl Express!",
@@ -3820,7 +3820,7 @@
     "category": [
       "Tyler & The Grinch"
     ],
-    "requires": "|Tyler & The Grinch|"
+    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Illumination|))"
   },
   {
     "name": "Diamonds On My Mind",
@@ -3829,7 +3829,7 @@
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |90s Hip-Hop/Rap| AND |Sports/Training Montages| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "name": "PUMPITUP",
@@ -3838,7 +3838,7 @@
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Quad City DJs/Space Jam Artists| AND |Sports/Training Montages| AND |Gnarls Barkley/Its Members| AND (|90s Hip-Hop/Rap| OR |Illumination|)))"
   },
   {
     "region": "Losers Round 2",
@@ -3847,7 +3847,7 @@
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination| AND (|Quad City DJs/Space Jam Artists| OR |Sports/Training Montages|)))"
   },
   {
     "region": "Losers Round 2",
@@ -3856,7 +3856,7 @@
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley|"
+    "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |90s Hip-Hop/Rap| AND |Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists| AND |Sports/Training Montages|))"
   },
   {
     "name": "Bad money",
@@ -4096,7 +4096,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "region": "Losers Round 2",
@@ -4105,7 +4105,7 @@
       "Ruler of Everything",
       "Neil Cipher"
     ],
-    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+    "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Tally Hall/Its Members| AND |Claymation/Stopmotion Media|))"
   },
   {
     "region": "Losers Round 2",
@@ -4114,7 +4114,7 @@
       "Ruler of Everything",
       "Neil Cipher"
     ],
-    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+    "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Claymation/Stopmotion Media|))"
   },
   {
     "region": "Losers Round 2",
@@ -4123,7 +4123,7 @@
       "Ruler of Everything",
       "Neil Cipher"
     ],
-    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+    "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Tally Hall/Its Members| AND |Royalty| AND |Claymation/Stopmotion Media|)"
   },
   {
     "region": "Losers Round 2",
@@ -4132,7 +4132,7 @@
       "Ruler of Everything",
       "Neil Cipher"
     ],
-    "requires": "|Ruler of Everything| AND |Neil Cipher|"
+    "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Claymation/Stopmotion Media|)"
   },
   {
     "name": "Victory! Neil Cipher",
