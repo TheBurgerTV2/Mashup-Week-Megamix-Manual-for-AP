@@ -30,7 +30,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "name": "Super Flat Zone X",
@@ -84,7 +84,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "name": "Semi-Charmed A Lula",
@@ -130,7 +130,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "name": "Different Forums",
@@ -183,7 +183,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "name": "Father’s Fifty-Fifty",
@@ -219,7 +219,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
     "name": "Phil Collins Is Back! (After Last Tournament)",
@@ -245,7 +245,7 @@
     "category": [
       "Neil Cipher"
     ],
-    "requires": "|Neil Cipher|"
+    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega|))"
   },
   {
     "name": "Who Are You?",
