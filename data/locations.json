@@ -4003,7 +4003,7 @@
       "Detective Hat Kid",
       "Head Chef Heavy"
     ],
-    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers|))"
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Eastern European Culture| AND |First Person Shooters/Class Based Shooters| AND |Valve Properties| AND (|Mysteries/Detective Media| OR |Valve Fan-Content|) AND (|Puzzles| OR |Guns|)))"
   },
   {
     "region": "Losers Round 2",
@@ -4012,7 +4012,7 @@
       "Detective Hat Kid",
       "Head Chef Heavy"
     ],
-    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Collectathons| AND |Mysteries/Detective Media| AND |Valve Fan-Content| AND |First Person Shooters/Class Based Shooters| AND |Huey Lewis And The News| AND (|Gears for Breakfast/Indie Platformers| OR |Food/Culinary Arts|) AND (|Puzzles| OR (|Valve Properties| AND |Eastern European Culture|))))"
   },
   {
     "name": "Ain't Stressin' (Options)",
