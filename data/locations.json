@@ -620,7 +620,7 @@
     "category": [
       "Detective Hat Kid"
     ],
-    "requires": "|Detective Hat Kid|"
+    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing|))"
   },
   {
     "name": "Megamus",
@@ -632,7 +632,7 @@
       "Reanimatedd",
       "Detective Hat Kid"
     ],
-    "requires": "|Snailiens| AND |gSports| AND |Lil Darkie| AND |Reanimatedd| AND |Detective Hat Kid|"
+    "requires": "|Snailiens| AND |gSports| AND |Lil Darkie| AND |Reanimatedd| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Snail's House| AND |Kero Kero Bonito| AND |Space/Aliens| AND |Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |Zombies| AND |Eddsworld/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
   },
   {
     "name": "Clocktowers You Loved",
@@ -641,7 +641,7 @@
       "Detective Hat Kid",
       "Bad Girlz"
     ],
-    "requires": "|Detective Hat Kid| AND |Bad Girlz|"
+    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Billie Eilish/Collaborators| AND |2010/2019 Top 100 Billboards|))"
   },
   {
     "region": "Round 1",
@@ -649,7 +649,7 @@
     "category": [
       "Detective Hat Kid"
     ],
-    "requires": "|Detective Hat Kid|"
+    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing|))"
   },
   {
     "name": "Down With The Mafia!!",
@@ -658,7 +658,7 @@
       "Detective Hat Kid",
       "Guzma"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma|"
+    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Pokémon Media| AND |Gangs/Organized Crime| AND (|Mysteries/Detective Media| OR |Skeletons|)))"
   },
   {
     "name": "Discussion -BATTLE-",
@@ -667,7 +667,7 @@
       "Detective Hat Kid",
       "Guzma"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma|"
+    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing| AND |Pokémon Media| AND |Gangs/Organized Crime| AND |Insects| AND (|Collectathons| OR |Skeletons|)))"
   },
   {
     "name": "Your Turn to Fly",
@@ -676,7 +676,7 @@
       "Detective Hat Kid",
       "Guzma"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma|"
+    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Mysteries/Detective Media| AND |Electro Swing| AND |Pokémon Media| AND |Insects| AND |Gangs/Organized Crime|))"
   },
   {
     "name": "Meaning of LOVE",
@@ -685,7 +685,7 @@
       "Detective Hat Kid",
       "MTT! Tour"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour|"
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing| AND |Undertale/DELTARUNE| AND (|Mysteries/Detective Media| OR |Ghosts|)))"
   },
   {
     "name": "Hats Off To You, Zenigata!",
@@ -694,7 +694,7 @@
       "Detective Hat Kid",
       "Scatman & Hatman"
     ],
-    "requires": "|Detective Hat Kid| AND |Scatman & Hatman|"
+    "requires": "|Detective Hat Kid| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Collectathons| AND |90s Hits| AND |Scatman John| AND |Jazz| AND |One-Hit Wonders| AND |Lou Bega|))"
   },
   {
     "name": "Talking In The Rain",
@@ -703,7 +703,7 @@
       "Detective Hat Kid",
       "MAD/EON"
     ],
-    "requires": "|Detective Hat Kid| AND |MAD/EON|"
+    "requires": "|Detective Hat Kid| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Madeon/Collaborators|))"
   },
   {
     "name": "Something Ain't Right...",
@@ -711,7 +711,7 @@
     "category": [
       "Detective Hat Kid"
     ],
-    "requires": "|Detective Hat Kid|"
+    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing|))"
   },
   {
     "name": "Mad Vanessa's Mansion",
@@ -720,7 +720,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND |Animated Webseries/Indie Web Animation| AND |Flash Creators| AND |Webcomics| AND |Zombies|))"
   },
   {
     "region": "Winners Round 2",
@@ -729,7 +729,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Animated Webseries/Indie Web Animation|))"
   },
   {
     "region": "Winners Round 2",
@@ -738,7 +738,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Webcomics|))"
   },
   {
     "region": "Winners Round 2",
@@ -747,7 +747,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND |Animated Webseries/Indie Web Animation| AND (|Puzzles| OR |Webcomics|)))"
   },
   {
     "name": "Vapored Clocktowers You Still Love",
@@ -756,7 +756,7 @@
       "Detective Hat Kid",
       "Bad Girlz"
     ],
-    "requires": "|Detective Hat Kid| AND |Bad Girlz|"
+    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |2010/2019 Top 100 Billboards| AND |Ke$sha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "name": "Pink Platforming (B-Side)",
@@ -765,7 +765,7 @@
       "Detective Hat Kid",
       "Hot Ones"
     ],
-    "requires": "|Detective Hat Kid| AND |Hot Ones|"
+    "requires": "|Detective Hat Kid| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |88Rising/Collaborators|))"
   },
   {
     "name": "BLOODY BURNING TRAINWRECK:『にゃくざ潮流』",
@@ -774,7 +774,7 @@
       "Detective Hat Kid",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Detective Hat Kid| AND |Heaven Ascension DIO|"
+    "requires": "|Detective Hat Kid| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Collectathons| AND |Shonen Jump| AND |JoJo's Bizarre Adventure Major Antagonists| AND (|Arena Fighters/3D Brawlers| OR |Vampires|)))"
   },
   {
     "name": "Forum Rocker (Chapter 2)",
@@ -785,7 +785,7 @@
       "Bad Girlz",
       "Forum Freakshow"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow|"
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Undertale/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$sha/Collaborators|))"
   },
   {
     "name": "Your Turn To Cry",
@@ -794,7 +794,7 @@
       "Detective Hat Kid",
       "Guzma"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma|"
+    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Mysteries/Detective Media| AND |Puzzles| AND |Pokémon Media| AND |Insects| AND |Gangs/Organized Crime| AND (|Gears for Breakfast/Indie Platformers| OR |Collectathons|)))"
   },
   {
     "name": "skin like striped spirits",
@@ -803,7 +803,7 @@
       "Detective Hat Kid",
       "Lofi Girl"
     ],
-    "requires": "|Detective Hat Kid| AND |Lofi Girl|"
+    "requires": "|Detective Hat Kid| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |School/Education|))"
   },
   {
     "name": "paint my world",
@@ -813,7 +813,7 @@
       "Netherrack Nightmares",
       "Lofi Girl"
     ],
-    "requires": "|Detective Hat Kid| AND |Netherrack Nightmares| AND |Lofi Girl|"
+    "requires": "|Detective Hat Kid| AND |Netherrack Nightmares| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Collectathons| AND |Minecraft| AND |Bedroom Pop| AND |Studio Ghibli|))"
   },
   {
     "name": "SWAMP DRAINED",
@@ -3968,7 +3968,7 @@
     "category": [
       "Detective Hat Kid"
     ],
-    "requires": "|Detective Hat Kid|"
+    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons|))"
   },
   {
     "name": "The Part Where She Shoots You",
@@ -3985,7 +3985,7 @@
       "Detective Hat Kid",
       "Head Chef Heavy"
     ],
-    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Collectathons| AND |Valve Properties| AND |Valve Fan-Content| AND |Food/Culinary Arts| AND |Eastern European Culture| AND |Huey Lewis And The News|))"
   },
   {
     "region": "Losers Round 2",
@@ -3994,7 +3994,7 @@
       "Detective Hat Kid",
       "Head Chef Heavy"
     ],
-    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Collectathons| AND |Valve Properties| AND |Valve Fan-Content| AND |Huey Lewis And The News| AND |Food/Culinary Arts| AND |Eastern European Culture|))"
   },
   {
     "region": "Losers Round 2",
@@ -4003,7 +4003,7 @@
       "Detective Hat Kid",
       "Head Chef Heavy"
     ],
-    "requires": "|Detective Hat Kid| AND |Head Chef Heavy|"
+    "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers|))"
   },
   {
     "region": "Losers Round 2",
