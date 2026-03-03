@@ -341,7 +341,7 @@
       "Tyler & The Grinch",
       "Lil Darkie"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap Metal| OR |Murder/Killing|)))"
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap-Metal| OR |Murder/Killing|)))"
   },
   {
     "name": "IGOR'S ULTIMATUM",
@@ -394,7 +394,7 @@
       "Tyler & The Grinch",
       "Lil Darkie"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap Metal| OR |Murder/Killing|)))"
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap-Metal| OR |Murder/Killing|)))"
   },
   {
     "name": "IGOR'S ULTIMATUM (Truly A Monster Mix)",
@@ -421,7 +421,7 @@
       "Detective Hat Kid",
       "River City Girls"
     ],
-    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Gears For Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Wayforward| AND |Synthpop| AND |Synthwave|))"
+    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Wayforward| AND |Synthpop| AND |Synthwave|))"
   },
   {
     "region": "Winners Round 2",
@@ -612,7 +612,7 @@
       "Kid Cobra",
       "Reanimatedd"
     ],
-    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators|)))"
+    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators/Creations)))"
   },
   {
     "name": "Murder On The Owl Express!",
@@ -720,7 +720,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND |Animated Webseries/Indie Web Animation| AND |Flash Creators| AND |Webcomics| AND |Zombies|))"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND |Animated Webseries/Indie Web Animation| AND |Flash Creators/Creations| AND |Webcomics| AND |Zombies|))"
   },
   {
     "region": "Winners Round 2",
@@ -747,7 +747,7 @@
       "Detective Hat Kid",
       "Reanimatedd"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Newgrounds Creators| AND |Animated Webseries/Indie Web Animation| AND (|Puzzles| OR |Webcomics|)))"
+    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND |Animated Webseries/Indie Web Animation| AND (|Puzzles| OR |Webcomics|)))"
   },
   {
     "name": "Vapored Clocktowers You Still Love",
@@ -821,7 +821,7 @@
     "category": [
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie|"
+    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West|))"
   },
   {
     "name": "Kaard’s Composition",
@@ -830,7 +830,7 @@
       "Lil Darkie",
       "MTT! Tour"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour|"
+    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Undertale/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "name": "DISINTEGRATING ROAD TO EL DORADO",
@@ -839,7 +839,7 @@
       "Lil Darkie",
       "Reanimatedd"
     ],
-    "requires": "|Lil Darkie| AND |Reanimatedd|"
+    "requires": "|Lil Darkie| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Eddsworld/Collaborators| AND (|Murder/Killing| OR |Zombies|) AND |Newgrounds Creators/Creations|))"
   },
   {
     "name": "A BUNCH OF CHEAP WALK CYCLES!",
@@ -848,7 +848,7 @@
       "Lil Darkie",
       "Gustavo Rocque"
     ],
-    "requires": "|Lil Darkie| AND |Gustavo Rocque|"
+    "requires": "|Lil Darkie| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Nickelodeon Media| AND |Nickelodeon Records|))"
   },
   {
     "name": "REACH FXR THE SKY!",
@@ -856,7 +856,7 @@
     "category": [
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie|"
+    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND  (|Spider Gang/Producers/Collaborators| OR |Trap-Metal| OR |Cowboys/Deserts/Wild West|) AND (|Spider Gang/Producers/Collaborators| OR |Trap-Metal|) AND |Hardstyle|))"
   },
   {
     "name": "THIS DESERT IS NOT FOR DREAMERS ANYMORE",
@@ -865,7 +865,7 @@
       "Painful Dreamers",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|RPGMaker| OR |The Apocalypse| OR Cowboys/Deserts/Wild West|) OR (|RPGMaker| OR |The Apocalypse|)"
   },
   {
     "name": "we don't have to hold on…",
@@ -874,7 +874,7 @@
       "Painful Dreamers",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sleep/Dreams/Nightmares| AND (|RPGMaker| OR |The Apocalypse|) AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "name": "A CHRISTMAS MIRACLE",
@@ -883,7 +883,7 @@
       "Lil Darkie",
       "Guzma"
     ],
-    "requires": "|Lil Darkie| AND |Guzma|"
+    "requires": "|Lil Darkie| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |Pokémon Media|))"
   },
   {
     "name": "Red and Pink",
@@ -893,7 +893,7 @@
       "Reanimatedd",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy|"
+    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators| AND Flash Creators/Creations| AND |Murder/Killing| AND |Food/Culinary Arts|))"
   },
   {
     "name": "GLASS CRYPT - AR-16 (3-3 Cold)",
@@ -902,7 +902,7 @@
       "Lil Darkie",
       "Cadence"
     ],
-    "requires": "|Lil Darkie| AND |Cadence|"
+    "requires": "|Lil Darkie| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Hardstyle| OR (|Trap-Metal| AND |Spider Gang/Producers/Collaborators|)) AND (Danny Baranowsky| OR |Rhythm Games| OR |Roguelikes| OR |Dungeon Crawlers|))"
   },
   {
     "name": "GO SHOOT 'EM ALL!",
@@ -910,7 +910,7 @@
     "category": [
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie|"
+    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND (|Spider Gang/Producers/Collaborators| OR |Trap-Metal|) AND |Hardstyle| AND |Cowboys/Deserts/Wild West|))"
   },
   {
     "name": "the high life",
@@ -919,7 +919,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON|"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|IDM| AND |Spider Gang/Producers/Collaborators| AND |Madeon/Collaborators|))"
   },
   {
     "name": "MADNESS!",
@@ -928,7 +928,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON|"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Madeon/Collaborators|))"
   },
   {
     "name": "DARKIE58",
@@ -937,7 +937,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON|"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGS| AND |IDM| AND |Murder/Killing| AND |Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West| AND |Madeon/Collaborators|))"
   },
   {
     "name": "TUMBLEWEEDS",
@@ -945,7 +945,7 @@
     "category": [
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie|"
+    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West|))"
   },
   {
     "name": "taken away from me",
@@ -954,7 +954,7 @@
       "Lil Darkie",
       "Hot Ones"
     ],
-    "requires": "|Lil Darkie| AND |Hot Ones|"
+    "requires": "|Lil Darkie| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |88Rising/Collaborators|))"
   },
   {
     "name": "deadbeat",
@@ -963,7 +963,7 @@
       "Lil Darkie",
       "Bad Girlz"
     ],
-    "requires": "|Lil Darkie| AND |Bad Girlz|"
+    "requires": "|Lil Darkie| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|) AND |Murder/Killing| AND (|Ke$sha/Collaborators| OR |2010/2019 Top 100 Billboards|)))"
   },
   {
     "name": "Composition's Kaard",
@@ -972,7 +972,7 @@
       "Lil Darkie",
       "MTT! Tour"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour|"
+    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Undertale/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "region": "Remix Week",
@@ -981,7 +981,7 @@
       "Painful Dreamers",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Sleep/Dreams/Nightmares| AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "name": "low life scum like you",
@@ -990,7 +990,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON|"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Cowboys/Deserts/Wild West| AND |IDM| AND Madeon/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
   },
   {
     "name": "IRON CURTAIN",
@@ -999,7 +999,7 @@
       "Head Chef Heavy",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Head Chef Heavy|"
+    "requires": "|Lil Darkie| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Fan-Content| AND |Spider Gang/Producers/Collaborators| AND |First Person Shooters/Class Based Shooters| AND (|Cowboys/Deserts/Wild West| OR |Guns|)))"
   },
   {
     "name": "Saturnz Slidez",
@@ -1008,7 +1008,7 @@
       "Lil Darkie",
       "Ace D. Copular"
     ],
-    "requires": "|Lil Darkie| AND |Ace D. Copular|"
+    "requires": "|Lil Darkie| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Damon Albarn| AND |Turner Broadcasting|))"
   },
   {
     "name": "Lil Daisuke",
@@ -1016,7 +1016,7 @@
     "category": [
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie|"
+    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Murder/Killing| AND |Cowboys/Deserts/Wild West|))"
   },
   {
     "name": "Rusty Raps",
@@ -1027,7 +1027,7 @@
       "Club Bangers",
       "Ace D. Copular"
     ],
-    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular|"
+    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND |Gangs/Organized Crime| AND |French House| AND |Damon Albarn| AND |Spider Gang/Producers/Collaborators| AND Fatman Scoop|))"
   },
   {
     "name": "Now Entering [A] : ...",
@@ -3795,7 +3795,7 @@
       "Lil Darkie",
       "Playing With Power!"
     ],
-    "requires": "|Lil Darkie| AND  |Playing With Power!|"
+    "requires": "|Lil Darkie| AND  |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Birds| AND |Spider Gang/Producers/Collaborators| AND |Game & Watch Galleries/Smash Bros. 'Other' Category|))"
   },
   {
     "name": "Chitlin B. Chitlins",

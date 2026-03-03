@@ -59,7 +59,7 @@ class LocalFill(Range):
 
 class Sourcesanity(Toggle):
     """Adds characters sources into the pool, adding about 180 progression items
-    do note that this can result in very restrictive seeds."""
+    do note that this can result in very restrictive seeds. Also removes Eras from the pool."""
     default = False
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
