@@ -1035,7 +1035,7 @@
     "category": [
       "Playing With Power!"
     ],
-    "requires": "|Playing With Power!|"
+    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Canines|))"
   },
   {
     "name": "rode here on the vines",
@@ -1044,7 +1044,7 @@
       "Playing With Power!",
       "Painful Dreamers"
     ],
-    "requires": "|Playing With Power!| AND |Painful Dreamers|"
+    "requires": "|Playing With Power!| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Sleep/Dreams/Nightmares|))"
   },
   {
     "name": "Let's Make a Chocolate Island !!",
@@ -1053,7 +1053,7 @@
       "Playing With Power!",
       "Snailiens"
     ],
-    "requires": "|Playing With Power!| AND |Snailiens|"
+    "requires": "|Playing With Power!| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Snail's House| AND |Space/Aliens|))"
   },
   {
     "name": "Pharmacist Mario",
@@ -1062,7 +1062,7 @@
       "Playing With Power!",
       "Club Bangers"
     ],
-    "requires": "|Playing With Power!| AND |Club Bangers|"
+    "requires": "|Playing With Power!| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Ed Banger Records| AND |French Touch|))"
   },
   {
     "name": "Shake It",
@@ -1071,7 +1071,7 @@
       "Playing With Power!",
       "MONSTERMAU5"
     ],
-    "requires": "|Playing With Power!| AND |MONSTERMAU5|"
+    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |NES/SNES| AND |Dubstep|))"
   },
   {
     "name": "Flat Zone 3",
@@ -1079,7 +1079,7 @@
     "category": [
       "Playing With Power!"
     ],
-    "requires": "|Playing With Power!|"
+    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category|))"
   },
   {
     "region": "Round 1",
@@ -1088,7 +1088,7 @@
       "Playing With Power!",
       "Elliana"
     ],
-    "requires": "|Playing With Power!| AND |Elliana|"
+    "requires": "|Playing With Power!| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |VGM/Chiptune Influenced EDM| AND |Rivals of Aether/flashygoodness| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives|))"
   },
   {
     "region": "Round 1",
@@ -1097,7 +1097,7 @@
       "Playing With Power!",
       "Elliana"
     ],
-    "requires": "|Playing With Power!| AND |Elliana|"
+    "requires": "|Playing With Power!| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND (|Gameboy| OR |Birds|) AND |Rivals of Aether/flashygoodness| AND |VGM/Chiptune Influenced EDM| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives| AND |Flight|))"
   },
   {
     "name": "Nether Starboy",
@@ -1107,7 +1107,7 @@
       "Hot Ones",
       "Netherrack Nightmares"
     ],
-    "requires": "|Playing With Power!| AND |Hot Ones| AND |Netherrack Nightmares|"
+    "requires": "|Playing With Power!| AND |Hot Ones| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Canines| AND |Heat/Fire/Summertime| AND |R&B|))"
   },
   {
     "name": "Swimming Through the Stickerbrush",
@@ -1115,7 +1115,7 @@
     "category": [
       "Playing With Power!"
     ],
-    "requires": "|Playing With Power!|"
+    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Birds| AND |Canines|))"
   },
   {
     "name": "Tetris Type Blu2: The Power Update",
@@ -1124,7 +1124,7 @@
       "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Gameboy| AND |Valve Properties| AND |Eastern European Culture| AND |Food/Culinary Arts| AND (|Birds| OR |First Person Shooters/Class Based Shooters|)))"
   },
   {
     "name": "Zagrajmy na Pegasusie",
@@ -1133,7 +1133,7 @@
       "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Eastern European Culture| AND |Valve Properties|))"
   },
   {
     "region": "Losers Round 1",
@@ -1142,7 +1142,7 @@
       "Playing With Power!",
       "Head Chef Heavy"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy|"
+    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Canines| AND |Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Food/Culinary Arts| AND |Valve Fan-Content|))"
   },
   {
     "name": "Gorilla Watchez",
@@ -1151,7 +1151,7 @@
       "Playing With Power!",
       "Ace D. Copular"
     ],
-    "requires": "|Playing With Power!| AND |Ace D. Copular|"
+    "requires": "|Playing With Power!| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Damon Albarn| AND |Alternative Rock|))"
   },
   {
     "name": "Superfast Octopus",
@@ -1160,7 +1160,7 @@
       "Playing With Power!",
       "Ace D. Copular"
     ],
-    "requires": "|Playing With Power!| AND |Ace D. Copular|"
+    "requires": "|Playing With Power!| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Damon Albarn| AND (|Alternative Rock| OR |Turner Broadcasting|)))"
   },
   {
     "name": "theme of an unbeatable surfer",
@@ -1168,7 +1168,7 @@
     "category": [
       "Playing With Power!"
     ],
-    "requires": "|Playing With Power!|"
+    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Birds| AND |Canines| AND |Game & Watch Galleries/Smash Bros. 'Other' Category|))"
   },
   {
     "name": "Pomegranate Pomeranian",
@@ -1178,7 +1178,7 @@
       "Guzma",
       "Playing With Power!"
     ],
-    "requires": "|Ruler of Everything| AND |Guzma| AND |Playing With Power!|"
+    "requires": "|Ruler of Everything| AND |Guzma| AND |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND (|Canines| OR |Insects|) AND (|80s/90s Nintendo Non-Video Game Media| OR |Pokémon Media|) AND (|NES/SNES| OR |Tally Hall/Its Members|)))"
   },
   {
     "name": "Monstercat vs. The Big Dogs",
@@ -1188,7 +1188,7 @@
       "MONSTERMAU5",
       "Gustavo Rocque"
     ],
-    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND |Gustavo Rocque|"
+    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Dubstep| AND |deadmau5/mau5trap Artists| AND |Nickelodeon Media|))"
   },
   {
     "name": "now you're one of us",
@@ -1197,7 +1197,7 @@
       "Playing With Power!",
       "Painful Dreamers"
     ],
-    "requires": "|Playing With Power!| AND |Painful Dreamers|"
+    "requires": "|Playing With Power!| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |RPGMaker| AND |Sleep/Dreams/Nightmares|))"
   },
   {
     "name": "Vacation to Dinosaur Island",
@@ -1206,7 +1206,7 @@
       "Playing With Power!",
       "Hot Ones"
     ],
-    "requires": "|Playing With Power!| AND |Hot Ones|"
+    "requires": "|Playing With Power!| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |R&B| AND |88Rising/Collaborators|))"
   },
   {
     "name": "Danger Down Under!",
