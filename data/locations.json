@@ -1322,7 +1322,7 @@
       "Head Chef Heavy",
       "gSports"
     ],
-    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND |Scott the Woz| AND |gSports|"
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND |Scott the Woz| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|YTPs/YTPMVs| AND |SoundClowns| AND |Scott the Woz/Collaborators| AND |Vehicles| AND |Notable Scott the Woz Games| AND |Eastern European Culture| AND |Valve Properties| AND |Wii Series| AND |Advertisements/GEICO Ads| AND |Gaming Youtubers| AND |SoundCloud Rappers| AND |Food/Culinary Arts| AND |Ray William Johnson|))"
   },
   {
     "name": "Schadenfreude",
