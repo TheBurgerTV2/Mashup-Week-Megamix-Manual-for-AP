@@ -1214,7 +1214,7 @@
     "category": [
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy|"
+    "requires": "|Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Valve Fan-Content| AND |Huey Lewis And The News|))"
   },
   {
     "name": "yoooo wtf they got an olive garden in aperture science",
@@ -1223,7 +1223,7 @@
       "Head Chef Heavy",
       "Club Bangers"
     ],
-    "requires": "|Head Chef Heavy| AND |Club Bangers|"
+    "requires": "|Head Chef Heavy| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Ed Banger Records|))"
   },
   {
     "region": "Pre-Bracket",
@@ -1232,7 +1232,7 @@
       "Head Chef Heavy",
       "Forum Freakshow"
     ],
-    "requires": "|Head Chef Heavy| AND |Forum Freakshow|"
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eastern European Culture| AND |SoundCloud Rappers|))"
   },
   {
     "name": "Follow That Car!",
@@ -1240,7 +1240,7 @@
     "category": [
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy|"
+    "requires": "|Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Food/Culinary Arts|))"
   },
   {
     "name": "Kart and Payload Insurance: Double Dash!!",
@@ -1249,7 +1249,7 @@
       "gSports",
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy| AND |gSports|"
+    "requires": "|Head Chef Heavy| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Food/Culinary Arts| AND |Valve Fan-Content| AND |Eastern European Culture| AND |Advertisements/GEICO Ads| AND |Vehicles| AND |Streamers/Streaming/Streamer Background Music| AND |Racing Games|))"
   },
   {
     "name": "VIBR8R8R8",
@@ -1258,7 +1258,7 @@
       "gSports",
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy| AND |gSports|"
+    "requires": "|Head Chef Heavy| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Food/Culinary Arts| AND |Eastern European Culture| AND |Twitch Games/eSports Games| AND |Streamers/Streaming/Streamer Background Music|))"
   },
   {
     "name": "Plagues and Piglins",
@@ -1267,7 +1267,7 @@
       "Head Chef Heavy",
       "Netherrack Nightmares"
     ],
-    "requires": "|Head Chef Heavy| AND |Netherrack Nightmares|"
+    "requires": "|Head Chef Heavy| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Food/Culinary Arts| AND |Huey Lewis And The News| AND |Minecraft|))"
   },
   {
     "region": "Losers Round 1",
@@ -1275,7 +1275,7 @@
     "category": [
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy|"
+    "requires": "|Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Valve Fan-Content| AND |Guns|))"
   },
   {
     "name": "Crypt of Cooking and Karaoke",
@@ -1284,7 +1284,7 @@
       "Cadence",
       "Head Chef Heavy"
     ],
-    "requires": "|Cadence| AND |Head Chef Heavy|"
+    "requires": "|Cadence| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Valve Fan-Content| AND |Huey Lewis And The News| AND |Eastern European Culture| AND |Rhythm Games| AND |Popularized Through Rhythm Games| AND |Danny Baranowsky| AND (|Guns| OR |Roguelikes|) AND (|Food/Culinary Arts| OR |Dungeon Crawlers|)))"
   },
   {
     "region": "Remix Week",
@@ -1293,7 +1293,7 @@
       "Club Bangers",
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy| AND |Club Bangers|"
+    "requires": "|Head Chef Heavy| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Food/Culinary Arts| AND |Ed Banger Records| AND |French Touch|))"
   },
   {
     "name": "MANN VS MACHINE NEO ~ 7th Wave",
@@ -1302,7 +1302,7 @@
       "MTT! Tour",
       "Head Chef Heavy"
     ],
-    "requires": "|MTT! Tour| AND |Head Chef Heavy|"
+    "requires": "|MTT! Tour| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Valve Fan-Content| AND |Eastern European Culture| AND |Robots| AND |Undertale/DELTARUNE| AND |Glam Rock|))"
   },
   {
     "name": "Follow That Car! (Trap Remix)",
@@ -1311,7 +1311,7 @@
       "Head Chef Heavy",
       "Forum Freakshow"
     ],
-    "requires": "|Head Chef Heavy| AND |Forum Freakshow|"
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Ray William Johnson| AND |SoundClowns| AND |SoundCloud Rappers|))"
   },
   {
     "name": "THE FURNISHING BLOW",
@@ -1331,7 +1331,7 @@
       "Bad Girlz",
       "Head Chef Heavy"
     ],
-    "requires": "|Bad Girlz| AND |Head Chef Heavy|"
+    "requires": "|Bad Girlz| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Eastern European Culture| AND |Billie Eilish/Collaborators| AND (|Food/Culinary Arts| OR |Ke$sha/Collaborators|)))"
   },
   {
     "name": "The Big Bad Boss",
@@ -3976,7 +3976,7 @@
     "category": [
       "Head Chef Heavy"
     ],
-    "requires": "|Head Chef Heavy|"
+    "requires": "|Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Guns|))"
   },
   {
     "name": "COLLAPSING TOWERS!!",
