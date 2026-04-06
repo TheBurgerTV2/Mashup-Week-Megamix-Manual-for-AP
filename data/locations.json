@@ -1339,7 +1339,7 @@
     "category": [
       "Guzma"
     ],
-    "requires": "|Guzma|"
+    "requires": "|Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gangs/Organized Crime| AND |Pokémon Media| AND |Insects|))"
   },
   {
     "name": "U, Me, Us",
@@ -1348,7 +1348,7 @@
       "Guzma",
       "Hot Ones"
     ],
-    "requires": "|Hot Ones| AND |Guzma|"
+    "requires": "|Hot Ones| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Pokémon Media| AND |88Rising/Collaborators|))"
   },
   {
     "name": "Living On A Program Too",
@@ -1358,7 +1358,7 @@
       "MTT! Tour",
       "Susie Haltmann"
     ],
-    "requires": "|Guzma| AND |MTT! Tour| AND |Susie Haltmann|"
+    "requires": "|Guzma| AND |MTT! Tour| AND |Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|Pokémon Media| AND (|Robots| OR |Kirby|)))"
   },
   {
     "name": "Card Edge (aka Quagsire)",
@@ -1366,7 +1366,7 @@
     "category": [
       "Guzma"
     ],
-    "requires": "|Guzma|"
+    "requires": "|Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gangs/Organized Crime| AND |Pokémon Media| AND |Skeletons|))"
   },
   {
     "name": "Late Night Ball Out",
@@ -1375,7 +1375,7 @@
       "Guzma",
       "Bad Girlz"
     ],
-    "requires": "|Guzma| AND |Bad Girlz|"
+    "requires": "|Guzma| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Pokémon Media| AND |Ke$sha/Collaborators| AND (|Gangs/Organized Crime| OR |Skeletons| OR |Insects|)))"
   },
   {
     "name": "Bad Bone Rocket",
@@ -1383,7 +1383,7 @@
     "category": [
       "Guzma"
     ],
-    "requires": "|Guzma|"
+    "requires": "|Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skeletons| AND |Mainstay Pokémon Composers| AND |Insects| AND |Pokémon Media|))"
   },
   {
     "name": "One Last Fight to the Finish!",
@@ -1392,7 +1392,7 @@
       "Guzma",
       "Cadence"
     ],
-    "requires": "|Guzma| AND |Cadence|"
+    "requires": "|Guzma| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Rhythm Games| AND |Gangs/Organized Crime| AND |Dungeon Crawlers| AND |Insects| AND |Pokémon Media| AND |Danny Baranowsky| AND |Skeletons|))"
   },
   {
     "name": "Gun The Jewels",
@@ -1401,7 +1401,7 @@
       "Guzma",
       "Cadence"
     ],
-    "requires": "|Guzma| AND |Cadence|"
+    "requires": "|Guzma| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Gangs/Organized Crime| AND |Pokémon Media| AND |Insects| AND |Danny Baranowsky|))"
   },
   {
     "name": "Hasta La Viiistar!",
@@ -1410,7 +1410,7 @@
       "Guzma",
       "Cadence"
     ],
-    "requires": "|Guzma| AND |Cadence|"
+    "requires": "|Guzma| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Pokémon Media| AND |Rhythm Games| AND (|Gangs/Organized Crime| OR |Danny Baranowsky|)))"
   },
   {
     "name": "HM02",
@@ -1418,7 +1418,7 @@
     "category": [
       "Guzma"
     ],
-    "requires": "|Guzma|"
+    "requires": "|Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gangs/Organized Crime| AND |Pokémon Media| AND |Insects|))"
   },
   {
     "name": "A Life re:P-R-O-G-R-A-M-M-E-D",
@@ -1427,7 +1427,7 @@
       "Guzma",
       "Susie Haltmann"
     ],
-    "requires": "|Guzma| AND |Susie Haltmann|"
+    "requires": "|Guzma| AND |Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kirby| AND (|Pokémon Media| OR |2nd-Party Nintendo Games|)))"
   },
   {
     "name": "Time Moves Again",
@@ -1435,7 +1435,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO|"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Vampires| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Religion| AND |Shonen Jump|))"
   },
   {
     "name": "Dio's Dastardly Destructive Depository",
@@ -1444,7 +1444,7 @@
       "Ruler of Everything",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Ruler of Everything| AND |Heaven Ascension DIO|"
+    "requires": "|Ruler of Everything| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Shonen Jump| AND |Time| AND |Vampires| AND |JoJo's Bizarre Adventure Major Antagonists|))"
   },
   {
     "name": "Yell \"Cannonball\"",
@@ -1453,7 +1453,7 @@
       "Elliana",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Elliana| AND |Heaven Ascension DIO|"
+    "requires": "|Elliana| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND (|War| OR |Flight|) AND |Shonen Jump| AND |FGC Competitions/2D Fighting Games|))"
   },
   {
     "name": "Stone-Bottomed Oceans",
@@ -1461,7 +1461,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO|"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |JoJo's Bizarre Adventure Major Antagonists|))"
   },
   {
     "name": "Today I'll Steal A Kiss",
@@ -1470,7 +1470,7 @@
       "Heaven Ascension DIO",
       "River City Girls"
     ],
-    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthpop| AND |Wayforward| AND |Shonen Jump| AND |Arena Fighters/3D Brawlers| AND |Beat-Em-Ups| AND |Vampires|))"
   },
   {
     "name": "Gotta Gimme A Chance!",
@@ -1479,7 +1479,7 @@
       "Heaven Ascension DIO",
       "River City Girls"
     ],
-    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arc System Works| AND (|Arena Fighters/3D Brawlers| OR |Beat-Em-Ups|) AND |Chipzel| AND |Shonen Jump| AND (|Religion| OR |Synthpop|) AND |JoJo's Bizarre Adventure Major Antagonists))"
   },
   {
     "name": "Spectres Of Misfortune",
@@ -1488,7 +1488,7 @@
       "Heaven Ascension DIO",
       "River City Girls"
     ],
-    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Chipzel| AND |Shonen Jump| AND |Arc System Works| AND |Synthpop| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Beat-Em-Ups| AND (|Vampires| OR |Synthwave|) AND |Religion|))"
   },
   {
     "name": "BadBoyz4Breakfast",
@@ -1497,7 +1497,7 @@
       "Heaven Ascension DIO",
       "Bad Girlz"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Bad Girlz|"
+    "requires": "|Heaven Ascension DIO| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |Billie Eilish/Collaborators| AND |Ke$sha/Collaborators|))"
   },
   {
     "region": "Losers Round 1",
@@ -1506,7 +1506,7 @@
       "Rick Hentai",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Rick Hentai| AND |Heaven Ascension DIO|"
+    "requires": "|Rick Hentai| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |80s New Wave| AND |Shonen Jump| AND |Religion| AND |Sexual Themes|))"
   },
   {
     "name": "This Wickedness Consumes Me",
@@ -1514,7 +1514,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO|"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |Religion| AND |Vampires| AND |Shonen Jump|))"
   },
   {
     "name": "Blood",
@@ -1523,7 +1523,7 @@
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND (|Arena Fighters/3D Brawlers| OR |Religion|) AND |JoJo's Bizarre Adventure Major Antagonists| AND |Vampires| AND |Sports/Training Montages| AND |Quad City DJs/Space Jam Artists| AND |Gnarls Barkley/Its Members| AND |90s Hip-Hop/Rap|))"
   },
   {
     "region": "Winners Round 2",
@@ -1532,7 +1532,7 @@
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|90s Hip-Hop/Rap| AND |Shonen Jump| AND |Quad City DJs/Space Jam Artists| AND |Arena Fighters/3D Brawlers| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Sports/Training Montages|))"
   },
   {
     "region": "Winners Round 2",
@@ -1541,7 +1541,7 @@
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists| AND |Shonen Jump| AND Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Arena Fighters/3D Brawlers|))"
   },
   {
     "region": "Winners Round 2",
@@ -1550,7 +1550,7 @@
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Vampires| AND |Quad City DJs/Space Jam Artists| AND |Gnarls Barkley/Its Members| AND |Religion| AND |90s Hip-Hop/Rap| AND |Shonen Jump| AND |Sports/Training Montages| AND |JoJo's Bizarre Adventure Major Antagonists|))"
   },
   {
     "name": "「SANDS OF TIME」",
@@ -1559,7 +1559,7 @@
       "Heaven Ascension DIO",
       "Ruler of Everything"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Ruler of Everything|"
+    "requires": "|Heaven Ascension DIO| AND |Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |Tally Hall/Its Members| AND |Time| AND (|Religion| OR |Royalty|) AND |Vampires| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Arena Fighters/3D Brawlers|))"
   },
   {
     "name": "Stand Tall, Breathe Out",
@@ -1567,7 +1567,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO|"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |Arena Fighters/3D Brawlers))"
   },
   {
     "name": "Spectres of Misfortune [Other Side Mix]",
@@ -1576,7 +1576,7 @@
       "Heaven Ascension DIO",
       "River City Girls"
     ],
-    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Chipzel| AND |Shonen Jump| AND |Arc System Works| AND |Beat-Em-Ups| AND |Synthpop| AND |Religion| AND |Vampires| AND |JoJo's Bizarre Adventure Major Antagonists|))"
   },
   {
     "name": "Sukuna Flow",
@@ -1584,7 +1584,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO|"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |Vampires| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Religion| AND |Arena Fighters/3D Brawlers|))"
   },
   {
     "name": "Things Forgotten, Lost Their Time",
@@ -4757,7 +4757,7 @@
       "Reanimatedd",
       "Club Bangers"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Reanimatedd| AND |Club Bangers|"
+    "requires": "|Heaven Ascension DIO| AND |Reanimatedd| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Zombies| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Newgrounds Creators/Creations| AND |French Touch| AND |Eddsworld/Collaborators| AND |Big Beat| AND |Plunderphonics| AND |Religion| AND |Vampires|))"
   },
   {
     "name": "Party All Christmas",
