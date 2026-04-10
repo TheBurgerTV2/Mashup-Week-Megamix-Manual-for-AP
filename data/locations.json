@@ -1592,7 +1592,7 @@
     "category": [
       "Ruler of Everything"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty|))"
   },
   {
     "name": "Good Day, All Star!",
@@ -1601,7 +1601,7 @@
       "Ruler of Everything",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Ruler of Everything| AND |Black Mamba Farquaad|"
+    "requires": "|Ruler of Everything| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Smash Mouth/Shrek Artists| AND |Dreamworks|))"
   },
   {
     "name": "hi opal !",
@@ -1610,7 +1610,7 @@
       "Ruler of Everything",
       "Lofi Girl"
     ],
-    "requires": "|Ruler of Everything| AND |Lofi Girl|"
+    "requires": "|Ruler of Everything| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Claymation/Stopmotion Media| OR |Bedroom Pop|))"
   },
   {
     "region": "Round 1",
@@ -1618,7 +1618,7 @@
     "category": [
       "Ruler of Everything"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time|))"
   },
   {
     "name": "METTATON'S MAGICAL MECHANICAL MATCH!",
@@ -1627,7 +1627,7 @@
       "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|Ruler of Everything| AND |MTT! Tour|"
+    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |Undertale/DELTARUNE| AND |Robots|))"
   },
   {
     "name": "Monster Party",
@@ -1636,7 +1636,7 @@
       "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|Ruler of Everything| AND |MTT! Tour|"
+    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |Undertale/DELTARUNE| AND |Glam Rock| AND |Felines|))"
   },
   {
     "name": "Be Beautiful",
@@ -1645,7 +1645,7 @@
       "Ruler of Everything",
       "Bad Girlz"
     ],
-    "requires": "|Ruler of Everything| AND |Bad Girlz|"
+    "requires": "|Ruler of Everything| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty| AND |2010/2019 Top 100 Billboards| AND |Billie Eilish/Collaborators|))"
   },
   {
     "name": "The Reflection Chamber",
@@ -1653,7 +1653,7 @@
     "category": [
       "Ruler of Everything"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Claymation/Stopmotion Media|))"
   },
   {
     "name": "Lord of the Flies",
@@ -1662,7 +1662,7 @@
       "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Damon Albarn| AND |Alternative Rock| AND |Turner Broadcasting|))"
   },
   {
     "region": "Winners Round 2",
@@ -1671,7 +1671,7 @@
       "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Damon Albarn| AND (|Claymation/Stopmotion Media| OR |Turner Broadcasting|)))"
   },
   {
     "region": "Winners Round 2",
@@ -1680,7 +1680,7 @@
       "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Alternative Rock| AND |Damon Albarn|))"
   },
   {
     "region": "Winners Round 2",
@@ -1689,7 +1689,7 @@
       "Ruler of Everything",
       "Ace D. Copular"
     ],
-    "requires": "|Ruler of Everything| AND |Ace D. Copular|"
+    "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Turner Broadcasting| AND |Damon Albarn| AND |Alternative Rock|))"
   },
   {
     "region": "Winners Round 2",
@@ -1697,7 +1697,7 @@
     "category": [
       "Ruler of Everything"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members|))"
   },
   {
     "region": "Winners Round 2",
@@ -1706,7 +1706,7 @@
       "Ruler of Everything",
       "Painful Dreamers"
     ],
-    "requires": "|Ruler of Everything| AND |Painful Dreamers|"
+    "requires": "|Ruler of Everything| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Psychedelic Genres| AND |RPGMaker|))"
   },
   {
     "region": "Winners Round 2",
@@ -1715,7 +1715,7 @@
       "Ruler of Everything",
       "Painful Dreamers"
     ],
-    "requires": "|Ruler of Everything| AND |Painful Dreamers|"
+    "requires": "|Ruler of Everything| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Psychedelic Genres| AND (|Royalty| OR |Drugs/Psychedelic Imagery|)))"
   },
   {
     "name": "Keep An Eye On Gravity",
@@ -4088,7 +4088,7 @@
     "category": [
       "Ruler of Everything"
     ],
-    "requires": "|Ruler of Everything|"
+    "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Claymation/Stopmotion Media|))"
   },
   {
     "region": "Losers Round 2",
@@ -4721,7 +4721,7 @@
       "Ruler of Everything",
       "Forum Freakshow"
     ],
-    "requires": "|Ruler of Everything| AND |Forum Freakshow|"
+    "requires": "|Ruler of Everything| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |Ray William Johnson| AND |YTPs/YTPMVs|))"
   },
   {
     "name": "Tama City Anthem",
