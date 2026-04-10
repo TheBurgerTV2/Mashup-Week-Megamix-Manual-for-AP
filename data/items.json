@@ -345,14 +345,6 @@
   },
   {
     "count": 1,
-    "name": "All Sources",
-    "category": [
-      "Source"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Neil Cicierega",
     "category": [
       "Source",

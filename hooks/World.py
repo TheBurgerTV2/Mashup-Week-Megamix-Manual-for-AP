@@ -90,8 +90,34 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
+    # Starting Items
+    num_starting_characters = world.options.starting_characters.value
+    starting_characters = []
+    starting_item_names = [name for name, i in world.item_name_to_item.items() if "Character" in i.get("category", [])]
+
+    for _ in range(num_starting_characters):
+        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_item_names and i.player == player])
+        multiworld.push_precollected(chosen_item)
+        item_pool.remove(chosen_item)
+        starting_characters.append(chosen_item)
+
+
+
+    # Add source items to starting inventory
+    sourcesanity = world.options.Sourcesanity.value
+    if sourcesanity:
+        for char in starting_characters:
+            character_source_item_names = [name for name, i in world.item_name_to_item.items() if f"{char.name} Source" in i.get("category", [])]
+            character_source_items = [i for i in item_pool if i.name in character_source_item_names and i.player == player]
+            for item in character_source_items:
+                multiworld.push_precollected(item)
+                item_pool.remove(item)
+
+
+
+    # Add Filler
     fillers = [name for name, i in world.item_name_to_item.items() if "Filler" in i.get("category", [])]
-    total_filler = len(world.get_locations()) - len(item_pool) + world.options.starting_characters.value
+    total_filler = len(world.get_locations()) - len(item_pool)
 
     for n in range(1, total_filler+1):
 
@@ -108,17 +134,6 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-
-    # Starting Items
-    starting_characters = world.options.starting_characters.value
-
-    #print(item_pool)
-    starting_item_names = [name for name, i in world.item_name_to_item.items() if "Character" in i.get("category", [])]
-
-    for _ in range(starting_characters):
-        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_item_names and i.player == player])
-        multiworld.push_precollected(chosen_item)
-        item_pool.remove(chosen_item)
 
     return item_pool
 

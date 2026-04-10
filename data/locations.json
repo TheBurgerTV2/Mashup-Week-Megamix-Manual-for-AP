@@ -605,14 +605,14 @@
     "requires": "|Kid Cobra| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |88Rising/Collaborators|))"
   },
   {
-    "name": "All The [HATERS] Say I'm Pretty Swell!",
+    "name": "All The [HATERS] Say I'm Pretty Swell!",
     "region": "Winners Round 2",
     "category": [
       "Forum Freakshow",
       "Kid Cobra",
       "Reanimatedd"
     ],
-    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators/Creations)))"
+    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators/Creations|)))"
   },
   {
     "name": "Murder On The Owl Express!",
@@ -865,7 +865,7 @@
       "Painful Dreamers",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|RPGMaker| OR |The Apocalypse| OR Cowboys/Deserts/Wild West|) OR (|RPGMaker| OR |The Apocalypse|)"
+    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|RPGMaker| OR |The Apocalypse| OR |Cowboys/Deserts/Wild West|) OR (|RPGMaker| OR |The Apocalypse|))"
   },
   {
     "name": "we don't have to hold on…",
@@ -893,7 +893,7 @@
       "Reanimatedd",
       "Lil Darkie"
     ],
-    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators| AND Flash Creators/Creations| AND |Murder/Killing| AND |Food/Culinary Arts|))"
+    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators| AND |Flash Creators/Creations| AND |Murder/Killing| AND |Food/Culinary Arts|))"
   },
   {
     "name": "GLASS CRYPT - AR-16 (3-3 Cold)",
@@ -902,7 +902,7 @@
       "Lil Darkie",
       "Cadence"
     ],
-    "requires": "|Lil Darkie| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Hardstyle| OR (|Trap-Metal| AND |Spider Gang/Producers/Collaborators|)) AND (Danny Baranowsky| OR |Rhythm Games| OR |Roguelikes| OR |Dungeon Crawlers|))"
+    "requires": "|Lil Darkie| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Hardstyle| OR (|Trap-Metal| AND |Spider Gang/Producers/Collaborators|)) AND (|Danny Baranowsky| OR |Rhythm Games| OR |Roguelikes| OR |Dungeon Crawlers|))"
   },
   {
     "name": "GO SHOOT 'EM ALL!",
@@ -937,7 +937,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGS| AND |IDM| AND |Murder/Killing| AND |Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West| AND |Madeon/Collaborators|))"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGs| AND |IDM| AND |Murder/Killing| AND |Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West| AND |Madeon/Collaborators|))"
   },
   {
     "name": "TUMBLEWEEDS",
@@ -990,7 +990,7 @@
       "Lil Darkie",
       "MAD/EON"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Cowboys/Deserts/Wild West| AND |IDM| AND Madeon/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
+    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Cowboys/Deserts/Wild West| AND |IDM| AND |Madeon/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
   },
   {
     "name": "IRON CURTAIN",
@@ -1027,7 +1027,7 @@
       "Club Bangers",
       "Ace D. Copular"
     ],
-    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND |Gangs/Organized Crime| AND |French House| AND |Damon Albarn| AND |Spider Gang/Producers/Collaborators| AND Fatman Scoop|))"
+    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND |Gangs/Organized Crime| AND |French Touch| AND |Damon Albarn| AND |Spider Gang/Producers/Collaborators| AND |Fatman Scoop|))"
   },
   {
     "name": "Now Entering [A] : ...",
@@ -1453,7 +1453,7 @@
       "Elliana",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Elliana| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND (|War| OR |Flight|) AND |Shonen Jump| AND |FGC Competitions/2D Fighting Games|))"
+    "requires": "|Elliana| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND (|War/Explosives| OR |Flight|) AND |Shonen Jump| AND |FGC Competitions/2D Fighting Games|))"
   },
   {
     "name": "Stone-Bottomed Oceans",
@@ -1479,7 +1479,7 @@
       "Heaven Ascension DIO",
       "River City Girls"
     ],
-    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arc System Works| AND (|Arena Fighters/3D Brawlers| OR |Beat-Em-Ups|) AND |Chipzel| AND |Shonen Jump| AND (|Religion| OR |Synthpop|) AND |JoJo's Bizarre Adventure Major Antagonists))"
+    "requires": "|Heaven Ascension DIO| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arc System Works| AND (|Arena Fighters/3D Brawlers| OR |Beat-Em-Ups|) AND |Chipzel| AND |Shonen Jump| AND (|Religion| OR |Synthpop|) AND |JoJo's Bizarre Adventure Major Antagonists|))"
   },
   {
     "name": "Spectres Of Misfortune",
@@ -1541,7 +1541,7 @@
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists| AND |Shonen Jump| AND Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Arena Fighters/3D Brawlers|))"
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists| AND |Shonen Jump| AND |Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Arena Fighters/3D Brawlers|))"
   },
   {
     "region": "Winners Round 2",
@@ -1567,7 +1567,7 @@
     "category": [
       "Heaven Ascension DIO"
     ],
-    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |Arena Fighters/3D Brawlers))"
+    "requires": "|Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND |Arena Fighters/3D Brawlers|))"
   },
   {
     "name": "Spectres of Misfortune [Other Side Mix]",
