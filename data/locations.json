@@ -1723,7 +1723,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Kero Kero Bonito| AND |Snail's House|))"
   },
   {
     "name": "LeviDating",
@@ -1732,7 +1732,7 @@
       "Snailiens",
       "MTT! Tour"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour|"
+    "requires": "|Snailiens| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |Space/Aliens| AND |Snail's House| AND |Felines| AND |Undertale/DELTARUNE|))"
   },
   {
     "name": "Pasteltrain",
@@ -1741,7 +1741,7 @@
       "Snailiens",
       "Cadence"
     ],
-    "requires": "|Snailiens| AND |Cadence|"
+    "requires": "|Snailiens| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Kero Kero Bonito| AND |Popularized Through Rhythm Games|))"
   },
   {
     "name": "Shooting Star Signs",
@@ -1749,7 +1749,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |Space/Aliens|))"
   },
   {
     "name": "Bonito Island",
@@ -1757,7 +1757,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |Space/Aliens| AND |Snail's House|))"
   },
   {
     "name": "CUUTIE",
@@ -1766,7 +1766,7 @@
       "Snailiens",
       "MONSTERMAU5"
     ],
-    "requires": "|Snailiens| AND |MONSTERMAU5|"
+    "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Snail's House| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
     "region": "Round 1",
@@ -1775,7 +1775,7 @@
       "Snailiens",
       "MONSTERMAU5"
     ],
-    "requires": "|Snailiens| AND |MONSTERMAU5|"
+    "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |Snail's House| AND |Kawaii Future Bass| AND |Kero Kero Bonito| AND |deadmau5/mau5trap Artists| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
     "region": "Round 1",
@@ -1784,7 +1784,7 @@
       "Snailiens",
       "MONSTERMAU5"
     ],
-    "requires": "|Snailiens| AND |MONSTERMAU5|"
+    "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |Snail's House| AND |Kawaii Future Bass| AND |Kero Kero Bonito| AND |deadmau5/mau5trap Artists| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
     "region": "Round 1",
@@ -1793,7 +1793,7 @@
       "Snailiens",
       "Forum Freakshow"
     ],
-    "requires": "|Snailiens| AND |Forum Freakshow|"
+    "requires": "|Snailiens| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |SoundClowns| AND |Ray William Johnson| AND |YTPs/YTPMVs|))"
   },
   {
     "region": "Round 1",
@@ -1803,7 +1803,7 @@
       "River City Girls",
       "Snailiens"
     ],
-    "requires": "|gSports| AND |River City Girls| AND |Snailiens|"
+    "requires": "|gSports| AND |River City Girls| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Space/Aliens| AND |Synthwave| AND |Chipzel| AND |Twitch Games/eSports Games|))"
   },
   {
     "name": "Baptism of Fire",
@@ -1813,7 +1813,7 @@
       "Hot Ones",
       "Snailiens"
     ],
-    "requires": "|Club Bangers| AND |Hot Ones| AND |Snailiens|"
+    "requires": "|Club Bangers| AND |Hot Ones| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |R&B| AND |Ed Banger Records| AND |88Rising/Collaborators|))"
   },
   {
     "name": "Doctor's Sick",
@@ -1822,7 +1822,7 @@
       "Snailiens",
       "MONSTERMAU5"
     ],
-    "requires": "|Snailiens| AND |MONSTERMAU5|"
+    "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |Progressive House| AND |Dubstep| AND |Space/Aliens| AND |Kero Kero Bonito| AND |deadmau5/mau5trap Artists|))"
   },
   {
     "name": "Wish Upon A Star",
@@ -1830,7 +1830,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass|))"
   },
   {
     "name": "Musk Rush",
@@ -1839,7 +1839,7 @@
       "Snailiens",
       "Gustavo Rocque"
     ],
-    "requires": "|Snailiens| AND |Gustavo Rocque|"
+    "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Kero Kero Bonito| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts| AND |Snail's House|))"
   },
   {
     "region": "Losers Round 1",
@@ -1848,7 +1848,7 @@
       "Snailiens",
       "Gustavo Rocque"
     ],
-    "requires": "|Snailiens| AND |Gustavo Rocque|"
+    "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Space/Aliens| AND |Boy Bands/Their Solo Acts| AND |Nickelodeon Media|))"
   },
   {
     "region": "Losers Round 1",
@@ -1857,7 +1857,7 @@
       "Snailiens",
       "Gustavo Rocque"
     ],
-    "requires": "|Snailiens| AND |Gustavo Rocque|"
+    "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Well Known/Credited Music Producers| AND |Snail's House| AND |Kero Kero Bonito| AND |Big Time Rush/Stephen Glickman| AND |Kawaii Future Bass| AND |Boy Bands/Their Solo Acts| AND (|Nickelodeon Media| OR |Nickelodeon Records|)))"
   },
   {
     "region": "Losers Round 1",
@@ -1866,7 +1866,7 @@
       "Snailiens",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Snailiens| AND |Black Mamba Farquaad|"
+    "requires": "|Snailiens| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |Smash Mouth/Shrek Artists| AND |Water/Aquatic Life))"
   },
   {
     "name": "Pastel Fever",
@@ -1875,7 +1875,7 @@
       "Snailiens",
       "Forum Freakshow"
     ],
-    "requires": "|Snailiens| AND |Forum Freakshow|"
+    "requires": "|Snailiens| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |SoundClowns| AND |Halley Labs| AND |Kawaii Future Bass| AND (|Ray William Johnson| OR |Space/Aliens|)))"
   },
   {
     "name": "Sunshine In Mmyy Ppaarrttyy",
@@ -1886,7 +1886,7 @@
       "Gustavo Rocque",
       "Club Bangers"
     ],
-    "requires": "|Snailiens| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Club Bangers|"
+    "requires": "|Snailiens| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Boy Bands/Their Solo Acts| AND |Ed Banger Records| AND |Ray William Johnson|))"
   },
   {
     "region": "Winners Round 2",
@@ -1896,7 +1896,7 @@
       "MTT! Tour",
       "Bad Girlz"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz|"
+    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Undertale/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$sha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
   },
   {
     "name": "Your New Frontier",
@@ -1904,7 +1904,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Snail's House|))"
   },
   {
     "region": "Winners Round 2",
@@ -1913,7 +1913,7 @@
       "Snailiens",
       "Lofi Girl"
     ],
-    "requires": "|Snailiens| AND |Lofi Girl|"
+    "requires": "|Snailiens| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Lofi Hip-Hop| AND |Bedroom Pop| AND |Space/Aliens| AND |Kero Kero Bonito|))"
   },
   {
     "name": "CA7 & MAU5",
@@ -3737,7 +3737,7 @@
     "category": [
       "Dexter's Dad"
     ],
-    "requires": "|Dexter’s Dad|"
+    "requires": "|Dexter’s Dad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Chosen by Fathers of the MWMM Team| AND |Family Members| AND |Cartoon Network/Genndy Tartakosky| AND |'Saturdays Are Made For' Edits|))"
   },
   {
     "name": "BRACKET: Winners Round 2",
@@ -4624,7 +4624,7 @@
     "category": [
       "Snailiens"
     ],
-    "requires": "|Snailiens|"
+    "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Kero Kero Bonito| AND |Snail's House|))"
   },
   {
     "name": "Glowsquid Galaxy",
@@ -4633,7 +4633,7 @@
       "Netherrack Nightmares",
       "Snailiens"
     ],
-    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+    "requires": "|Netherrack Nightmares| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Space/Aliens| AND |Snail's House| AND |Kero Kero Bonito| AND |C418| AND |Sandbox Games| AND |Minecraft|))"
   },
   {
     "name": "nn_planet024",
@@ -4642,7 +4642,7 @@
       "Netherrack Nightmares",
       "Snailiens"
     ],
-    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+    "requires": "|Netherrack Nightmares| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Space/Aliens| AND |Creepypastas| AND |Snail's House| AND |Sandbox Games| AND |Minecraft| AND |Kero Kero Bonito| AND |C418|))"
   },
   {
     "name": "Snails on Venus",
@@ -4651,7 +4651,7 @@
       "Netherrack Nightmares",
       "Snailiens"
     ],
-    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+    "requires": "|Netherrack Nightmares| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|C418| AND |Kero Kero Bonito| AND |Creepypastas| AND |Minecraft| AND |Snail's House| AND |Sandbox Games| AND |Space/Aliens| AND |Kawaii Future Bass| AND |Videogame Mods|))"
   },
   {
     "name": "We Are The Universe",
@@ -4660,7 +4660,7 @@
       "Netherrack Nightmares",
       "Snailiens"
     ],
-    "requires": "|Netherrack Nightmares| AND |Snailiens|"
+    "requires": "|Netherrack Nightmares| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Snail's House| AND |Kawaii Future Bass| AND |Space/Aliens| AND |Sandbox Games| AND |Videogame Mods|))"
   },
   {
     "name": "Blood in the Water",
