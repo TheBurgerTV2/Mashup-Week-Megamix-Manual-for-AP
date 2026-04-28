@@ -2069,7 +2069,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|R&B| AND (|88Rising/Collaborators| OR |Heat/Fire/Summertime|)))"
   },
   {
     "name": "sangr14",
@@ -2078,7 +2078,7 @@
       "Hot Ones",
       "Netherrack Nightmares"
     ],
-    "requires": "|Hot Ones| AND |Netherrack Nightmares|"
+    "requires": "|Hot Ones| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|R&B| AND |Minecraft|))"
   },
   {
     "name": "The Prince of Fire",
@@ -2087,7 +2087,7 @@
       "MAD/EON",
       "Hot Ones"
     ],
-    "requires": "|MAD/EON| AND |Hot Ones|"
+    "requires": "|MAD/EON| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |88Rising/Collaborators| AND (|Heat/Fire/Summertime| OR |R&B| OR |Industrial/Dark Techno|)))"
   },
   {
     "name": "i miss u",
@@ -2095,7 +2095,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators|))"
   },
   {
     "name": "Fuck The Rules",
@@ -2103,7 +2103,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |R&B|))"
   },
   {
     "name": "Daylight & Heart",
@@ -2112,7 +2112,7 @@
       "Hot Ones",
       "Lofi Girl"
     ],
-    "requires": "|Hot Ones| AND |Lofi Girl|"
+    "requires": "|Hot Ones| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|School/Education| AND |Bedroom Pop| AND |88Rising/Collaborators|))"
   },
   {
     "name": "Afterbreeze",
@@ -2121,7 +2121,7 @@
       "Hot Ones",
       "Lofi Girl"
     ],
-    "requires": "|Hot Ones| AND |Lofi Girl|"
+    "requires": "|Hot Ones| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lofi Hip-Hop| AND |88Rising/Collaborators| AND |School/Education|))"
   },
   {
     "name": "Hollywood Sunset",
@@ -2130,7 +2130,7 @@
       "Hot Ones",
       "Lofi Girl"
     ],
-    "requires": "|Hot Ones| AND |Lofi Girl|"
+    "requires": "|Hot Ones| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lofi Hip-Hop| AND |88Rising/Collaborators| AND (|Heat/Fire/Summertime| OR |School/Education|)))"
   },
   {
     "name": "Hours of History",
@@ -2139,7 +2139,7 @@
       "Hot Ones",
       "Gustavo Rocque"
     ],
-    "requires": "|Hot Ones| AND |Gustavo Rocque|"
+    "requires": "|Hot Ones| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Big Time Rush/Stephen Glickman| AND |R&B| AND |88Rising/Collaborators| AND |Nickelodeon Records|))"
   },
   {
     "name": "Summer In Hollywood",
@@ -2147,7 +2147,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Heat/Fire/Summertime| AND |R&B| AND |Soul|))"
   },
   {
     "name": "After Last Summertime",
@@ -2155,7 +2155,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |R&B| AND |Heat/Fire/Summertime| AND |Soul|))"
   },
   {
     "name": "Soothing Shoals",
@@ -2164,7 +2164,7 @@
       "Hot Ones",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Water/Aquatic Life| AND |Smash Mouth/Shrek Artists| AND |R&B|))"
   },
   {
     "name": "Faded Sunlight",
@@ -2173,7 +2173,7 @@
       "Hot Ones",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |88Rising/Collaborators| AND |R&B| AND |Smash Mouth/Shrek Artists| AND |Dreamworks| AND |Soul|))"
   },
   {
     "region": "Winners Round 2",
@@ -2182,7 +2182,7 @@
       "Hot Ones",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Smash Mouth/Shrek Artists| AND |R&B| AND |Water/Aquatic Life| AND |88Rising/Collaborators| AND |Dreamworks|))"
   },
   {
     "region": "Winners Round 2",
@@ -2191,7 +2191,7 @@
       "Hot Ones",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |88Rising/Collaborators| AND |Smash Mouth/Shrek Artists| AND |R&B|))"
   },
   {
     "name": "PUNCH A TREE | MINECRAFT paRODY OF SANCTUARY",
@@ -2200,7 +2200,7 @@
       "Hot Ones",
       "Netherrack Nightmares"
     ],
-    "requires": "|Hot Ones| AND |Netherrack Nightmares|"
+    "requires": "|Hot Ones| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Minecraft|))"
   },
   {
     "name": "Slow Dancing In My Dream Dream Dreams",
@@ -2210,7 +2210,7 @@
       "Hot Ones",
       "MAD/EON"
     ],
-    "requires": "|MTT! Tour| AND |Hot Ones| AND |MAD/EON|"
+    "requires": "|MTT! Tour| AND |Hot Ones| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Undertale/DELTARUNE| AND |Madeon/Collaborators|))"
   },
   {
     "name": "FEAR AND MISERY",
@@ -2218,7 +2218,7 @@
     "category": [
       "Hot Ones"
     ],
-    "requires": "|Hot Ones|"
+    "requires": "|Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators|)"
   },
   {
     "name": "She's Still Superfast",
@@ -2227,7 +2227,7 @@
       "Ace D. Copular",
       "Hot Ones"
     ],
-    "requires": "|Ace D. Copular| AND |Hot Ones|"
+    "requires": "|Ace D. Copular| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Turner Broadcasting| AND |Damon Albarn|))"
   },
   {
     "name": "Pineapple Passion (There's No Pineapples Left in River City)",
@@ -2236,7 +2236,7 @@
       "River City Girls",
       "Hot Ones"
     ],
-    "requires": "|River City Girls| AND |Hot Ones|"
+    "requires": "|River City Girls| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |R&B| AND |Synthpop| AND |Synthwave| AND |Arc System Works|))"
   },
   {
     "name": "The Water's Gettin' Warm",
@@ -2244,7 +2244,7 @@
     "category": [
       "Black Mamba Farquaad"
     ],
-    "requires": "|Black Mamba Farquaad|"
+    "requires": "|Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Smash Mouth/Shrek Artists| AND |Dreamworks| AND |Water/Aquatic Life|))"
   },
   {
     "name": "The Black Mamba Glowup",
@@ -2253,7 +2253,7 @@
       "Black Mamba Farquaad",
       "Gustavo Rocque"
     ],
-    "requires": "|Black Mamba Farquaad| AND |Gustavo Rocque|"
+    "requires": "|Black Mamba Farquaad| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Smash Mouth/Shrek Artists| AND |Big Time Rush/Stephen Glickman| AND |Nickelodeon Media|))"
   },
   {
     "name": "Walking On Water",
@@ -2263,7 +2263,7 @@
       "Black Mamba Farquaad",
       "Painful Dreamers"
     ],
-    "requires": "|Ace D. Copular| AND |Black Mamba Farquaad| AND |Painful Dreamers|"
+    "requires": "|Ace D. Copular| AND |Black Mamba Farquaad| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery| AND |Smash Mouth/Shrek Artists| AND (|Water/Aquatic Life| OR (|Psychedelic Genres| OR |Damon Albarn|))))"
   },
   {
     "region": "Round 1",
@@ -2271,7 +2271,7 @@
     "category": [
       "Black Mamba Farquaad"
     ],
-    "requires": "|Black Mamba Farquaad|"
+    "requires": "|Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dreamworks| AND |Smash Mouth/Shrek Artists| AND |Water/Aquatic Life|))"
   },
   {
     "name": "ocean tide",
@@ -2280,7 +2280,7 @@
       "Black Mamba Farquaad",
       "Lofi Girl"
     ],
-    "requires": "|Black Mamba Farquaad| AND |Lofi Girl|"
+    "requires": "|Black Mamba Farquaad| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life|)"
   },
   {
     "name": "Blue Skies of the New World",
@@ -2289,7 +2289,7 @@
       "Susie Haltmann",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Susie Haltmann| AND |Black Mamba Farquaad|"
+    "requires": "|Susie Haltmann| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dreamworks| AND (|Kirby| OR |General Working/Corporations/Factories|)))"
   },
   {
     "name": "The Harbor Is Mine",
@@ -2297,7 +2297,7 @@
     "category": [
       "Black Mamba Farquaad"
     ],
-    "requires": "|Black Mamba Farquaad|"
+    "requires": "|Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dreamworks| AND |Smash Mouth/Shrek Artists| AND |Water/Aquatic Life|))"
   },
   {
     "name": "SHREK/IS/LOVE",
@@ -2306,7 +2306,7 @@
       "Black Mamba Farquaad",
       "Rick Hentai"
     ],
-    "requires": "|Black Mamba Farquaad| AND |Rick Hentai|"
+    "requires": "|Black Mamba Farquaad| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Smash Mouth/Shrek Artists| AND |Otaku Culture| AND |Rick Astley| AND (|S3RL| or |Sexual Themes|)))"
   },
   {
     "name": "owT ratS llA",
@@ -2314,7 +2314,7 @@
     "category": [
       "Black Mamba Farquaad"
     ],
-    "requires": "|Black Mamba Farquaad|"
+    "requires": "|Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dreamworks|))"
   },
   {
     "name": "Mile High Club",
@@ -2326,7 +2326,7 @@
       "Rick Hentai",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Painful Dreamers| AND |Elliana| AND |Ace D. Copular| AND |Rick Hentai| AND |Black Mamba Farquaad|"
+    "requires": "|Painful Dreamers| AND |Elliana| AND |Ace D. Copular| AND |Rick Hentai| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |Rivals of Aether/flashygoodness| AND |Turner Broadcasting| AND |Sexual Themes| AND |Psychedelic Genres| AND |Damon Albarn| AND |Alternative Rock| AND |Britpop/Post-Britpop| AND |Rick Astley| AND |Bait-And-Switch| AND |The Apocalypse| AND |Water/Aquatic Life| AND |Smash Mouth/Shrek Artists| AND (|War/Explosives| OR |Flight|)))"
   },
   {
     "name": "Peace of Mind",
@@ -2335,7 +2335,7 @@
       "Black Mamba Farquaad",
       "Club Bangers"
     ],
-    "requires": "|Black Mamba Farquaad| AND |Club Bangers|"
+    "requires": "|Black Mamba Farquaad| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND (|Dreamworks| OR |Ed Banger Records|)))"
   },
   {
     "name": "Start The Game",
@@ -2343,7 +2343,7 @@
     "category": [
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley|"
+    "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sports/Training Montages| AND |Quad City DJs/Space Jam Artists|))"
   },
   {
     "name": "Stolen Talent",
@@ -2351,7 +2351,7 @@
     "category": [
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley|"
+    "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Quad City DJs/Space Jam Artists| AND |90s Hip-Hop/Rap| AND |Sports/Training Montages|))"
   },
   {
     "region": "Round 1",
@@ -2359,7 +2359,7 @@
     "category": [
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley|"
+    "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |Quad City DJs/Space Jam Artists|))"
   },
   {
     "name": "Court Control",
@@ -2368,7 +2368,7 @@
       "Elliana",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |Elliana|"
+    "requires": "|Charles “All-Star” Barkley| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|War/Explosives| AND |FGC Competitions/2D Fighting Games| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "name": "A Touch of Gnarls Barkley",
@@ -2377,7 +2377,7 @@
       "Charles “All-Star” Barkley",
       "Scatman & Hatman"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman|"
+    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Jazz| AND |Sports/Training Montages| AND |One-Hit Wonders| AND |Quad City DJs/Space Jam Artists| AND |90s Hits| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "region": "Losers Round 1",
@@ -2386,7 +2386,7 @@
       "Charles “All-Star” Barkley",
       "Scatman & Hatman"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman|"
+    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders| AND |Lou Bega| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "region": "Winners Round 2",
@@ -2394,7 +2394,7 @@
     "category": [
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley|"
+    "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sports/Training Montages| AND |Gnarls Barkley/Its Members|))"
   },
   {
     "name": "Flight of the Ballin' Phoenix",
@@ -2403,7 +2403,7 @@
       "Elliana",
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |Elliana|"
+    "requires": "|Charles “All-Star” Barkley| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sports/Training Montages| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives| AND |90s Hip-Hop/Rap| AND |Flight|))"
   },
   {
     "name": "Fifteen Seconds",
@@ -2413,7 +2413,7 @@
       "River City Girls",
       "MAD/EON"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |River City Girls| AND |MAD/EON|"
+    "requires": "|Charles “All-Star” Barkley| AND |River City Girls| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthwave| AND |Madeon/Collaborators| AND |Sports/Training Montages| AND |Quad City DJs/Space Jam Artists| AND |Wayforward|))"
   },
   {
     "name": "G-Code",
@@ -3786,7 +3786,7 @@
       "Hot Ones",
       "gSports"
     ],
-    "requires": "|Hot Ones| AND |gSports|"
+    "requires": "|Hot Ones| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Soul| AND |88Rising/Collaborators| AND |Twitch Games/eSports Games| AND |Streamers/Streaming/Streamer Background Music| AND |Vehicles|))"
   },
   {
     "name": "ANGRY FARTS",
@@ -3795,7 +3795,7 @@
       "Lil Darkie",
       "Playing With Power!"
     ],
-    "requires": "|Lil Darkie| AND  |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Birds| AND |Spider Gang/Producers/Collaborators| AND |Game & Watch Galleries/Smash Bros. 'Other' Category|))"
+    "requires": "|Lil Darkie| AND |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Birds| AND |Spider Gang/Producers/Collaborators| AND |Game & Watch Galleries/Smash Bros. 'Other' Category|))"
   },
   {
     "name": "Chitlin B. Chitlins",
@@ -3812,7 +3812,7 @@
     "category": [
       "Charles “All-Star” Barkley"
     ],
-    "requires": "|Charles “All-Star” Barkley|"
+    "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|90s Hip-Hop/Rap| AND |Sports/Training Montages|))"
   },
   {
     "name": "Naughty List",
@@ -4668,7 +4668,7 @@
     "category": [
       "Black Mamba Farquaad"
     ],
-    "requires": "|Black Mamba Farquaad|"
+    "requires": "|Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |Dreamworks| AND |Smash Mouth/Shrek Artists|))"
   },
   {
     "name": "YOUGOTTHE!!",
@@ -4685,7 +4685,7 @@
       "Black Mamba Farquaa",
       "River City Girls"
     ],
-    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+    "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthwave| AND |Synthpop| AND |Smash Mouth/Shrek Artists|))"
   },
   {
     "name": "Blind Obsession",
@@ -4694,7 +4694,7 @@
       "Black Mamba Farquaa",
       "River City Girls"
     ],
-    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+    "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |Dreamworks| AND |Wayforward| AND |Arc System Works|))"
   },
   {
     "name": "Toxic Relation-ship",
@@ -4703,7 +4703,7 @@
       "Black Mamba Farquaa",
       "River City Girls"
     ],
-    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+    "requires": "|Black Mamba Farquaad| AND |River City Girls| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |Dreamworks| AND |Synthpop|))"
   },
   {
     "name": "Final Right to Fight",
@@ -4712,7 +4712,7 @@
       "Black Mamba Farquaa",
       "River City Girls"
     ],
-    "requires": "|Black Mamba Farquaad| AND |River City Girls|"
+    "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Beat-Em-Ups| AND |Arc System Works| AND |Smash Mouth/Shrek Artists| AND |Dreamworks|))"
   },
   {
     "name": "Crowned Convulsions",
