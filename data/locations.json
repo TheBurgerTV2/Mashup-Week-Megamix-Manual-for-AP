@@ -211,7 +211,7 @@
       "Neil Cipher",
       "Bad Girlz"
     ],
-    "requires": "|Neil Cipher| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Ke$sha/Collaborators| AND |2010/2019 Top 100 Billboards| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
+    "requires": "|Neil Cipher| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Ke$ha/Collaborators| AND |2010/2019 Top 100 Billboards| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "name": "Aaron Emotions (You Have It)",
@@ -297,7 +297,7 @@
       "Tyler & The Grinch",
       "Bad Girlz"
     ],
-    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$sha/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Money| AND |Female Interscope Records Artists|))"
+    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Money| AND |Female Interscope Records Artists|))"
   },
   {
     "name": "Golf Halation",
@@ -756,7 +756,7 @@
       "Detective Hat Kid",
       "Bad Girlz"
     ],
-    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |2010/2019 Top 100 Billboards| AND |Ke$sha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
+    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |2010/2019 Top 100 Billboards| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "name": "Pink Platforming (B-Side)",
@@ -785,7 +785,7 @@
       "Bad Girlz",
       "Forum Freakshow"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Undertale/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$sha/Collaborators|))"
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Undertale/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "Your Turn To Cry",
@@ -963,7 +963,7 @@
       "Lil Darkie",
       "Bad Girlz"
     ],
-    "requires": "|Lil Darkie| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|) AND |Murder/Killing| AND (|Ke$sha/Collaborators| OR |2010/2019 Top 100 Billboards|)))"
+    "requires": "|Lil Darkie| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|) AND |Murder/Killing| AND (|Ke$ha/Collaborators| OR |2010/2019 Top 100 Billboards|)))"
   },
   {
     "name": "Composition's Kaard",
@@ -1331,7 +1331,7 @@
       "Bad Girlz",
       "Head Chef Heavy"
     ],
-    "requires": "|Bad Girlz| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Eastern European Culture| AND |Billie Eilish/Collaborators| AND (|Food/Culinary Arts| OR |Ke$sha/Collaborators|)))"
+    "requires": "|Bad Girlz| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Eastern European Culture| AND |Billie Eilish/Collaborators| AND (|Food/Culinary Arts| OR |Ke$ha/Collaborators|)))"
   },
   {
     "name": "The Big Bad Boss",
@@ -1375,7 +1375,7 @@
       "Guzma",
       "Bad Girlz"
     ],
-    "requires": "|Guzma| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Pokémon Media| AND |Ke$sha/Collaborators| AND (|Gangs/Organized Crime| OR |Skeletons| OR |Insects|)))"
+    "requires": "|Guzma| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Pokémon Media| AND |Ke$ha/Collaborators| AND (|Gangs/Organized Crime| OR |Skeletons| OR |Insects|)))"
   },
   {
     "name": "Bad Bone Rocket",
@@ -1497,7 +1497,7 @@
       "Heaven Ascension DIO",
       "Bad Girlz"
     ],
-    "requires": "|Heaven Ascension DIO| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |Billie Eilish/Collaborators| AND |Ke$sha/Collaborators|))"
+    "requires": "|Heaven Ascension DIO| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators|))"
   },
   {
     "region": "Losers Round 1",
@@ -1896,7 +1896,7 @@
       "MTT! Tour",
       "Bad Girlz"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Undertale/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$sha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
+    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Undertale/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
   },
   {
     "name": "Your New Frontier",
@@ -1921,7 +1921,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5|"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Progressive House| AND |Monstercat Artists|))"
   },
   {
     "region": "Pre-Bracket",
@@ -1929,7 +1929,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5|"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Progressive House| AND |Monstercat Artists| AND |Dubstep|))"
   },
   {
     "name": "Summertime Stroll",
@@ -1938,7 +1938,7 @@
       "MONSTERMAU5",
       "Hot Ones"
     ],
-    "requires": "|MONSTERMAU5| AND |Hot Ones|"
+    "requires": "|MONSTERMAU5| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House| AND |88Rising/Collaborators| AND |R&B|))"
   },
   {
     "name": "L2V3LS (CB Deep Club Dumpster Dive Remix)",
@@ -1947,7 +1947,7 @@
       "MONSTERMAU5",
       "Club Bangers"
     ],
-    "requires": "|MONSTERMAU5| AND |Club Bangers|"
+    "requires": "|MONSTERMAU5| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House| AND |deadmau5/mau5trap Artists| AND |Ed Banger Records| AND |Fatman Scoop| AND |Plunderphonics| AND |Dubstep|))"
   },
   {
     "region": "Round 1",
@@ -1955,7 +1955,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5|"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House| AND |deadmau5/mau5trap Artists| AND |Monstercat Artists| AND |Dubstep|))"
   },
   {
     "region": "Losers Round 1",
@@ -1964,7 +1964,7 @@
       "MONSTERMAU5",
       "Elliana"
     ],
-    "requires": "|MONSTERMAU5| AND |Elliana|"
+    "requires": "|MONSTERMAU5| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |deadmau5/mau5trap Artists| AND (|Rivals of Aether/flashygoodness| OR |Flight|) AND |VGM/Chiptune Influenced EDM| AND |War/Explosives|))"
   },
   {
     "region": "Losers Round 1",
@@ -1972,7 +1972,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5|"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |deadmau5/mau5trap Artists| AND |Progressive House| AND |Dubstep|))"
   },
   {
     "name": "D4NC1NG D0ꓘ0?!",
@@ -1980,7 +1980,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5|"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House))"
   },
   {
     "name": "1 0NLY W4N7 Y0U",
@@ -1989,7 +1989,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|2010/2019 Top 100 Billboards| AND |Monstercat Artists| AND |Progressive House| AND |deadmau5/mau5trap Artists| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "region": "Winners Round 2",
@@ -1998,7 +1998,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Money| AND |deadmau5/mau5trap Artists| AND |Monstercat Artists| AND (|Female Interscope Records Artists| AND (|Partying| OR |Billie Eilish/Collaborators|))))"
   },
   {
     "region": "Winners Round 2",
@@ -2007,7 +2007,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Progressive House| AND |2010/2019 Top 100 Billboards| AND |Partying| AND (|Female Interscope Records Artists| OR (|Billie Eilish/Collaborators| AND |Monstercat Artists|)) OR (|Monstercat Artists| OR (|Female Interscope Records Artists| AND |Billie Eilish/Collaborators|)) OR (|Billie Eilish/Collaborators| OR (|Female Interscope Records Artists| AND |Monstercat Artists|))))"
   },
   {
     "region": "Winners Round 2",
@@ -2016,7 +2016,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |deadmau5/mau5trap Artists| AND |Ke$ha/Collaborators| AND (|Female Interscope Records Artists| OR |Partying|)))"
   },
   {
     "region": "Remix Week",
@@ -2025,7 +2025,7 @@
       "Charles “All-Star” Barkley",
       "MONSTERMAU5"
     ],
-    "requires": "|Charles “All-Star” Barkley| AND |MONSTERMAU5|"
+    "requires": "|Charles “All-Star” Barkley| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Monstercat Artists| AND |90s Hip-Hop/Rap|))"
   },
   {
     "name": "mmm... organs :p",
@@ -2034,7 +2034,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dubstep| AND |Ke$ha/Collaborators| AND |Progressive House| AND |deadmau5/mau5trap Artists| AND |2010/2019 Top 100 Billboards| AND (|Billie Eilish/Collaborators| AND |Female Interscope Records Artists|)))"
   },
   {
     "name": "Party Overtime",
@@ -2043,7 +2043,7 @@
       "MONSTERMAU5",
       "Bad Girlz"
     ],
-    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+    "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Money| AND |Progressive House| AND |Ke$ha/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Monstercat Artists| AND |deadmau5/mau5trap Artists|))"
   },
   {
     "name": "Hellfire",
@@ -2052,7 +2052,7 @@
       "MONSTERMAU5",
       "Forum Freakshow"
     ],
-    "requires": "|MONSTERMAU5| AND |Forum Freakshow|"
+    "requires": "|MONSTERMAU5| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dubstep| AND |deadmau5/mau5trap Artists| AND |Progressive House| AND |SoundClowns| AND |Ray William Johnson|))"
   },
   {
     "region": "Winners Round 2",
@@ -2061,7 +2061,7 @@
       "MONSTERMAU5",
       "Forum Freakshow"
     ],
-    "requires": "|MONSTERMAU5| AND |Forum Freakshow|"
+    "requires": "|MONSTERMAU5| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |SoundClowns| AND |Progressive House| AND |Ray William Johnson| AND |deadmau5/mau5trap Artists|))"
   },
   {
     "name": "Sun's Up",
