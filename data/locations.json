@@ -2783,7 +2783,7 @@
     "category": [
       "Scatman & Hatman"
     ],
-    "requires": "|Scatman & Hatman|"
+    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eurodance| AND |Scatman John| AND |One-Hit Wonders|))"
   },
   {
     "name": "Everybody's Back!",
@@ -2792,7 +2792,7 @@
       "Gustavo Rocque",
       "Scatman & Hatman"
     ],
-    "requires": "|Gustavo Rocque| AND  |Scatman & Hatman|"
+    "requires": "|Gustavo Rocque| AND  |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders| AND |Nickelodeon Records| AND |90s Hits| AND |Well Known/Credited Music Producers| AND (|Big Time Rush/Stephen Glickman| OR |Boy Bands/Their Solo Acts|) AND (|Scatman John| OR |Lou Bega|)))"
   },
   {
     "name": "Scatman, Hatman, & Madman",
@@ -2801,7 +2801,7 @@
       "Scatman & Hatman",
       "MAD/EON"
     ],
-    "requires": "|Scatman & Hatman| AND |MAD/EON|"
+    "requires": "|Scatman & Hatman| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lou Bega| AND |Madeon/Collaborators| AND |Eurodance| AND |90s Hits| AND |Scatman John|))"
   },
   {
     "name": "Children's Origami",
@@ -2809,7 +2809,7 @@
     "category": [
       "Scatman & Hatman"
     ],
-    "requires": "|Scatman & Hatman|"
+    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders))"
   },
   {
     "name": "Don't Run From The Sunshine",
@@ -2818,7 +2818,7 @@
       "Rick Hentai",
       "Scatman & Hatman"
     ],
-    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+    "requires": "|Rick Hentai| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Otaku Culture| AND |80s New Wave| AND |One-Hit Wonders| AND |Rick Astley| AND |Jazz| AND (|Bait-And-Switch| OR (|Sexual Themes| AND |Pre-2012 Internet Culture|))))"
   },
   {
     "name": "NTR",
@@ -2827,7 +2827,7 @@
       "Rick Hentai",
       "Scatman & Hatman"
     ],
-    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+    "requires": "|Rick Hentai| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND (|S3RL| OR |Happy Hardcore| OR |Sexual Themes|) AND (|One-Hit Wonders| OR (|Scatman John| AND |Lou Bega|) OR (|Scatman John| AND |Jazz|))))"
   },
   {
     "name": "&quot;afroman_-_because_i_got_high_(music_video).mp3&quot;",
@@ -2836,7 +2836,7 @@
       "Rick Hentai",
       "Scatman & Hatman"
     ],
-    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+    "requires": "|Rick Hentai| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Happy Hardcore| AND (|Eurodance| AND |Scatman John|) OR (|Eurodance| AND |One-Hit Wonders|) OR (|Eurodance| AND |Bait-And-Switch|) OR (|90s Hits| AND |One-Hit Wonders|) OR (|Pre-2012 Internet Culture| AND |One-Hit Wonders|) OR (|Pre-2012 Internet Culture| AND |Scatman John|) OR (|Bait-And-Switch|)))"
   },
   {
     "name": "Dansen In My Room (2019 Bootleg Remix)",
@@ -2845,7 +2845,7 @@
       "Rick Hentai",
       "Scatman & Hatman"
     ],
-    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+    "requires": "|Rick Hentai| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|90s Hits| AND |One-Hit Wonders| AND |Rick Astley| AND (|Bait-And-Switch| OR |Scatman John|) AND (|Sexual Themes| OR (|Lou Bega| AND |S3RL| AND |Jazz|))))"
   },
   {
     "name": "&quot;gnirob_-_the_high_life_(2024_bootleg_flip).mp3&quot;",
@@ -2854,7 +2854,7 @@
       "Rick Hentai",
       "Scatman & Hatman"
     ],
-    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+    "requires": "|Rick Hentai| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Happy Hardcore| AND |Scatman John| AND |Eurodance| AND |Bait-And-Switch| AND |Rick Astley| AND (|Pre-2012 Internet Culture| OR |One-Hit Wonders|)))"
   },
   {
     "name": "we ☆ did ☆ it!",
@@ -2862,7 +2862,7 @@
     "category": [
       "Scatman & Hatman"
     ],
-    "requires": "|Scatman & Hatman|"
+    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lou Bega| AND |One-Hit Wonders| AND |Scatman John| AND |90s Hits| AND |Jazz|))"
   },
   {
     "name": "Scott the Worlds",
@@ -2872,7 +2872,7 @@
       "Scatman & Hatman",
       "Scott the Woz"
     ],
-    "requires": "|MAD/EON| AND |Scatman & Hatman| AND |Scott the Woz|"
+    "requires": "|MAD/EON| AND |Scatman & Hatman| AND |Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Scott the Woz/Collaborators| AND |Wii Series| AND |Scatman John| AND |Notable Scott the Woz Games| AND |Eurodance| AND |One-Hit Wonders|))"
   },
   {
     "name": "Disco Adrenaline",
@@ -4747,7 +4747,7 @@
     "category": [
       "Scatman & Hatman"
     ],
-    "requires": "|Scatman & Hatman|"
+    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders|))"
   },
   {
     "name": "MEET THE MONSTERS!",
@@ -4793,6 +4793,6 @@
       "Tyler & The Grinch",
       "Neil Cipher"
     ],
-    "requires": "|Rick Hentai| AND |Tyler & The Grinch| AND |Neil Cipher|"
+    "requires": "|Rick Hentai| AND |Tyler & The Grinch| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|80s New Wave| AND |Otaku Culture| AND |Neil Cicierega| AND |Tyler, the Creator/Collaborators| AND |Sexual Themes| AND |Christmas/Winter/Snow/Ice| AND |Disney Channel/Disney XD|))"
   }
 ]
