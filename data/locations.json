@@ -2880,7 +2880,7 @@
     "category": [
       "Cadence"
     ],
-    "requires": "|Cadence|"
+    "requires": "|Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rhythm Games| AND |Popularized Through Rhythm Games|))"
   },
   {
     "name": "Pico",
@@ -2890,7 +2890,7 @@
       "Cadence",
       "Reanimatedd"
     ],
-    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd|"
+    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|School/Education| OR |Newgrounds Creators/Creations| OR |Rhythm Games|))"
   },
   {
     "name": "Para Para Mausoleum シングルトリプル",
@@ -2898,7 +2898,7 @@
     "category": [
       "Cadence"
     ],
-    "requires": "|Cadence|"
+    "requires": "|Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Danny Baranowsky| OR |Rhythm Games| OR |Dungeon Crawlers| OR |Roguelikes|))"
   },
   {
     "name": "Momentum Mortis",
@@ -2907,7 +2907,7 @@
       "Cadence",
       "Reanimatedd"
     ],
-    "requires": "|Cadence| AND |Reanimatedd|"
+    "requires": "|Cadence| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Danny Baranowsky| AND |Newgrounds Creators/Creations| AND |Eddsworld/Collaborators| AND |Zombies| AND |Rhythm Games|))"
   },
   {
     "name": "Randumb Retro",
@@ -2916,7 +2916,7 @@
       "Cadence",
       "Reanimatedd"
     ],
-    "requires": "|Cadence| AND |Reanimatedd|"
+    "requires": "|Cadence| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Danny Baranowsky| AND |Rhythm Games| AND |Eddsworld/Collaborators| AND |Roguelikes| AND |Newgrounds Creators/Creations| AND |Animated Webseries/Indie Web Animation|))"
   },
   {
     "name": "City of Lost Love",
@@ -2924,7 +2924,7 @@
     "category": [
       "Cadence"
     ],
-    "requires": "|Cadence|"
+    "requires": "|Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dungeon Crawlers| AND |Rhythm Games|))"
   },
   {
     "name": "Pico's School of Thought",
@@ -2934,7 +2934,7 @@
       "Cadence",
       "Reanimatedd"
     ],
-    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd|"
+    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Bedroom Pop| AND (|Newgrounds Creators/Creations| OR (|Rhythm Games| AND |School/Education|))))"
   },
   {
     "name": "Padded Cell",
@@ -2943,7 +2943,7 @@
       "Cadence",
       "Club Bangers"
     ],
-    "requires": "|Cadence| AND |Club Bangers|"
+    "requires": "|Cadence| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rhythm Games| AND |Turntablism|))"
   },
   {
     "name": "Back Alley Blitz / I'm Still In A Dream",
@@ -2952,7 +2952,7 @@
       "Cadence",
       "Elliana"
     ],
-    "requires": "|Cadence| AND |Elliana|"
+    "requires": "|Cadence| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|War/Explosives| AND |Roguelikes| AND |Rhythm Games| AND |Flight| AND |VGM/Chiptune Influenced EDM| AND |Dungeon Crawlers|))"
   },
   {
     "name": "Girl's Fight Out",
@@ -2963,7 +2963,7 @@
       "River City Girls",
       "Elliana"
     ],
-    "requires": "|Cadence| AND |Bad Girlz| AND |River City Girls| AND |Elliana|"
+    "requires": "|Cadence| AND |Bad Girlz| AND |River City Girls| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Rhythm Games| AND |FGC Competitions/2D Fighting Games| AND |Money| AND |War/Explosives| AND |Synthpop| AND |Female Interscope Records Artists| AND (|Dungeon Crawlers| OR |Roguelikes|)))"
   },
   {
     "name": "Bad, Bad News",
@@ -4044,7 +4044,7 @@
     "category": [
       "Cadence"
     ],
-    "requires": "|Cadence|"
+    "requires": "|Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Rhythm Games| AND |Dungeon Crawlers|))"
   },
   {
     "region": "Losers Round 2",
