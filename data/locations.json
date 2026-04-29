@@ -2971,7 +2971,7 @@
     "category": [
       "Bad Girlz"
     ],
-    "requires": "|Bad Girlz|"
+    "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Billie Eilish/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Money|))"
   },
   {
     "name": "Raising The Roof",
@@ -2979,7 +2979,7 @@
     "category": [
       "Bad Girlz"
     ],
-    "requires": "|Bad Girlz|"
+    "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Female Interscope Records Artists| AND |2010/2019 Top 100 Billboards| AND |Partying|))"
   },
   {
     "region": "Round 1",
@@ -2987,7 +2987,7 @@
     "category": [
       "Bad Girlz"
     ],
-    "requires": "|Bad Girlz|"
+    "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Female Interscope Records Artists| AND |2010/2019 Top 100 Billboards|))"
   },
   {
     "name": "young love",
@@ -2996,7 +2996,7 @@
       "Bad Girlz",
       "Gustavo Rocque"
     ],
-    "requires": "|Bad Girlz| AND |Gustavo Rocque|"
+    "requires": "|Bad Girlz| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Female Interscope Records Artists| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts| AND (|Live Action Sitcoms| OR |Well Known/Credited Music Producers|) AND (|2010/2019 Top 100 Billboards| OR |Ke$ha/Collaborators|)))"
   },
   {
     "name": "bad breakup",
@@ -3005,7 +3005,7 @@
       "Bad Girlz",
       "Gustavo Rocque"
     ],
-    "requires": "|Bad Girlz| AND |Gustavo Rocque|"
+    "requires": "|Bad Girlz| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Billie Eilish/Collaborators| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts| AND (|Nickelodeon Records| OR |2010/2019 Top 100 Billboards|) AND (|Nickelodeon Media| OR |Live Action Sitcoms|)))"
   },
   {
     "name": "imma call if it dont work",
@@ -3014,7 +3014,7 @@
       "Bad Girlz",
       "Forum Freakshow"
     ],
-    "requires": "|Bad Girlz| AND |Forum Freakshow|"
+    "requires": "|Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|SoundClowns| AND |Billie Eilish/Collaborators| AND |Ray William Johnson| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "Lucifer Solitaria",
@@ -3022,7 +3022,7 @@
     "category": [
       "Bad Girlz"
     ],
-    "requires": "|Bad Girlz|"
+    "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Female Interscope Records Artists|))"
   },
   {
     "region": "Remix Week",
@@ -3031,7 +3031,7 @@
       "MAD/EON",
       "Bad Girlz"
     ],
-    "requires": "|MAD/EON| AND |Bad Girlz|"
+    "requires": "|MAD/EON| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "幸せな変態 ♡♡♡ [HAPPY HENTAI!]",
@@ -3864,7 +3864,7 @@
     "category": [
       "Bad Girlz"
     ],
-    "requires": "|Bad Girlz|"
+    "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Money| AND |Billie Eilish/Collaborators| AND |Female Interscope Records Artists| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "Blood Runs Red",
@@ -3881,7 +3881,7 @@
       "Bad Girlz",
       "MAD/EON"
     ],
-    "requires": "|Bad Girlz| AND |MAD/EON|"
+    "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Ke$ha/Collaborators| AND |Madeon/Collaborators| AND |Industrial/Dark Techno|))"
   },
   {
     "name": "LOBOTOMY",
@@ -3890,7 +3890,7 @@
       "Bad Girlz",
       "MAD/EON"
     ],
-    "requires": "|Bad Girlz| AND |MAD/EON|"
+    "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators| AND |ARGs| AND |Partying|))"
   },
   {
     "region": "Losers Round 2",
@@ -3899,7 +3899,7 @@
       "Bad Girlz",
       "MAD/EON"
     ],
-    "requires": "|Bad Girlz| AND |MAD/EON|"
+    "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Partying| AND |Ke$ha/Collaborators| AND |Madeon/Collaborators| AND |ARGs| AND |Money|))"
   },
   {
     "region": "Losers Round 2",
@@ -3908,7 +3908,7 @@
       "Bad Girlz",
       "MAD/EON"
     ],
-    "requires": "|Bad Girlz| AND |MAD/EON|"
+    "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Industrial/Dark Techno| AND |ARGs| AND |Money| AND |Female Interscope Records Artists| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "Versace Panties",
@@ -4774,7 +4774,7 @@
       "Rick Hentai",
       "Bad Girlz"
     ],
-    "requires": "|Rick Hentai| AND |Bad Girlz|"
+    "requires": "|Rick Hentai| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Money| AND |Ke$ha/Collaborators| AND |Partying| AND |Sexual Themes| AND |Rick Astley|))"
   },
   {
     "name": "Goin' Down",
@@ -4783,7 +4783,7 @@
       "Rick Hentai",
       "Bad Girlz"
     ],
-    "requires": "|Rick Hentai| AND |Bad Girlz|"
+    "requires": "|Rick Hentai| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Ke$ha/Collaborators| AND |80s New Wave| AND |Pre-2012 Internet Culture| AND |Otaku Culture| AND (|2010/2019 Top 100 Billboards| OR (|Partying| AND |Bait-And-Switch|))))"
   },
   {
     "name": "Sugar On My Cum",
