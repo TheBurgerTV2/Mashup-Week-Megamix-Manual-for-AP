@@ -2739,7 +2739,7 @@
       "Cadence",
       "MTT! Tour"
     ],
-    "requires": "|Cadence| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR ((|Roguelikes| AND |UNDERTALE/DELTARUNE||) OR (|Dungeon Crawlers| AND |Felines|) OR (|Roguelikes| AND |Felines|)))"
+    "requires": "|Cadence| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR ((|Roguelikes| AND |UNDERTALE/DELTARUNE|) OR (|Dungeon Crawlers| AND |Felines|) OR (|Roguelikes| AND |Felines|)))"
   },
   {
     "name": "Manic, Iconic, Metallic",
@@ -2809,7 +2809,7 @@
     "category": [
       "Scatman & Hatman"
     ],
-    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders))"
+    "requires": "|Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders|))"
   },
   {
     "name": "Don't Run From The Sunshine",
@@ -3404,7 +3404,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND C418|))"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |C418|))"
   },
   {
     "name": "Chunk Errors",
@@ -3942,7 +3942,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Sexual Themes| AND |80s New Wave| AND |Bait-And-Switch| AND |Pre-2012 Internet Culture| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Ed Banger Records| AND |Big Beat| AND |French House|))"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Sexual Themes| AND |80s New Wave| AND |Bait-And-Switch| AND |Pre-2012 Internet Culture| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Ed Banger Records| AND |Big Beat| AND |French Touch|))"
   },
   {
     "region": "Losers Round 2",
@@ -3960,7 +3960,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Ed Banger Records| AND |Rick Astley| AND |80s New Wave| AND |Fatman Scoop| AND |Pre-2012 Internet Culture| AND |Bait-And-Switch| AND |Big Beat| AND |French House| AND |Plunderphonics| AND |Gigi D'Agostino| AND |Otaku Culture| AND |Turntablism|))"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Ed Banger Records| AND |Rick Astley| AND |80s New Wave| AND |Fatman Scoop| AND |Pre-2012 Internet Culture| AND |Bait-And-Switch| AND |Big Beat| AND |French Touch| AND |Plunderphonics| AND |Gigi D'Agostino| AND |Otaku Culture| AND |Turntablism|))"
   },
   {
     "name": "THE-SPECTER'S-MONOLITH",
