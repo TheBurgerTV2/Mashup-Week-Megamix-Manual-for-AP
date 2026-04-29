@@ -1866,7 +1866,7 @@
       "Snailiens",
       "Black Mamba Farquaad"
     ],
-    "requires": "|Snailiens| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |Smash Mouth/Shrek Artists| AND |Water/Aquatic Life))"
+    "requires": "|Snailiens| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |Smash Mouth/Shrek Artists| AND |Water/Aquatic Life|))"
   },
   {
     "name": "Pastel Fever",
@@ -1896,7 +1896,7 @@
       "MTT! Tour",
       "Bad Girlz"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |UNDERTALE/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
+    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |UNDERTALE/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
     "name": "Your New Frontier",
@@ -1980,7 +1980,7 @@
     "category": [
       "MONSTERMAU5"
     ],
-    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House))"
+    "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House|))"
   },
   {
     "name": "1 0NLY W4N7 Y0U",
@@ -4036,7 +4036,7 @@
     "category": [
       "gSports"
     ],
-    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music))"
+    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music|))"
   },
   {
     "region": "Losers Round 2",
