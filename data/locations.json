@@ -3183,7 +3183,7 @@
       "Reanimatedd",
       "Painful Dreamers"
     ],
-    "requires": "|Reanimatedd| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Flash Creators/Creations| AND |Eddsworld/Collaborators| AND |Drugs| AND (|Newgrounds Creators/Creations| AND |The Apocalypse|)))"
+    "requires": "|Reanimatedd| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Flash Creators/Creations| AND |Eddsworld/Collaborators| AND |Drugs/Psychedelic Imagery| AND (|Newgrounds Creators/Creations| AND |The Apocalypse|)))"
   },
   {
     "name": "asdfmovie80",
@@ -3199,7 +3199,7 @@
     "category": [
       "Forum Freakshow"
     ],
-    "requires": "|Forum Freakshow|"
+    "requires": "|Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Halley Labs| AND |SoundCloud Rappers| AND |Ray William Johnson| AND |YTPs/YTPMVs| AND |SoundClowns|))"
   },
   {
     "name": "Memed Back To Life",
@@ -3208,7 +3208,7 @@
       "MAD/EON",
       "Forum Freakshow"
     ],
-    "requires": "|MAD/EON| AND |Forum Freakshow|"
+    "requires": "|MAD/EON| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |SoundClowns| AND |YTPs/YTPMVs|))"
   },
   {
     "name": "Straight To Voicemail",
@@ -3216,7 +3216,7 @@
     "category": [
       "Forum Freakshow"
     ],
-    "requires": "|Forum Freakshow|"
+    "requires": "|Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ray William Johnson| AND |SoundCloud Rappers| AND |SoundClowns|))"
   },
   {
     "name": "Firepowder",
@@ -3225,7 +3225,7 @@
       "Forum Freakshow",
       "Painful Dreamers"
     ],
-    "requires": "|Forum Freakshow| AND |Painful Dreamers|"
+    "requires": "|Forum Freakshow| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery| AND |SoundClowns| AND |RPGMaker|))"
   },
   {
     "name": "172.88.69.251",
@@ -3233,7 +3233,7 @@
     "category": [
       "Forum Freakshow"
     ],
-    "requires": "|Forum Freakshow|"
+    "requires": "|Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson|))"
   },
   {
     "name": "Mega Aqruh Tunnel 420",
@@ -3241,7 +3241,7 @@
     "category": [
       "Forum Freakshow"
     ],
-    "requires": "|Forum Freakshow|"
+    "requires": "|Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|SoundClowns| AND |Ray William Johnson| AND |YTPs/YTPMVs| AND |Halley Labs| AND |Keygen|))"
   },
   {
     "name": "The Wii Sobriety Test",
@@ -3250,7 +3250,7 @@
       "Scott the Woz",
       "Forum Freakshow"
     ],
-    "requires": "|Scott the Woz| AND |Forum Freakshow|"
+    "requires": "|Scott the Woz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|SoundClowns| AND |SoundCloud Rappers| AND |Wii Series| AND |Scott the Woz/Collaborators| AND |Gaming Youtubers| AND |YTPs/YTPMVs| AND (|Mario Kart| OR |Notable Scott the Woz Games|)))"
   },
   {
     "name": "BEWARE. I AM THE BOOGIEMAN.",
@@ -3258,7 +3258,7 @@
     "category": [
       "Forum Freakshow"
     ],
-    "requires": "|Forum Freakshow|"
+    "requires": "|Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Halley Labs| AND |SoundClowns| AND |YTPs/YTPMVs| AND |Ray William Johnson|))"
   },
   {
     "name": "You Were In My Dream Last Night",
@@ -3266,7 +3266,7 @@
     "category": [
       "Painful Dreamers"
     ],
-    "requires": "|Painful Dreamers|"
+    "requires": "|Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Psychedelic Genres| AND |Drugs/Psychedelic Imagery| AND |Sleep/Dreams/Nightmares| AND |RPGMaker|))"
   },
   {
     "name": "THE END iiS NiiGH",
@@ -3274,7 +3274,7 @@
     "category": [
       "Painful Dreamers"
     ],
-    "requires": "|Painful Dreamers|"
+    "requires": "|Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Psychedelic Genres| AND (|Sleep/Dreams/Nightmares| OR |Drugs/Psychedelic Imagery|)))"
   },
   {
     "name": "The Joy Won't Love You Like I Do",
@@ -3282,7 +3282,7 @@
     "category": [
       "Painful Dreamers"
     ],
-    "requires": "|Painful Dreamers|"
+    "requires": "|Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery|))"
   },
   {
     "region": "Winners Round 2",
@@ -3290,7 +3290,7 @@
     "category": [
       "Painful Dreamers"
     ],
-    "requires": "|Painful Dreamers|"
+    "requires": "|Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Psychedelic Genres| AND |RPGMaker|))"
   },
   {
     "name": "Still Waking Up At 3AM",
@@ -3299,7 +3299,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sleep/Dreams/Nightmares| AND |RPGMaker| AND |Minecraft| AND |Creepypastas|))"
   },
   {
     "name": "WonderSomnia",
@@ -3308,7 +3308,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Minecraft| AND |Videogame Mods| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|Creepypastas| OR |The Apocalypse|)))"
   },
   {
     "region": "Winners Round 2",
@@ -3317,7 +3317,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Voxel Games| AND |RPGMaker| AND |Drugs/Psychedelic Imagery|))"
   },
   {
     "region": "Winners Round 2",
@@ -3326,7 +3326,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery| AND |RPGMaker| AND |Minecraft| AND |Voxel Games| AND |Sleep/Dreams/Nightmares| AND |Creepypastas|))"
   },
   {
     "name": "Still Awake At 3AM",
@@ -3335,7 +3335,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Sleep/Dreams/Nightmares| AND |Sandbox Games| AND |Psychedelic Genres|))"
   },
   {
     "name": "Monsters! (You May Not Rest Now...)",
@@ -3344,7 +3344,7 @@
       "Netherrack Nightmares",
       "Painful Dreamers"
     ],
-    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery| AND |Voxel Games| AND |Minecraft| AND |Sleep/Dreams/Nightmares|))"
   },
   {
     "name": "Vengeful Digger: Modded",
@@ -3352,7 +3352,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND (|Videogame Mods| AND |Sandbox Games|)))"
   },
   {
     "name": "hyperabstraction",
@@ -3360,7 +3360,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Creepypastas| AND |Minecraft|))"
   },
   {
     "name": "Bury Me In Cobblestone",
@@ -3369,7 +3369,7 @@
       "Netherrack Nightmares",
       "MAD/EON"
     ],
-    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+    "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |ARGs| AND |Madeon/Collaborators| AND |C418| AND |Industrial/Dark Techno|))"
   },
   {
     "name": "Hell's End",
@@ -3378,7 +3378,7 @@
       "Netherrack Nightmares",
       "MAD/EON"
     ],
-    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+    "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Madeon/Collaborators|))"
   },
   {
     "name": "THE BRICKS: AN EPIC MADEON MINECRAFT PARODY",
@@ -3387,7 +3387,7 @@
       "Netherrack Nightmares",
       "MAD/EON"
     ],
-    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+    "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Sandbox Games| AND |C418|))"
   },
   {
     "name": "Shreds of Red",
@@ -3396,7 +3396,7 @@
       "Netherrack Nightmares",
       "MAD/EON"
     ],
-    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+    "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Creepypastas| AND |Videogame Mods| AND |Madeon/Collaborators| AND |Minecraft| AND |Industrial/Dark Techno|))"
   },
   {
     "name": "drowned1.ogg",
@@ -3404,7 +3404,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND C418|))"
   },
   {
     "name": "Chunk Errors",
@@ -3412,7 +3412,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Creepypastas| AND |Sandbox Games| AND |C418|))"
   },
   {
     "name": "hyperabstraction (Alpha v1.0.16_02)",
@@ -3420,7 +3420,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Creepypastas| AND |Minecraft| AND |C418|))"
   },
   {
     "region": "Remix Week",
@@ -3428,7 +3428,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sandbox Games| AND |Minecraft|))"
   },
   {
     "name": "Cover Me In Deepslate",
@@ -3437,7 +3437,7 @@
       "Netherrack Nightmares",
       "MAD/EON"
     ],
-    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+    "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGs| AND |Sandbox Games| AND |Industrial/Dark Techno| AND |Madeon/Collaborators| AND |Minecraft|))"
   },
   {
     "region": "Pre-Bracket",
@@ -4616,7 +4616,7 @@
     "category": [
       "Netherrack Nightmares"
     ],
-    "requires": "|Netherrack Nightmares|"
+    "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Voxel Games| AND |Minecraft|))"
   },
   {
     "name": "Good Vibrations",
