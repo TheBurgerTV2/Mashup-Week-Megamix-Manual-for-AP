@@ -2421,7 +2421,7 @@
     "category": [
       "Ace D. Copular"
     ],
-    "requires": "|Ace D. Copular|"
+    "requires": "|Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Alternative Rock| AND |Britpop/Post-Britpop|))"
   },
   {
     "name": "Roughnecked Collar",
@@ -2431,7 +2431,7 @@
       "Bad Girlz",
       "Cadence"
     ],
-    "requires": "|Ace D. Copular| AND |Bad Girlz| AND |Cadence|"
+    "requires": "|Ace D. Copular| AND |Bad Girlz| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Billie Eilish/Collaborators| AND |Rhythm Games|))"
   },
   {
     "name": "Uncomplicated Underground",
@@ -2440,7 +2440,7 @@
       "Netherrack Nightmares",
       "Ace D. Copular"
     ],
-    "requires": "|Netherrack Nightmares| AND |Ace D. Copular|"
+    "requires": "|Netherrack Nightmares| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Sandbox Games| AND |Videogame Mods|))"
   },
   {
     "name": "lewdWORLDorder",
@@ -2449,7 +2449,7 @@
       "Ace D. Copular",
       "Rick Hentai"
     ],
-    "requires": "|Ace D. Copular| AND |Rick Hentai|"
+    "requires": "|Ace D. Copular| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Alternative Rock| AND |Britpop/Post-Britpop| AND |Sexual Themes| AND |Rick Astley| AND |Bait-And-Switch|))"
   },
   {
     "name": "1999",
@@ -2457,7 +2457,7 @@
     "category": [
       "Ace D. Copular"
     ],
-    "requires": "|Ace D. Copular|"
+    "requires": "|Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Alternative Rock|))"
   },
   {
     "name": "Gangreen Skans",
@@ -2466,7 +2466,7 @@
       "Club Bangers",
       "Ace D. Copular"
     ],
-    "requires": "|Club Bangers| AND |Ace D. Copular|"
+    "requires": "|Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Alternative Rock| AND |Ed Banger Records| AND |Turntablism|))"
   },
   {
     "region": "Round 1",
@@ -2475,7 +2475,7 @@
       "Club Bangers",
       "Ace D. Copular"
     ],
-    "requires": "|Club Bangers| AND |Ace D. Copular|"
+    "requires": "|Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Ed Banger Records| AND |Gigi D'Agostino| AND |Fatman Scoop|))"
   },
   {
     "name": "Sleeping Powder Can't Be Beat",
@@ -2484,7 +2484,7 @@
       "Ace D. Copular",
       "Cadence"
     ],
-    "requires": "|Ace D. Copular| AND |Cadence|"
+    "requires": "|Ace D. Copular| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Rhythm Games|))"
   },
   {
     "name": "i'll be fine...",
@@ -2493,7 +2493,7 @@
       "Lofi Girl",
       "Ace D. Copular"
     ],
-    "requires": "|Ace D. Copular| AND |Lofi Girl|"
+    "requires": "|Ace D. Copular| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Bedroom Pop|))"
   },
   {
     "region": "Winners Round 2",
@@ -2501,7 +2501,7 @@
     "category": [
       "Ace D. Copular"
     ],
-    "requires": "|Ace D. Copular|"
+    "requires": "|Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Britpop/Post-Britpop|))"
   },
   {
     "name": "Conquest, War, and Flatulence",
@@ -2511,7 +2511,7 @@
       "Elliana",
       "Club Bangers"
     ],
-    "requires": "|Club Bangers| AND |Ace D. Copular| AND |Elliana|"
+    "requires": "|Club Bangers| AND |Ace D. Copular| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |War/Explosives| AND |French Touch| AND |Ed Banger Records| AND (|Flight| OR |Plunderphonics|)))"
   },
   {
     "name": "i feel fine!",
@@ -2520,7 +2520,7 @@
       "Lofi Girl",
       "Ace D. Copular"
     ],
-    "requires": "|Ace D. Copular| AND |Lofi Girl|"
+    "requires": "|Ace D. Copular| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Bedroom Pop|))"
   },
   {
     "name": "All We Need!",
