@@ -76,7 +76,7 @@
       "Reanimatedd",
       "Rick Hentai"
     ],
-    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |Playing With Power!| AND |Reanimatedd| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD| AND |Videogame Mods| AND |Ed Banger Records| AND |Pokémon Media| AND |Halley Labs| AND |Rhythm Games| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Rick Astley| AND |Webcomics| AND (|Undertale/DELTARUNE| OR |SoundClowns|)))"
+    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |Playing With Power!| AND |Reanimatedd| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Disney Channel/Disney XD| AND |Videogame Mods| AND |Ed Banger Records| AND |Pokémon Media| AND |Halley Labs| AND |Rhythm Games| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Rick Astley| AND |Webcomics| AND (|UNDERTALE/DELTARUNE| OR |SoundClowns|)))"
   },
   {
     "name": "The Bust-Inator",
@@ -549,7 +549,7 @@
       "Gustavo Rocque",
       "Kid Cobra"
     ],
-    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles| AND |SoundCloud Rappers| AND |Skeletons| AND |Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |Undertale/DELTARUNE| AND |Birds| AND |NES/SNES| AND |Lofi Hip-Hop| AND |Glam Rock| AND |YTPs/YTPMVs| AND |Nickelodeon Records| AND |Halley Labs| AND |Ghosts| AND |School/Education| AND |Big Time Rush/Stephen Glickman| AND |Pokémon Media| AND |Bedroom Pop| AND |Ray William Johnson| AND |Cowboys/Deserts/Wild West| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Pokémon Media| AND |Canines| AND |Well Known/Credited Music Producers|))"
+    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles| AND |SoundCloud Rappers| AND |Skeletons| AND |Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |UNDERTALE/DELTARUNE| AND |Birds| AND |NES/SNES| AND |Lofi Hip-Hop| AND |Glam Rock| AND |YTPs/YTPMVs| AND |Nickelodeon Records| AND |Halley Labs| AND |Ghosts| AND |School/Education| AND |Big Time Rush/Stephen Glickman| AND |Pokémon Media| AND |Bedroom Pop| AND |Ray William Johnson| AND |Cowboys/Deserts/Wild West| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Pokémon Media| AND |Canines| AND |Well Known/Credited Music Producers|))"
   },
   {
     "name": "My Name Is Cobra",
@@ -685,7 +685,7 @@
       "Detective Hat Kid",
       "MTT! Tour"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing| AND |Undertale/DELTARUNE| AND (|Mysteries/Detective Media| OR |Ghosts|)))"
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing| AND |UNDERTALE/DELTARUNE| AND (|Mysteries/Detective Media| OR |Ghosts|)))"
   },
   {
     "name": "Hats Off To You, Zenigata!",
@@ -785,7 +785,7 @@
       "Bad Girlz",
       "Forum Freakshow"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Undertale/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$ha/Collaborators|))"
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |UNDERTALE/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "Your Turn To Cry",
@@ -830,7 +830,7 @@
       "Lil Darkie",
       "MTT! Tour"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Undertale/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "name": "DISINTEGRATING ROAD TO EL DORADO",
@@ -972,7 +972,7 @@
       "Lil Darkie",
       "MTT! Tour"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Undertale/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
   },
   {
     "region": "Remix Week",
@@ -1302,7 +1302,7 @@
       "MTT! Tour",
       "Head Chef Heavy"
     ],
-    "requires": "|MTT! Tour| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Valve Fan-Content| AND |Eastern European Culture| AND |Robots| AND |Undertale/DELTARUNE| AND |Glam Rock|))"
+    "requires": "|MTT! Tour| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Valve Fan-Content| AND |Eastern European Culture| AND |Robots| AND |UNDERTALE/DELTARUNE| AND |Glam Rock|))"
   },
   {
     "name": "Follow That Car! (Trap Remix)",
@@ -1627,7 +1627,7 @@
       "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |Undertale/DELTARUNE| AND |Robots|))"
+    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |UNDERTALE/DELTARUNE| AND |Robots|))"
   },
   {
     "name": "Monster Party",
@@ -1636,7 +1636,7 @@
       "Ruler of Everything",
       "MTT! Tour"
     ],
-    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |Undertale/DELTARUNE| AND |Glam Rock| AND |Felines|))"
+    "requires": "|Ruler of Everything| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Royalty| AND |UNDERTALE/DELTARUNE| AND |Glam Rock| AND |Felines|))"
   },
   {
     "name": "Be Beautiful",
@@ -1732,7 +1732,7 @@
       "Snailiens",
       "MTT! Tour"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |Space/Aliens| AND |Snail's House| AND |Felines| AND |Undertale/DELTARUNE|))"
+    "requires": "|Snailiens| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kero Kero Bonito| AND |Space/Aliens| AND |Snail's House| AND |Felines| AND |UNDERTALE/DELTARUNE|))"
   },
   {
     "name": "Pasteltrain",
@@ -1896,7 +1896,7 @@
       "MTT! Tour",
       "Bad Girlz"
     ],
-    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |Undertale/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
+    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Snail's House| AND |UNDERTALE/DELTARUNE| AND |2010/2019 Top 100 Billboards| AND |Kero Kero Bonito| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Interscope Records|)))"
   },
   {
     "name": "Your New Frontier",
@@ -2210,7 +2210,7 @@
       "Hot Ones",
       "MAD/EON"
     ],
-    "requires": "|MTT! Tour| AND |Hot Ones| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |Undertale/DELTARUNE| AND |Madeon/Collaborators|))"
+    "requires": "|MTT! Tour| AND |Hot Ones| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|88Rising/Collaborators| AND |UNDERTALE/DELTARUNE| AND |Madeon/Collaborators|))"
   },
   {
     "name": "FEAR AND MISERY",
@@ -2528,7 +2528,7 @@
     "category": [
       "gSports"
     ],
-    "requires": "|gSports|"
+    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Racing Games| AND |Advertisements/GEICO Ads| AND |Streamers/Streaming/Streamer Background Music| AND |Vehicles|))"
   },
   {
     "name": "Focused Love",
@@ -2537,7 +2537,7 @@
       "gSports",
       "River City Girls"
     ],
-    "requires": "|gSports| AND |River City Girls|"
+    "requires": "|gSports| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Chipzel| AND |Synthwave| AND |Streamers/Streaming/Streamer Background Music|))"
   },
   {
     "name": "Driving 2 Woo Hoo: Hold The Brakes!",
@@ -2547,7 +2547,7 @@
       "Gustavo Rocque",
       "gSports"
     ],
-    "requires": "|Bad Girlz| AND |Gustavo Rocque| AND |gSports|"
+    "requires": "|Bad Girlz| AND |Gustavo Rocque| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Billie Eilish/Collaborators| AND |Big Time Rush/Stephen Glickman| AND |Advertisements/GEICO Ads| AND |Vehicles| AND |Boy Bands/Their Solo Acts| AND |2010/2019 Top 100 Billboards| AND |Ke$ha/Collaborators|))"
   },
   {
     "name": "PEPSI MAN TICO TICO !!! ペプシ",
@@ -2556,7 +2556,7 @@
       "Scatman & Hatman",
       "gSports"
     ],
-    "requires": "|Scatman & Hatman| AND |gSports|"
+    "requires": "|Scatman & Hatman| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Advertisements/GEICO Ads| AND |Lou Bega|))"
   },
   {
     "region": "Round 1",
@@ -2564,7 +2564,7 @@
     "category": [
       "gSports"
     ],
-    "requires": "|gSports|"
+    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Racing Games| AND |Twitch Games/eSports Games| AND |Advertisements/GEICO Ads| AND |Streamers/Streaming/Streamer Background Music|))"
   },
   {
     "name": "Eumig and Chitlins",
@@ -2573,7 +2573,7 @@
       "Club Bangers",
       "gSports"
     ],
-    "requires": "|Club Bangers| AND |gSports|"
+    "requires": "|Club Bangers| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|French Touch| AND |Advertisements/GEICO Ads| AND |Ed Banger Records|))"
   },
   {
     "name": "Goodbye Cruiser, Hello Wuhu",
@@ -2582,7 +2582,7 @@
       "Scott the Woz",
       "gSports"
     ],
-    "requires": "|Scott the Woz| AND |gSports|"
+    "requires": "|Scott the Woz| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Scott the Woz/Collaborators| AND |Advertisements/GEICO Ads| AND |Wii Series| AND |Gaming Youtubers| AND |Super Smash Bros Originals| AND (|Mario Kart| OR |Racing Games| OR |Vehicles|)))"
   },
   {
     "region": "Winners Round 2",
@@ -2590,7 +2590,7 @@
     "category": [
       "gSports"
     ],
-    "requires": "|gSports|"
+    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Racing Games| AND |Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |Streamers/Streaming/Streamer Background Music| AND |Vehicles|))"
   },
   {
     "name": "START YOUR ENGINES",
@@ -2599,7 +2599,7 @@
       "gSports",
       "Elliana"
     ],
-    "requires": "|gSports| AND |Elliana|"
+    "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |Streamers/Streaming/Streamer Background Music| AND |Racing Games| AND |Advertisements/GEICO Ads| AND |Flight| AND |War/Explosives|))"
   },
   {
     "region": "Winners Round 2",
@@ -2608,7 +2608,7 @@
       "gSports",
       "Elliana"
     ],
-    "requires": "|gSports| AND |Elliana|"
+    "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |Advertisements/GEICO Ads| AND |Racing Games| AND |Vehicles|))"
   },
   {
     "region": "Winners Round 2",
@@ -2617,7 +2617,7 @@
       "gSports",
       "Elliana"
     ],
-    "requires": "|gSports| AND |Elliana|"
+    "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |War/Explosives| AND |FGC Competitions/2D Fighting Games|))"
   },
   {
     "region": "Winners Round 2",
@@ -2626,7 +2626,7 @@
       "gSports",
       "Elliana"
     ],
-    "requires": "|gSports| AND |Elliana|"
+    "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Racing Games| AND |Advertisements/GEICO Ads| AND (|Vehicles| OR |Flight|) AND |Rivals of Aether/flashygoodness| AND |FGC Competitions/2D Fighting Games| AND |Twitch Games/eSports Games|))"
   },
   {
     "name": "taking my time",
@@ -2635,7 +2635,7 @@
       "gSports",
       "Lofi Girl"
     ],
-    "requires": "|gSports| AND |Lofi Girl|"
+    "requires": "|gSports| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Vehicles| AND |Advertisements/GEICO Ads| AND |Bedroom Pop|))"
   },
   {
     "name": "Death of a Rockstar",
@@ -2644,7 +2644,7 @@
       "Gustavo Rocque",
       "gSports"
     ],
-    "requires": "|Gustavo Rocque| AND |gSports|"
+    "requires": "|Gustavo Rocque| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Twitch Games/eSports Games| AND |Boy Bands/Their Solo Acts| AND |Big Time Rush/Stephen Glickman|))"
   },
   {
     "name": "Phantom Trio",
@@ -4036,7 +4036,7 @@
     "category": [
       "gSports"
     ],
-    "requires": "|gSports|"
+    "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music))"
   },
   {
     "region": "Losers Round 2",
@@ -4053,7 +4053,7 @@
       "gSports",
       "Cadence"
     ],
-    "requires": "|gSports| AND |Cadence|"
+    "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music| AND |Advertisements/GEICO Ads| AND |Rhythm Games| AND |Vehicles|))"
   },
   {
     "region": "Losers Round 2",
@@ -4062,7 +4062,7 @@
       "gSports",
       "Cadence"
     ],
-    "requires": "|gSports| AND |Cadence|"
+    "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Twitch Games/eSports Games| AND |Danny Baranowsky| AND |Rhythm Games| AND |Advertisements/GEICO Ads| AND |Dungeon Crawlers| AND |Vehicles|))"
   },
   {
     "region": "Losers Round 2",
@@ -4071,7 +4071,7 @@
       "gSports",
       "Cadence"
     ],
-    "requires": "|gSports| AND |Cadence|"
+    "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Racing Games| AND |Dungeon Crawlers| AND |Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |Vehicles| AND |Rhythm Games| AND |Streamers/Streaming/Streamer Background Music|))"
   },
   {
     "region": "Losers Round 2",
@@ -4080,7 +4080,7 @@
       "gSports",
       "Cadence"
     ],
-    "requires": "|gSports| AND |Cadence|"
+    "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Racing Games| AND |Rhythm Games| AND |Roguelikes| AND |Advertisements/GEICO Ads| AND |Vehicles|))"
   },
   {
     "name": "ナイトヴェールへようこそ",
