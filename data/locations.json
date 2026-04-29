@@ -3039,7 +3039,7 @@
     "category": [
       "Rick Hentai"
     ],
-    "requires": "|Rick Hentai|"
+    "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Sexual Themes|))"
   },
   {
     "name": "Out Of Sweet Touches",
@@ -3047,7 +3047,7 @@
     "category": [
       "Rick Hentai"
     ],
-    "requires": "|Rick Hentai|"
+    "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| and |Rick Astley| AND |80s New Wave| AND |Bait-And-Switch|))"
   },
   {
     "region": "Round 1",
@@ -3055,7 +3055,7 @@
     "category": [
       "Rick Hentai"
     ],
-    "requires": "|Rick Hentai|"
+    "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Pre-2012 Internet Culture| AND |Rick Astley| AND |Bait-And-Switch| AND |Sexual Themes| AND |Otaku Culture|))"
   },
   {
     "name": "RAVE CYCLES (( 焚き火です)) ! // ♡☆♡",
@@ -3064,7 +3064,7 @@
       "Rick Hentai",
       "Forum Freakshow"
     ],
-    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+    "requires": "|Rick Hentai| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Happy Hardcore| AND |SoundClowns| AND |Ray William Johnson| AND (|80s New Wave| OR |Sexual Themes|)))"
   },
   {
     "name": "Audiophile",
@@ -3073,7 +3073,7 @@
       "Rick Hentai",
       "Forum Freakshow"
     ],
-    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+    "requires": "|Rick Hentai| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|80s New Wave| AND |Halley Labs| AND |SoundClowns| AND |Pre-2012 Internet Culture| AND |Otaku Culture| AND (|YTPs/YTPMVs| OR |Keygen|)))"
   },
   {
     "name": "Epic Rap Battles of Megamix. Forum Freakshow vs Rick Hentai.",
@@ -3090,7 +3090,7 @@
     "category": [
       "Rick Hentai"
     ],
-    "requires": "|Rick Hentai|"
+    "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Otaku Culture| AND |80s New Wave| AND |Sexual Themes|))"
   },
   {
     "name": "D.A.A.N.A.C.C.E CYCLES ((スポットライトの下で)) ! // ♡☆♡",
@@ -3099,7 +3099,7 @@
       "Rick Hentai",
       "Forum Freakshow"
     ],
-    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+    "requires": "|Rick Hentai| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Happy Hardcore| AND |SoundClowns| AND |Sexual Themes| AND |Pre-2012 Internet Culture| AND |Ray William Johnson|))"
   },
   {
     "name": "take-on-mi",
@@ -3108,7 +3108,7 @@
       "MAD/EON",
       "Rick Hentai"
     ],
-    "requires": "|MAD/EON| AND |Rick Hentai|"
+    "requires": "|MAD/EON| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Otaku Culture| AND |Bait-And-Switch| AND |80s New Wave| AND (|S3RL| OR |Happy Hardcore| OR |Sexual Themes|)))"
   },
   {
     "name": "Claustrophobia",
@@ -3117,7 +3117,7 @@
       "MAD/EON",
       "Rick Hentai"
     ],
-    "requires": "|MAD/EON| AND |Rick Hentai|"
+    "requires": "|MAD/EON| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Sexual Themes| AND |Industrial/Dark Techno| AND |ARGs| AND |80s New Wave|))"
   },
   {
     "name": "Consider Your Ground STAMPED!",
@@ -3126,7 +3126,7 @@
       "Reanimatedd",
       "Rick Hentai"
     ],
-    "requires": "|Reanimatedd| AND |Rick Hentai|"
+    "requires": "|Reanimatedd| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Newgrounds Creators/Creations| AND |Pre-2012 Internet Culture| AND |Happy Hardcore| AND (|S3RL| OR |Sexual Themes|)))"
   },
   {
     "name": "It Takes 2 Players To Tango!",
@@ -3916,7 +3916,7 @@
     "category": [
       "Rick Hentai"
     ],
-    "requires": "|Rick Hentai|"
+    "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Pre-2012 Internet Culture| AND |Rick Astley| AND |80s New Wave|))"
   },
   {
     "region": "Losers Round 2",
@@ -3933,7 +3933,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers|"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Pre-2012 Internet Culture| AND |Bait-And-Switch| AND (|S3RL| OR |Happy Hardcore|) AND |Gigi D'Agostino| AND |Fatman Scoop|))"
   },
   {
     "region": "Losers Round 2",
@@ -3942,7 +3942,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers|"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Sexual Themes| AND |80s New Wave| AND |Bait-And-Switch| AND |Pre-2012 Internet Culture| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Ed Banger Records| AND |Big Beat| AND |French House|))"
   },
   {
     "region": "Losers Round 2",
@@ -3951,7 +3951,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers|"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Ed Banger Records|))"
   },
   {
     "region": "Losers Round 2",
@@ -3960,7 +3960,7 @@
       "Rick Hentai",
       "Club Bangers"
     ],
-    "requires": "|Rick Hentai| AND |Club Bangers|"
+    "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Ed Banger Records| AND |Rick Astley| AND |80s New Wave| AND |Fatman Scoop| AND |Pre-2012 Internet Culture| AND |Bait-And-Switch| AND |Big Beat| AND |French House| AND |Plunderphonics| AND |Gigi D'Agostino| AND |Otaku Culture| AND |Turntablism|))"
   },
   {
     "name": "THE-SPECTER'S-MONOLITH",
