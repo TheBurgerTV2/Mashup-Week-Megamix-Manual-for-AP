@@ -3134,7 +3134,7 @@
     "category": [
       "River City Girls"
     ],
-    "requires": "|River City Girls|"
+    "requires": "|River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Beat-Em-Ups| AND |Synthwave|))"
   },
   {
     "name": "Let's Go Paint The Town RED!",
@@ -3142,7 +3142,7 @@
     "category": [
       "River City Girls"
     ],
-    "requires": "|River City Girls|"
+    "requires": "|River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthwave|)"
   },
   {
     "name": "Keep the Crazy Groovin'",
@@ -3150,7 +3150,7 @@
     "category": [
       "River City Girls"
     ],
-    "requires": "|River City Girls|"
+    "requires": "|River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Beat-Em-Ups|)"
   },
   {
     "name": "Lovely Surf~",
@@ -3158,7 +3158,7 @@
     "category": [
       "River City Girls"
     ],
-    "requires": "|River City Girls|"
+    "requires": "|River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Wayforward| AND |Beat-Em-Ups| AND |Arc System Works|))"
   },
   {
     "name": "Whose World Is It?",
@@ -3166,7 +3166,7 @@
     "category": [
       "Reanimatedd"
     ],
-    "requires": "|Reanimatedd|"
+    "requires": "|Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators|))"
   },
   {
     "name": "Electrose Thribello",
@@ -3174,7 +3174,7 @@
     "category": [
       "Reanimatedd"
     ],
-    "requires": "|Reanimatedd|"
+    "requires": "|Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Animated Webseries/Indie Web Animation| AND |Newgrounds Creators/Creations| AND |Zombies| AND |Eddsworld/Collaborators|))"
   },
   {
     "name": "Screaming Sleepyedds",
@@ -3183,7 +3183,7 @@
       "Reanimatedd",
       "Painful Dreamers"
     ],
-    "requires": "|Reanimatedd| AND |Painful Dreamers|"
+    "requires": "|Reanimatedd| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Flash Creators/Creations| AND |Eddsworld/Collaborators| AND |Drugs| AND (|Newgrounds Creators/Creations| AND |The Apocalypse|)))"
   },
   {
     "name": "asdfmovie80",
@@ -3191,7 +3191,7 @@
     "category": [
       "Reanimatedd"
     ],
-    "requires": "|Reanimatedd|"
+    "requires": "|Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND |Zombies| AND |Animated Webseries/Indie Web Animation|))"
   },
   {
     "name": "Off The Meds",
@@ -4676,7 +4676,7 @@
     "category": [
       "River City Girls"
     ],
-    "requires": "|River City Girls|"
+    "requires": "|River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthpop| AND |Beat-Em-Ups|))"
   },
   {
     "name": "Sing Your Heart Out",
@@ -4730,7 +4730,7 @@
       "Lofi Girl",
       "River City Girls"
     ],
-    "requires": "|Lofi Girl| AND |River City Girls|"
+    "requires": "|Lofi Girl| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Wayforward| AND |Bedroom Pop| AND |Synthwave| AND |Studio Ghibli|))"
   },
   {
     "name": "Don't Fly Too Far",
