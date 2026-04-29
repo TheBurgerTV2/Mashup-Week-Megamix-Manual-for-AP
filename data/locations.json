@@ -2652,7 +2652,7 @@
     "category": [
       "MTT! Tour"
     ],
-    "requires": "|MTT! Tour|"
+    "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Felines|))"
   },
   {
     "name": "TARI COREBUR COREBUR",
@@ -2661,7 +2661,7 @@
       "MTT! Tour",
       "Rick Hentai"
     ],
-    "requires": "|MTT! Tour| AND |Rick Hentai|"
+    "requires": "|MTT! Tour| AND |Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Glam Rock| AND |Ghosts| AND |Bait-And-Switch| AND |Pre-2012 Internet Culture| AND |Sexual Themes|))"
   },
   {
     "name": "But Nobody Came",
@@ -2669,7 +2669,7 @@
     "category": [
       "MTT! Tour"
     ],
-    "requires": "|MTT! Tour|"
+    "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE|))"
   },
   {
     "name": "Chasing That Rush",
@@ -2678,7 +2678,7 @@
       "MTT! Tour",
       "Gustavo Rocque"
     ],
-    "requires": "|MTT! Tour| AND |Gustavo Rocque|"
+    "requires": "|MTT! Tour| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts| AND (|Felines| OR |Nickelodeon Records|) AND (|Nickelodeon Media| OR |Live Action Sitcoms|)))"
   },
   {
     "name": "What's That Noise?",
@@ -2686,7 +2686,7 @@
     "category": [
       "MTT! Tour"
     ],
-    "requires": "|MTT! Tour|"
+    "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Robots| AND (|UNDERTALE/DELTARUNE| OR |Ghosts|)))"
   },
   {
     "region": "Losers Round 1",
@@ -2695,7 +2695,7 @@
       "MTT! Tour",
       "Club Bangers"
     ],
-    "requires": "|MTT! Tour| AND |Club Bangers|"
+    "requires": "|MTT! Tour| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |French Touch| AND |Ed Banger Records| AND (|Ghosts| OR |Plunderphonics|)))"
   },
   {
     "region": "Losers Round 1",
@@ -2704,7 +2704,7 @@
       "MTT! Tour",
       "Club Bangers"
     ],
-    "requires": "|MTT! Tour| AND |Club Bangers|"
+    "requires": "|MTT! Tour| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |French Touch| AND |Ed Banger Records| AND |Gigi D'Agostino|))"
   },
   {
     "region": "Losers Round 1",
@@ -2713,7 +2713,7 @@
       "MTT! Tour",
       "Club Bangers"
     ],
-    "requires": "|MTT! Tour| AND |Club Bangers|"
+    "requires": "|MTT! Tour| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Felines| AND |Ghosts| AND |Fatman Scoop| AND |Ed Banger Records| AND |Gigi D'Agostino| AND |Turntablism| AND |Big Beat| AND (|Robots| OR |French Touch|)))"
   },
   {
     "name": "Digital Hopes And Dreams Dreams Dreams",
@@ -2722,7 +2722,7 @@
       "MAD/EON",
       "MTT! Tour"
     ],
-    "requires": "|MAD/EON| AND |MTT! Tour|"
+    "requires": "|MAD/EON| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Robots| AND |Madeon/Collaborators|))"
   },
   {
     "name": "Taking Over National Television",
@@ -2730,7 +2730,7 @@
     "category": [
       "MTT! Tour"
     ],
-    "requires": "|MTT! Tour|"
+    "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Robots| AND |Glam Rock|))"
   },
   {
     "name": "The Beginning Of The End",
@@ -2739,7 +2739,7 @@
       "Cadence",
       "MTT! Tour"
     ],
-    "requires": "|Cadence| AND |MTT! Tour|"
+    "requires": "|Cadence| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR ((|Roguelikes| AND |UNDERTALE/DELTARUNE||) OR (|Dungeon Crawlers| AND |Felines|) OR (|Roguelikes| AND |Felines|)))"
   },
   {
     "name": "Manic, Iconic, Metallic",
@@ -2749,7 +2749,7 @@
       "Susie Haltmann",
       "MTT! Tour"
     ],
-    "requires": "|Forum Freakshow| AND |Susie Haltmann| AND |MTT! Tour|"
+    "requires": "|Forum Freakshow| AND |Susie Haltmann| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Robots| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Kirby| AND |General Working/Corporations/Factories|))"
   },
   {
     "name": "#AEROSOL // CORE",
@@ -2757,7 +2757,7 @@
     "category": [
       "MTT! Tour"
     ],
-    "requires": "|MTT! Tour|"
+    "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE|))"
   },
   {
     "name": "Potion Diamond Funk",
@@ -2766,7 +2766,7 @@
       "MTT! Tour",
       "Netherrack Nightmares"
     ],
-    "requires": "|MTT! Tour| AND |Netherrack Nightmares|"
+    "requires": "|MTT! Tour| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Robots| AND |Minecraft| AND |Videogame Mods|))"
   },
   {
     "name": "Minecrap",
@@ -2775,7 +2775,7 @@
       "MTT! Tour",
       "Netherrack Nightmares"
     ],
-    "requires": "|MTT! Tour| AND |Netherrack Nightmares|"
+    "requires": "|MTT! Tour| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Minecraft|))"
   },
   {
     "name": "Eurodancin' Around The World",
