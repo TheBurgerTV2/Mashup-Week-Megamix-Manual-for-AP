@@ -3445,7 +3445,7 @@
     "category": [
       "Elliana"
     ],
-    "requires": "|Elliana|"
+    "requires": "|Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rivals of Aether/flashygoodness| AND |VGM/Chiptune Influenced EDM| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives| AND |Flight|))"
   },
   {
     "name": "Psycho Soldier",
@@ -3453,7 +3453,7 @@
     "category": [
       "Elliana"
     ],
-    "requires": "|Elliana|"
+    "requires": "|Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |War/Explosives|))"
   },
   {
     "region": "Round 1",
@@ -3461,7 +3461,7 @@
     "category": [
       "Elliana"
     ],
-    "requires": "|Elliana|"
+    "requires": "|Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|War/Explosives| AND |FGC Competitions/2D Fighting Games|))"
   },
   {
     "name": "The War On Nazareth",
@@ -3470,7 +3470,7 @@
       "Elliana",
       "Club Bangers"
     ],
-    "requires": "|Elliana| AND |Club Bangers|"
+    "requires": "|Elliana| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|French Touch| AND |Ed Banger Records| AND (|Plunderphonics| OR (|Flight| AND |War/Explosives|))))"
   },
   {
     "name": "Bombs Over My Mind",
@@ -3478,7 +3478,7 @@
     "category": [
       "Elliana"
     ],
-    "requires": "|Elliana|"
+    "requires": "|Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |War/Explosives|))"
   },
   {
     "name": "MUSIC MADE ME FEEL NOTHING",
@@ -3486,7 +3486,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGs| AND |Industrial/Dark Techno| AND |Madeon/Collaborators|))"
   },
   {
     "name": "You May Find It Hard To Breathe",
@@ -3494,7 +3494,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Industrial/Dark Techno|))"
   },
   {
     "name": "Adventurous (live mashup)",
@@ -3502,7 +3502,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators|))"
   },
   {
     "name": "Home (Evil Edit)",
@@ -3510,7 +3510,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators|))"
   },
   {
     "name": "A Joyous Miracle",
@@ -3519,7 +3519,7 @@
       "MAD/EON",
       "Club Bangers"
     ],
-    "requires": "|MAD/EON| AND |Club Bangers|"
+    "requires": "|MAD/EON| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Fatman Scoop| AND (|French Touch| OR |Ed Banger Records|) AND (|Gigi D'Agostino| OR |Plunderphonics|)))"
   },
   {
     "name": "Two Steps Back",
@@ -3527,7 +3527,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Industrial/Dark Techno| AND |Madeon/Collaborators|))"
   },
   {
     "name": "THE ADVENTURE NEVER ENDS",
@@ -3535,7 +3535,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators|))"
   },
   {
     "name": "sketchbook",
@@ -3543,7 +3543,7 @@
     "category": [
       "Lofi Girl"
     ],
-    "requires": "|Lofi Girl|"
+    "requires": "|Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lofi Hip-Hop| AND |School/Education| AND |Shiloh Dynasty|))"
   },
   {
     "name": "sofia's bike",
@@ -3551,7 +3551,7 @@
     "category": [
       "Lofi Girl"
     ],
-    "requires": "|Lofi Girl|"
+    "requires": "|Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Lofi Hip-Hop| AND |Bedroom Pop| AND |School/Education|))"
   },
   {
     "name": "brings out the tiger in you",
@@ -3559,7 +3559,7 @@
     "category": [
       "Lofi Girl"
     ],
-    "requires": "|Lofi Girl|"
+    "requires": "|Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|School/Education|))"
   },
   {
     "name": "audio test",
@@ -3567,7 +3567,7 @@
     "category": [
       "Lofi Girl"
     ],
-    "requires": "|Lofi Girl|"
+    "requires": "|Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|School/Education| AND |Studio Ghibli|))"
   },
   {
     "name": "feeling anxious",
@@ -3576,7 +3576,7 @@
       "Lofi Girl",
       "Scott the Woz"
     ],
-    "requires": "|Lofi Girl| AND |Scott the Woz|"
+    "requires": "|Lofi Girl| AND |Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Studio Ghibli| AND (|Lofi Hip-Hop| AND |Gaming Youtubers|) OR (|Gaming Youtubers| AND |Scott the Woz/Collaborators|) AND (|Lofi Hip-Hop| AND |Scott the Woz/Collaborators| AND |School/Education|)))"
   },
   {
     "name": "Looking For The Perfect Girl",
@@ -3584,7 +3584,7 @@
     "category": [
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque|"
+    "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Boy Bands/Their Solo Acts| AND |Nickelodeon Records| AND |Big Time Rush/Stephen Glickman| AND |Live Action Sitcoms|))"
   },
   {
     "region": "Round 1",
@@ -3592,7 +3592,7 @@
     "category": [
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque|"
+    "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Nickelodeon Media| AND |Well Known/Credited Music Producers| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts|))"
   },
   {
     "name": "Retroland Rocquefeller",
@@ -3600,7 +3600,7 @@
     "category": [
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque|"
+    "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Live Action Sitcoms| AND |Big Time Rush/Stephen Glickman| AND |Nickelodeon Media|))"
   },
   {
     "name": "Season Finale",
@@ -3608,7 +3608,7 @@
     "category": [
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque|"
+    "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Live Action Sitcoms| AND |Nickelodeon Records| AND |Boy Bands/Their Solo Acts| AND |Big Time Rush/Stephen Glickman| AND |Well Known/Credited Music Producers|))"
   },
   {
     "name": "EdRec Megamix",
@@ -3616,7 +3616,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Big Beat| AND |Turntablism|))"
   },
   {
     "name": "The Titular Club Banger",
@@ -3624,7 +3624,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Plunderphonics|))"
   },
   {
     "name": "Born To Be A Loser",
@@ -3632,7 +3632,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Plunderphonics| AND |Ed Banger Records| AND |French Touch|))"
   },
   {
     "name": "Caoutchouc",
@@ -3640,7 +3640,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Gigi D'Agostino|))"
   },
   {
     "name": "FLATATA",
@@ -3648,7 +3648,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Fatman Scoop|))"
   },
   {
     "region": "Remix Week",
@@ -3656,7 +3656,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |French Touch| AND |Turntablism| AND |Fatman Scoop| AND |Big Beat| AND |Gigi D'Agostino|))"
   },
   {
     "region": "Remix Week",
@@ -3664,7 +3664,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Gigi D'Agostino| AND |Fatman Scoop|))"
   },
   {
     "region": "Remix Week",
@@ -3673,7 +3673,7 @@
       "Scott the Woz",
       "Club Bangers"
     ],
-    "requires": "|Scott the Woz| AND |Club Bangers|"
+    "requires": "|Scott the Woz| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gigi D'Agostino| AND (|Notable Scott the Woz Games| OR |Mario Kart|)))"
   },
   {
     "name": "Battlefield",
@@ -3697,7 +3697,7 @@
     "category": [
       "Scott the Woz"
     ],
-    "requires": "|Scott the Woz|"
+    "requires": "|Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Notable Scott the Woz Games|))"
   },
   {
     "name": "jareds escape (someone stop him)",
@@ -3705,7 +3705,7 @@
     "category": [
       "Scott the Woz"
     ],
-    "requires": "|Scott the Woz|"
+    "requires": "|Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gaming Youtubers| AND |Scott the Woz/Collaborators|))"
   },
   {
     "name": "holy fuck scott the woz",
@@ -3713,7 +3713,7 @@
     "category": [
       "Scott the Woz"
     ],
-    "requires": "|Scott the Woz|"
+    "requires": "|Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Scott the Woz/Collaborators| AND |Notable Scott the Woz Games| AND |Gaming Youtubers|))"
   },
   {
     "name": "Electric Tubes",
@@ -3721,7 +3721,7 @@
     "category": [
       "Susie Haltmann"
     ],
-    "requires": "|Susie Haltmann|"
+    "requires": "|Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kirby| AND |2nd-Party Nintendo Games|))"
   },
   {
     "name": "Right Time, Right Place",
@@ -3729,7 +3729,7 @@
     "category": [
       "Susie Haltmann"
     ],
-    "requires": "|Susie Haltmann|"
+    "requires": "|Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|HAL Laboratories| AND |3DS Exclusives| AND |General Working/Corporations/Factories|))"
   },
   {
     "name": "What Dads Are Made For!",
@@ -3872,7 +3872,7 @@
     "category": [
       "MAD/EON"
     ],
-    "requires": "|MAD/EON|"
+    "requires": "|MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Industrial/Dark Techno| AND |ARGs| AND |Madeon/Collaborators|))"
   },
   {
     "name": "persephone",
@@ -4765,7 +4765,7 @@
     "category": [
       "Gustavo Rocque"
     ],
-    "requires": "|Gustavo Rocque|"
+    "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Boy Bands/Their Solo Acts| AND |Big Time Rush/Stephen Glickman| AND |Well Known/Credited Music Producers| AND |Live Action Sitcoms| AND |Nickelodeon Records| AND |Nickelodeon Media|))"
   },
   {
     "name": "Love, Sex, & Money",
