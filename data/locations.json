@@ -3804,7 +3804,7 @@
       "MTT! Tour",
       "gSports"
     ],
-    "requires": "|MTT! Tour| AND |gSports|"
+    "requires": "|MTT! Tour| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Advertisements/GEICO Ads| AND |Vehicles|))"
   },
   {
     "name": "Kick Back With The Mack",
@@ -3924,7 +3924,7 @@
     "category": [
       "Club Bangers"
     ],
-    "requires": "|Club Bangers|"
+    "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|French Touch| AND |Big Beat| AND |Ed Banger Records|))"
   },
   {
     "region": "Losers Round 2",
