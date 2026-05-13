@@ -4682,7 +4682,7 @@
     "name": "Sing Your Heart Out",
     "region": "Losers Round 2",
     "category": [
-      "Black Mamba Farquaa",
+      "Black Mamba Farquaad",
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Synthwave| AND |Synthpop| AND |Smash Mouth/Shrek Artists|))"
@@ -4691,7 +4691,7 @@
     "name": "Blind Obsession",
     "region": "Losers Round 2",
     "category": [
-      "Black Mamba Farquaa",
+      "Black Mamba Farquaad",
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |Dreamworks| AND |Wayforward| AND |Arc System Works|))"
@@ -4700,7 +4700,7 @@
     "name": "Toxic Relation-ship",
     "region": "Losers Round 2",
     "category": [
-      "Black Mamba Farquaa",
+      "Black Mamba Farquaad",
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |Dreamworks| AND |Synthpop|))"
@@ -4709,7 +4709,7 @@
     "name": "Final Right to Fight",
     "region": "Losers Round 2",
     "category": [
-      "Black Mamba Farquaa",
+      "Black Mamba Farquaad",
       "River City Girls"
     ],
     "requires": "|Black Mamba Farquaad| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Beat-Em-Ups| AND |Arc System Works| AND |Smash Mouth/Shrek Artists| AND |Dreamworks|))"
