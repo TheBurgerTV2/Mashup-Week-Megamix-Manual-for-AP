@@ -1,5 +1,5 @@
 {
-    "game": "manual_mwmm_theburger",
+    "game": "Manual_mwmm_theburger",
 	"authors": ["theburger", "fung"],
     "minimum_ap_version": "0.6.7",
     "world_version": "2.1.0", 
