@@ -103,8 +103,8 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 
 
-    # Add source items to starting inventory
-    sourcesanity = world.options.Sourcesanity.value
+    # Add source items to starting inventory (disabled for now)
+    sourcesanity = False
     if sourcesanity:
         for char in starting_characters:
             character_source_item_names = [name for name, i in world.item_name_to_item.items() if f"{char.name} Source" in i.get("category", [])]
@@ -112,6 +112,10 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
             for item in character_source_items:
                 multiworld.push_precollected(item)
                 item_pool.remove(item)
+    every_source = [name for name, i in world.item_name_to_item.items() if f"Source" in i.get("category", [])]
+    every_source_items = [i for i in item_pool if i.name in every_source and i.player == player]
+    for item in every_source_items:
+        item_pool.remove(item)
 
 
 

@@ -55,11 +55,12 @@ class LocalFill(Range):
     Approximately 69 filler items are exempt from this setting."""
     range_start = 0
     range_end = 100
-    default = 25
+    default = 0
 
 class Sourcesanity(Toggle):
-    """Adds characters sources into the pool, adding 183 progression items into the pool.
-    do note that this can result in very restrictive seeds. This option probably sucks ass."""
+    """WARNING: THIS SETTING DOES NOTHING RIGHT NOW, AND WILL NOT DO ANYTHING FOR A LONG TIME!
+    Adds characters sources into the pool, adding 183 progression items into the pool.
+    do note that this can result in very restrictive seeds. This option sucked ass."""
     default = False
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
@@ -69,7 +70,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["enable_rick_hentai"] = EnableRickHentai
     options["enable_lil_darkie"] = EnableLilDarkie
     options["local_fill"] = LocalFill
-    options["Sourcesanity"] = Sourcesanity
+    # options["Sourcesanity"] = Sourcesanity
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

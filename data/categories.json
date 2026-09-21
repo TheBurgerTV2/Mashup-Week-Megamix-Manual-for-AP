@@ -5,9 +5,6 @@
     "Lil Darkie": {
         "yaml_option": ["enable_lil_darkie"]
     },
-    "Source": {
-        "yaml_option": ["Sourcesanity"]
-    },
     "Ace D. Copular Source": {
         "hidden": true
     },
