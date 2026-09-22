@@ -297,6 +297,22 @@
   },
   {
     "count": 1,
+    "name": "Discoholic",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cici",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Pre-Bracket",
     "category": [
       "Era"
@@ -2006,7 +2022,7 @@
   },
   {
     "count": "1",
-    "name": "Filler & The Grinch",
+    "name": "5 Rotten Eggs",
     "category": ["Filler"],
     "Filler": true
   },
@@ -2036,7 +2052,7 @@
   },
   {
     "count": "1",
-    "name": "Mann Co. Filler Crate",
+    "name": "Cash Bundle",
     "category": ["Filler"],
     "Filler": true
   },
@@ -2078,7 +2094,7 @@
   },
   {
     "count": "1",
-    "name": "Townsville brand Filler",
+    "name": "Green Filler (for an amazing reason)",
     "category": ["Filler"],
     "Filler": true
   },
@@ -2193,6 +2209,18 @@
   {
     "count": "1",
     "name": "Little Star",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Refill-er",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "Filler (that was once a chair)",
     "category": ["Filler"],
     "Filler": true
   },

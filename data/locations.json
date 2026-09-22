@@ -1320,9 +1320,10 @@
       "Forum Freakshow",
       "Scott the Woz",
       "Head Chef Heavy",
-      "gSports"
+      "gSports",
+      "Cici"
     ],
-    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND |Scott the Woz| AND |gSports| AND ({sourcesanity_always_true()} OR (|YTPs/YTPMVs| AND |SoundClowns| AND |Scott the Woz/Collaborators| AND |Vehicles| AND |Notable Scott the Woz Games| AND |Eastern European Culture| AND |Valve Properties| AND |Wii Series| AND |Advertisements/GEICO Ads| AND |Gaming Youtubers| AND |SoundCloud Rappers| AND |Food/Culinary Arts| AND |Ray William Johnson|))"
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND |Scott the Woz| AND |gSports| AND |Cici| AND ({sourcesanity_always_true()} OR (|YTPs/YTPMVs| AND |SoundClowns| AND |Scott the Woz/Collaborators| AND |Vehicles| AND |Notable Scott the Woz Games| AND |Eastern European Culture| AND |Valve Properties| AND |Wii Series| AND |Advertisements/GEICO Ads| AND |Gaming Youtubers| AND |SoundCloud Rappers| AND |Food/Culinary Arts| AND |Ray William Johnson|))"
   },
   {
     "name": "Schadenfreude",
@@ -3767,9 +3768,9 @@
     "name": "A Funky Return To The Afterlife",
     "region": "Remix Week",
     "category": [
-      "Misc"
+      "Cici"
     ],
-    "requires": []
+    "requires": "|Cici|"
   },
   {
     "region": "Losers Round 2",
@@ -4794,5 +4795,754 @@
       "Neil Cipher"
     ],
     "requires": "|Rick Hentai| AND |Tyler & The Grinch| AND |Neil Cipher| AND ({sourcesanity_always_true()} OR (|80s New Wave| AND |Otaku Culture| AND |Neil Cicierega| AND |Tyler, the Creator/Collaborators| AND |Sexual Themes| AND |Christmas/Winter/Snow/Ice| AND |Disney Channel/Disney XD|))"
+  },
+  {
+    "name": "Shake n' Stir",
+    "region": "Losers Round 2",
+    "category": [
+      "Discoholic"
+    ],
+    "requires": "|Discoholic|"
+  },
+  {
+    "name": "REAP WHAT I SOW.",
+    "region": "Losers Round 2",
+    "category": [
+      "Cici"
+    ],
+    "requires": "|Cici|"
+  },
+  {
+    "name": "Round The Corner: A 1-2 Medley",
+    "region": "Losers Round 2",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Head Chef Heavy",
+      "gSports",
+      "Neil Cipher",
+      "Rick Hentai",
+      "Bad Girlz",
+      "Black Mamba Farquaad",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Head Chef Heavy| AND |Neil Cipher| AND |gSports| AND |Bad Girlz| AND |Rick Hentai| AND |Black Mamba Farquaad| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "bird watching",
+    "region": "Losers Round 2",
+    "category": [
+      "Playing With Power!"
+    ],
+    "requires": "|Playing With Power!|"
+  },
+  {
+    "name": "For Life, I Hoop",
+    "region": "Losers Round 2",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Evil Beware!",
+    "region": "Losers Round 2",
+    "category": [
+      "Evil Beware!"
+    ],
+    "requires": "|Evil Beware!|"
+  },
+  {
+    "name": "THE GIRLZ R GIRLING",
+    "region": "Losers Round 2",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "theVRstands[4]VEG.REPLACE",
+    "region": "Losers Round 2",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Stranded Lullaby",
+    "region": "Losers Round 2",
+    "category": [
+      "Ruler of Everything"
+    ],
+    "requires": "|Ruler of Everything|"
+  },
+  {
+    "name": "Roll-dwelling",
+    "region": "Losers Round 2",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "daybreak",
+    "region": "Losers Round 2",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "Heavy Bagels 2",
+    "region": "Losers Round 2",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "Null And Void",
+    "region": "Losers Round 2",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Nautical Nonsense",
+    "region": "Losers Round 2",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Stream's Ending!",
+    "region": "Losers Round 2",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "Our Pain Brings Us Closer",
+    "region": "Losers Round 2",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "Shat",
+    "region": "Losers Round 2",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Hot & Stupid",
+    "region": "Losers Round 2",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "DETECTIVE FUNK!",
+    "region": "Losers Round 2",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "fractureiser",
+    "region": "Losers Round 2",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Strong Bad's Cocktail",
+    "region": "Losers Round 2",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "This Is MY Kingdom!",
+    "region": "Losers Round 2",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "MTT Presents: Heart to Heart!",
+    "region": "Losers Round 2",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "Super Samba RPG",
+    "region": "Losers Round 2",
+    "category": [
+      "Scatman & Hatman",
+      "Playing With Power!"
+    ],
+    "requires": "|Scatman & Hatman| AND |Playing With Power!|"
+  },
+  {
+    "name": "Old School",
+    "region": "Losers Round 2",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Lofi Girl"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Lofi Girl|"
+  },
+  {
+    "name": "Heads Will Roll / DANCE TILL YOU'RE DEAD",
+    "region": "Losers Round 2",
+    "category": [
+      "Lil Darkie",
+      "Forum Freakshow"
+    ],
+    "requires": "|Lil Darkie| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Paper $ounds",
+    "region": "Losers Round 2",
+    "category": [
+      "Kid Cobra",
+      "Bad Girlz"
+    ],
+    "requires": "|Kid Cobra| AND |Bad Girlz|"
+  },
+  {
+    "name": "Razor Claw",
+    "region": "Losers Round 2",
+    "category": [
+      "Guzma",
+      "Scott the Woz"
+    ],
+    "requires": "|Guzma| AND |Scott the Woz|"
+  },
+  {
+    "name": "Attached to the Struggle",
+    "region": "Losers Round 2",
+    "category": [
+      "Tyler & The Grinch",
+      "Detective Hat Kid"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid|"
+  },
+  {
+    "name": "Hyperscape",
+    "region": "Losers Round 2",
+    "category": [
+      "MONSTERMAU5",
+      "Rick Hentai"
+    ],
+    "requires": "|MONSTERMAU5| AND |Rick Hentai|"
+  },
+  {
+    "name": "CASTROPHANY",
+    "region": "Losers Round 2",
+    "category": [
+      "Ace D. Copular",
+      "MTT! Tour"
+    ],
+    "requires": "|Ace D. Copular| AND |MTT! Tour|"
+  },
+  {
+    "name": "Sundown At Ravenholm",
+    "region": "Losers Round 2",
+    "category": [
+      "Head Chef Heavy",
+      "Painful Dreamers"
+    ],
+    "requires": "|Head Chef Heavy| AND |Painful Dreamers|"
+  },
+  {
+    "name": "asmru4real",
+    "region": "Losers Round 2",
+    "category": [
+      "Ruler of Everything",
+      "Hot Ones"
+    ],
+    "requires": "|Ruler of Everything| AND |Hot Ones|"
+  },
+  {
+    "name": "Waters of Megaulosvania",
+    "region": "Losers Round 2",
+    "category": [
+      "Forum Freakshow",
+      "Club Bangers"
+    ],
+    "requires": "|Forum Freakshow| AND |Club Bangers|"
+  },
+  {
+    "name": "CUT★THE★BREAKS",
+    "region": "Losers Round 2",
+    "category": [
+      "Detective Hat Kid",
+      "gSports"
+    ],
+    "requires": "|Detective Hat Kid| AND |gSports|"
+  },
+  {
+    "name": "Help! I'm A Snake",
+    "region": "Losers Round 2",
+    "category": [
+      "Kid Cobra",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Kid Cobra| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "Bills Like “Wildcat” Jean Spirit",
+    "region": "Losers Round 2",
+    "category": [
+      "Neil Cipher",
+      "MTT! Tour"
+    ],
+    "requires": "|Neil Cipher| AND |MTT! Tour|"
+  },
+  {
+    "name": "Nu-Cydonia",
+    "region": "Losers Round 2",
+    "category": [
+      "Discoholic",
+      "River City Girls"
+    ],
+    "requires": "|Discoholic| AND |River City Girls|"
+  },
+  {
+    "name": "Peace At Arms Reach",
+    "region": "Losers Round 2",
+    "category": [
+      "Ace D. Copular"
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Ace D. Copular| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
+  },
+  {
+    "name": "dual song",
+    "region": "Losers Round 2",
+    "category": [
+      "character 1",
+      "chair actor 2"
+    ],
+    "requires": "|Discoholic| AND |Cici|"
   }
 ]
