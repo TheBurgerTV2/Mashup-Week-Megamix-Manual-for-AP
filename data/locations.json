@@ -5132,31 +5132,31 @@
     "requires": "|Ace D. Copular| AND |Heaven Ascension DIO|"
   },
   {
-    "name": "dual song",
+    "name": "You're A Deadman",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Netherrack Nightmares",
+      "Guzma"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Netherrack Nightmares| AND |Guzma|"
   },
   {
-    "name": "dual song",
+    "name": "odd futures",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Tyler & The Grinch",
+      "Ruler of Everything"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Tyler & The Grinch| AND |Ruler of Everything|"
   },
   {
-    "name": "dual song",
+    "name": "Motionless Ocean Floor",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Cadence",
+      "Black Mamba Farquaad"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Cadence| AND |Black Mamba Farquaad|"
   },
   {
     "name": "dual song",
