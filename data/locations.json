@@ -5159,13 +5159,13 @@
     "requires": "|Cadence| AND |Black Mamba Farquaad|"
   },
   {
-    "name": "dual song",
+    "name": "Flower Crowns",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Cici",
+      "Lofi Girl"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Lofi Girl| AND |Cici|"
   },
   {
     "name": "dual song",
