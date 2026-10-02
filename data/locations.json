@@ -5168,49 +5168,50 @@
     "requires": "|Lofi Girl| AND |Cici|"
   },
   {
-    "name": "dual song",
+    "name": "Dead In The Grave",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Tyler & The Grinch",
+      "Forum Freakshow"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Tyler & The Grinch| AND |Forum Freakshow|"
   },
   {
-    "name": "dual song",
+    "name": "A New Journey Begins By The Shore!",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Playing With Power!",
+      "Guzma",
+      "Lofi Girl"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Playing With Power!| AND |Guzma| AND |Lofi Girl|"
   },
   {
-    "name": "dual song",
+    "name": "No Comment",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Charles “All-Star” Barkley",
+      "Club Bangers"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Charles “All-Star” Barkley| AND |Club Bangers|"
   },
   {
-    "name": "dual song",
+    "name": "Bassline Passes",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Charles “All-Star” Barkley",
+      "Club Bangers"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Charles “All-Star” Barkley| AND |Club Bangers|"
   },
   {
-    "name": "dual song",
+    "name": "★ INVADERS FROM BOUNTYLAND!! ★",
     "region": "Losers Round 2",
     "category": [
-      "character 1",
-      "chair actor 2"
+      "Snailiens",
+      "Scatman & Hatman"
     ],
-    "requires": "|Discoholic| AND |Cici|"
+    "requires": "|Snailiens| AND |Scatman & Hatman|"
   },
   {
     "name": "dual song",
